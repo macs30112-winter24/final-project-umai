@@ -1,37 +1,37 @@
-borough,community,poverty.rate,city
-BX,The Bronx,26.4,New York City
-BX 01,Mott Haven,36.6,New York City
-BX 01,Melrose,36.6,New York City
-BX 02,Hunts Point,36.6,New York City
-BX 02,Longwood,36.6,New York City
-BX 03,Morrisania,35.8,New York City
-BX 03,Crotona,35.8,New York City
-BX 04,Highbridge,28.3,New York City
-BX 04,Concourse,28.3,New York City
-BX 05,Fordham,33.7,New York City
-BX 05,University Heights,33.7,New York City
-BX 06,Belmont,35.8,New York City
-BX 06,East Tremont,35.8,New York City
-BX 07,Bedford,27.1,New York City
-BX 07,Kingsbridge Heights,27.1,New York City
-BX 09,Soundview,26.7,New York City
-BX 09,Parkchester,26.7,New York City
-BK 03,Bedford Stuyvesant,24.2,New York City
-BK 04,Bushwick,24.2,New York City
-BK 07,Sunset Park,22.9,New York City
-BK 09,South Crown Heights,22.4,New York City
-BK 09,Lefferts Gardens,22.4,New York City
-BK 11,Bensonhurst,23.1,New York City
-BK 12,Borough Park,23.8,New York City
-BK 13,Coney Island,24.1,New York City
-BK 16,Brownsville,28.8,New York City
-MN 03,Chinatown,24.2,New York City
-MN 03,Lower East Side,24.2,New York City
-MN 09,Morningside Heights,25.3,New York City
-MN 09,Hamilton,25.3,New York City
-MN 10,Central Harlem,28.4,New York City
-MN 11,East Harlem,31.2,New York City
-MN 12,Washington Heights,21.0,New York City
-MN 12,Inwood,21.0,New York City
-QN 14,Rockaway,23.8,New York City
-QN 14,Broad Channel,23.8,New York City
+community,poverty.rate,city
+The Bronx,26.4,New York City
+Mott Haven,36.6,New York City
+Melrose,36.6,New York City
+Hunts Point,36.6,New York City
+Longwood,36.6,New York City
+Morrisania,35.8,New York City
+Crotona,35.8,New York City
+Highbridge,28.3,New York City
+Concourse,28.3,New York City
+Fordham,33.7,New York City
+University Heights,33.7,New York City
+Belmont,35.8,New York City
+East Tremont,35.8,New York City
+Bedford,27.1,New York City
+Kingsbridge Heights,27.1,New York City
+Soundview,26.7,New York City
+Parkchester,26.7,New York City
+Bedford Stuyvesant,24.2,New York City
+Bushwick,24.2,New York City
+Sunset Park,22.9,New York City
+South Crown Heights,22.4,New York City
+Lefferts Gardens,22.4,New York City
+Bensonhurst,23.1,New York City
+Borough Park,23.8,New York City
+Coney Island,24.1,New York City
+Brownsville,28.8,New York City
+Chinatown,24.2,New York City
+Lower East Side,24.2,New York City
+Morningside Heights,25.3,New York City
+Hamilton,25.3,New York City
+Central Harlem,28.4,New York City
+East Harlem,31.2,New York City
+Washington Heights,21.0,New York City
+Inwood,21.0,New York City
+Rockaway,23.8,New York City
+Broad Channel,23.8,New York City
