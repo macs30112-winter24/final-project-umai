@@ -1,0 +1,319 @@
+PRICE,SQFT,house.age,PROP_TYPE,PARK_DIST,HOSPITAL_D,RAIL_DIST,BUS_COUNTS,FnB_COUNTS,neighborhood,population.density,median.age,dominant.race,city
+499000,678,102,Single Family Residential,2141,2696.08022,596,33,2,Downtown,66111,38.2,White,Los Angeles City
+399000,518,102,Single Family Residential,2142,2682.737765,581,32,2,Downtown,66111,38.2,White,Los Angeles City
+545000,700,103,Single Family Residential,1170,3159.389413,918,38,2,Downtown,66111,38.2,White,Los Angeles City
+349000,472,53,Condo/Co-op,951,540.8532384,1453,43,4,Downtown,66111,38.2,White,Los Angeles City
+609900,756,128,Single Family Residential,1366,1321.823116,753,41,1,Downtown,66111,38.2,White,Los Angeles City
+39995,3224.438916,60.023669,Vacant Land,1246,6558.130685,4300,30,8,Downtown,66111,38.2,White,Los Angeles City
+329000,547,96,Condo/Co-op,1393,2743.772583,1254,43,3,Downtown,66111,38.2,White,Los Angeles City
+409999,456,102,Single Family Residential,3332,2385.065785,789,32,0,Downtown,66111,38.2,White,Los Angeles City
+415000,1176,115,Single Family Residential,881,1852.465332,838,33,1,Downtown,66111,38.2,White,Los Angeles City
+629000,1085,52,Condo/Co-op,1374,533.7557602,945,50,4,Downtown,66111,38.2,White,Los Angeles City
+599000,1220,108,Single Family Residential,756,2757.195382,2264,33,4,Downtown,66111,38.2,White,Los Angeles City
+520000,1298,84,Single Family Residential,1910,5877.736204,3755,37,4,Downtown,66111,38.2,White,Los Angeles City
+545000,1629,100,Multi-Family,2297,5722.332451,3582,39,3,Downtown,66111,38.2,White,Los Angeles City
+650000,1502,101,Multi-Family,1999,2989.443392,877,38,3,Downtown,66111,38.2,White,Los Angeles City
+640000,1205,124,Single Family Residential,1743,935.9104269,1010,54,1,Downtown,66111,38.2,White,Los Angeles City
+575000,1300,116,Single Family Residential,681,3802.648091,1308,36,3,Downtown,66111,38.2,White,Los Angeles City
+599999,1789,60,Multi-Family,1602,2678.443805,630,26,0,Downtown,66111,38.2,White,Los Angeles City
+525000,1128,113,Single Family Residential,393,4013.000634,2015,30,1,Downtown,66111,38.2,White,Los Angeles City
+599000,1126,102,Multi-Family,1309,2152.376912,1899,32,2,Downtown,66111,38.2,White,Los Angeles City
+539900,2072,110,Multi-Family,905,3983.331651,2895,31,2,Downtown,66111,38.2,White,Los Angeles City
+700000,1528,100,Multi-Family,1432,1060.105081,922,54,3,Downtown,66111,38.2,White,Los Angeles City
+649000,1120,121,Single Family Residential,853,3399.52488,1283,34,2,Downtown,66111,38.2,White,Los Angeles City
+799000,672,101,Single Family Residential,565,3504.404758,1883,34,5,Downtown,66111,38.2,White,Los Angeles City
+825000,3146,101,Multi-Family,601,2075.40634,578,27,2,Downtown,66111,38.2,White,Los Angeles City
+800000,3220,63,Multi-Family,692,3781.364149,1288,35,3,Downtown,66111,38.2,White,Los Angeles City
+724999,1323,111,Single Family Residential,1666,5172.523645,3776,44,3,Downtown,66111,38.2,White,Los Angeles City
+795000,1752,70,Multi-Family,1047,924.7440246,1341,44,15,Downtown,66111,38.2,White,Los Angeles City
+825000,3300,99,Multi-Family,1984,2306.457426,1486,42,3,Downtown,66111,38.2,White,Los Angeles City
+699999,1744,110,Multi-Family,1061,4012.942193,2850,41,2,Downtown,66111,38.2,White,Los Angeles City
+690000,2283,118,Multi-Family,1935,1862.344644,1324,42,1,Downtown,66111,38.2,White,Los Angeles City
+750000,2604,101,Multi-Family,1068,3538.491965,2383,44,2,Downtown,66111,38.2,White,Los Angeles City
+650000,1072,115,Multi-Family,1729,1156.427343,1290,52,0,Downtown,66111,38.2,White,Los Angeles City
+739900,2112,121,Multi-Family,501,3031.888808,2019,36,5,Downtown,66111,38.2,White,Los Angeles City
+699999,1068,111,Single Family Residential,2360,5371.297769,3263,35,3,Downtown,66111,38.2,White,Los Angeles City
+700000,1376,84,Multi-Family,873,5201.649093,3397,24,1,Downtown,66111,38.2,White,Los Angeles City
+699000,1433,42,Condo/Co-op,1439,543.3577539,883,55,4,Downtown,66111,38.2,White,Los Angeles City
+725000,1740,101,Multi-Family,1265,3645.357067,2598,41,2,Downtown,66111,38.2,White,Los Angeles City
+720000,2240,88,Multi-Family,83,2639.088316,875,18,1,Downtown,66111,38.2,White,Los Angeles City
+829000,1520,41,Single Family Residential,924,2507.34814,2054,29,3,Downtown,66111,38.2,White,Los Angeles City
+819900,1686,111,Multi-Family,1271,6566.748808,4607,37,7,Downtown,66111,38.2,White,Los Angeles City
+749000,1855,120,Multi-Family,1785,1559.664683,1406,43,0,Downtown,66111,38.2,White,Los Angeles City
+800000,2400,100,Multi-Family,1374,3277.095898,2269,40,2,Downtown,66111,38.2,White,Los Angeles City
+830000,2627,63,Multi-Family,603,3544.470185,2065,37,1,Downtown,66111,38.2,White,Los Angeles City
+900000,1430,2,Single Family Residential,602,710.042813,1664,45,8,Downtown,66111,38.2,White,Los Angeles City
+880000,1450,87,Multi-Family,625,380.9610371,1198,53,13,Downtown,66111,38.2,White,Los Angeles City
+840000,4186,60,Multi-Family,1555,4677.222337,3327,38,1,Downtown,66111,38.2,White,Los Angeles City
+859000,2647,118,Multi-Family,526,2162.078945,715,29,2,Downtown,66111,38.2,White,Los Angeles City
+859999,2234,122,Multi-Family,155,2544.757556,797,21,2,Downtown,66111,38.2,White,Los Angeles City
+835000,3380,59,Multi-Family,199,2701.753515,837,20,1,Downtown,66111,38.2,White,Los Angeles City
+900000,3224.438916,60.023669,Vacant Land,382,430.2840957,1440,51,10,Downtown,66111,38.2,White,Los Angeles City
+1049000,4032,101,Multi-Family,1733,2803.624763,2098,37,2,Downtown,66111,38.2,White,Los Angeles City
+950000,2418,118,Multi-Family,637,1580.367677,1287,52,7,Downtown,66111,38.2,White,Los Angeles City
+980000,2500,97,Multi-Family,2663,3723.052981,1535,36,0,Downtown,66111,38.2,White,Los Angeles City
+949000,1918,103,Multi-Family,1931,5707.9115,3468,32,4,Downtown,66111,38.2,White,Los Angeles City
+1099000,5608,121,Multi-Family,1517,1221.635015,1132,45,1,Downtown,66111,38.2,White,Los Angeles City
+1199000,4112,108,Multi-Family,1870,6065.265013,4126,39,3,Downtown,66111,38.2,White,Los Angeles City
+1290000,3786,97,Multi-Family,742,4337.120982,2740,26,0,Downtown,66111,38.2,White,Los Angeles City
+1325000,4530,120,Multi-Family,1503,1173.521742,937,48,1,Downtown,66111,38.2,White,Los Angeles City
+1349000,2695,117,Multi-Family,1295,366.5934861,1332,37,6,Downtown,66111,38.2,White,Los Angeles City
+1100000,2277,114,Multi-Family,2371,1861.265643,831,30,0,Downtown,66111,38.2,White,Los Angeles City
+949000,3168,110,Multi-Family,1794,1815.802943,2335,32,11,Downtown,66111,38.2,White,Los Angeles City
+999000,3120,119,Multi-Family,958,420.2356927,1002,28,3,Downtown,66111,38.2,White,Los Angeles City
+1300000,2720,98,Multi-Family,1047,4185.093522,3056,29,1,Downtown,66111,38.2,White,Los Angeles City
+1350000,5503,61,Multi-Family,329,3928.396045,1817,29,2,Downtown,66111,38.2,White,Los Angeles City
+1019000,2570,113,Multi-Family,1355,3002.745734,1900,48,4,Downtown,66111,38.2,White,Los Angeles City
+1250000,3686,10,Multi-Family,1369,4958.008754,3696,42,1,Downtown,66111,38.2,White,Los Angeles City
+1250000,5453,119,Multi-Family,1999,1783.627247,1247,42,1,Downtown,66111,38.2,White,Los Angeles City
+999980,3126,110,Multi-Family,832,1872.589752,755,30,2,Downtown,66111,38.2,White,Los Angeles City
+1175000,2200,71,Multi-Family,1519,2646.902641,1082,42,6,Downtown,66111,38.2,White,Los Angeles City
+1350000,3224.438916,60.023669,Vacant Land,235,1960.606932,1464,55,8,Downtown,66111,38.2,White,Los Angeles City
+1800000,4858,63,Multi-Family,905,1782.439497,703,31,1,Downtown,66111,38.2,White,Los Angeles City
+1799999,3692,115,Multi-Family,1522,2649.627468,1071,42,6,Downtown,66111,38.2,White,Los Angeles City
+1755000,4862,118,Multi-Family,1624,590.492524,974,55,27,Downtown,66111,38.2,White,Los Angeles City
+1889000,4719,106,Multi-Family,2226,2805.660352,486,36,2,Downtown,66111,38.2,White,Los Angeles City
+2100000,5187,129,Multi-Family,1652,1275.754319,1377,50,0,Downtown,66111,38.2,White,Los Angeles City
+1780000,3224.438916,60.023669,Vacant Land,1552,591.6275437,2639,40,16,Downtown,66111,38.2,White,Los Angeles City
+1699000,2800,123,Single Family Residential,1596,611.2357818,942,54,27,Downtown,66111,38.2,White,Los Angeles City
+1595000,3823,60.023669,Multi-Family,1123,3916.490264,1787,31,4,Downtown,66111,38.2,White,Los Angeles City
+1799000,4277,-1,Multi-Family,959,6687.235994,4306,29,7,Downtown,66111,38.2,White,Los Angeles City
+1400000,3058,112,Single Family Residential,789,669.86512,1538,50,6,Downtown,66111,38.2,White,Los Angeles City
+1499000,3966,117,Multi-Family,2882,2730.035472,725,35,7,Downtown,66111,38.2,White,Los Angeles City
+1488800,3726,5,Multi-Family,545,3723.417581,1052,43,3,Downtown,66111,38.2,White,Los Angeles City
+2300000,4429,99,Multi-Family,349,3829.863735,2338,38,1,Downtown,66111,38.2,White,Los Angeles City
+2795000,4444,70,Multi-Family,1542,583.3412367,1189,46,14,Downtown,66111,38.2,White,Los Angeles City
+2200000,5199,101,Multi-Family,909,4301.099289,3034,37,1,Downtown,66111,38.2,White,Los Angeles City
+3300000,3224.438916,60.023669,Vacant Land,2237,921.0618835,1348,24,4,Downtown,66111,38.2,White,Los Angeles City
+2950000,5221,2,Multi-Family,2666,3141.419012,1740,26,3,Downtown,66111,38.2,White,Los Angeles City
+2490000,4761,122,Multi-Family,1446,1175.360873,1054,44,3,Downtown,66111,38.2,White,Los Angeles City
+4500000,3224.438916,60.023669,Vacant Land,835,1369.641849,1122,46,9,Downtown,66111,38.2,White,Los Angeles City
+475000,524,111,Single Family Residential,2006,1724.449234,699,24,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+490000,748,99,Single Family Residential,4205,887.4825344,2315,20,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+489000,1325,100,Multi-Family,3506,1769.962363,2247,31,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+109950,3224.438916,60.023669,Vacant Land,2945,1998.050701,2527,21,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+599999,590,102,Single Family Residential,4499,183.4417502,2244,23,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+185000,3224.438916,60.023669,Vacant Land,3574,2057.468599,2716,25,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+624900,1608,109,Multi-Family,2951,1847.671204,1702,39,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+509000,1326,99,Multi-Family,1327,1242.196569,1070,20,2,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+615000,1088,103,Multi-Family,2806,1582.010316,1137,27,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+635000,782,122,Single Family Residential,291,473.7995502,626,19,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+599999,1306,118,Single Family Residential,965,739.4293542,356,15,3,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+699000,1694,102,Single Family Residential,752,1012.254654,518,31,6,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+739000,1437,73,Single Family Residential,2456,1732.170402,545,30,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+649000,1332,101,Single Family Residential,1510,864.0402288,1402,28,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+650000,1918,105,Multi-Family,1636,1739.571892,1280,21,2,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+675000,1584,62,Multi-Family,2689,1532.231921,262,23,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+750000,2355,97,Multi-Family,3653,1665.711703,2479,22,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+889000,1464,99,Multi-Family,1746,2047.882193,1548,16,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+724999,1748,100,Single Family Residential,2505,1854.354278,2349,36,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+749999,1600,109,Multi-Family,1668,1287.07811,1183,25,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+649000,2398,116,Single Family Residential,1169,1011.159783,635,10,3,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+799999,1089,101,Single Family Residential,1962,1804.055443,658,27,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+710000,1188,98,Multi-Family,2130,1147.738938,2029,15,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+749000,1160,65,Single Family Residential,2439,1650.986829,2286,20,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+699989,1672,97,Multi-Family,1165,868.8771842,1249,32,3,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+689950,1536,99,Multi-Family,3710,528.4197968,1170,16,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+799900,1801,113,Multi-Family,1990,1845.56898,640,27,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+799999,2144,101,Multi-Family,868,642.4325717,999,35,4,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+799888,4046,60,Multi-Family,1460,1171.147333,1220,22,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+747000,2049,101,Multi-Family,2646,1355.368466,1255,25,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+799000,2118,118,Multi-Family,642,833.8994047,389,33,6,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+875000,2728,102,Multi-Family,1869,1205.215749,1802,26,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+890000,1394,120,Single Family Residential,1918,1486.747245,1137,24,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1050000,4048,98,Multi-Family,1781,1270.759779,1683,17,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+949000,3147,103,Multi-Family,3018,1646.422668,1529,42,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+935000,2073,101,Multi-Family,3066,2318.21093,2307,37,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+975000,3386,67,Multi-Family,730,583.6235517,500,31,6,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1198000,2362,100,Multi-Family,900,619.5976077,988,34,4,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1080000,2421,101,Multi-Family,824,558.195631,610,32,3,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1060000,2822,0,Multi-Family,6425,935.9222452,1718,40,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1190000,4104,112,Single Family Residential,2623,1676.633244,973,29,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1080000,2592,58,Multi-Family,3068,1619.257329,1573,42,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1199000,5184,96,Multi-Family,791,813.369036,866,37,5,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1150000,5168,94,Multi-Family,2455,1958.639893,1849,22,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1300000,3741,122,Multi-Family,407,798.3817592,476,31,6,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+940000,2200,117,Multi-Family,2243,1883.602128,727,30,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1100000,4180,61,Multi-Family,1640,1002.859302,1631,24,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+975000,3135,111,Multi-Family,1206,661.6667279,1256,20,2,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1095000,3224.438916,60.023669,Vacant Land,1188,540.9417576,1169,24,2,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1199000,4076,100,Multi-Family,2205,1717.56562,2043,18,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1099000,3465,116,Multi-Family,382,285.1858614,364,28,7,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1200000,2840,103,Multi-Family,2428,1550.612064,1224,27,0,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1200000,2478,110,Multi-Family,1801,1156.50382,1685,20,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1150000,3524,100,Multi-Family,3048,2329.022622,2301,39,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+998800,2646,114,Multi-Family,842,794.6101794,364,14,2,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1650000,4542,110,Multi-Family,822,422.9913227,909,27,3,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1595000,3170,117,Multi-Family,1251,1422.848075,1177,25,4,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1670000,5,113,Multi-Family,2223,1751.965792,1259,27,1,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1595000,5033,98,Multi-Family,405,537.4329602,591,26,5,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+1590000,3224.438916,60.023669,Vacant Land,249,515.3746038,117,30,7,Boyle Heights,17388,32.1,Hispanic or Latino,Los Angeles City
+155000,202,47,Condo/Co-op,2830,1620.603831,3424,11,1,Westwood,14946,35.8,White,Los Angeles City
+569000,728,62,Condo/Co-op,2465,2422.515899,2427,11,18,Westwood,14946,35.8,White,Los Angeles City
+595000,621,60,Condo/Co-op,3152,1547.499779,3769,15,0,Westwood,14946,35.8,White,Los Angeles City
+805000,805,57,Condo/Co-op,4158,4101.69298,3230,11,25,Westwood,14946,35.8,White,Los Angeles City
+785000,893,60,Condo/Co-op,3152,1547.499779,3769,15,0,Westwood,14946,35.8,White,Los Angeles City
+679000,598,60,Condo/Co-op,3152,1547.499779,3769,15,0,Westwood,14946,35.8,White,Los Angeles City
+754000,1236,60,Condo/Co-op,3407,3766.852255,1639,0,11,Westwood,14946,35.8,White,Los Angeles City
+795000,771,60,Condo/Co-op,3152,1547.499779,3769,15,0,Westwood,14946,35.8,White,Los Angeles City
+785000,1253,62,Condo/Co-op,4022,2210.507075,4236,8,0,Westwood,14946,35.8,White,Los Angeles City
+920000,2616,62,Multi-Family,1028,6571.56816,3992,26,7,Westwood,14946,35.8,White,Los Angeles City
+849000,1321,47,Condo/Co-op,2830,1620.603831,3424,11,1,Westwood,14946,35.8,White,Los Angeles City
+899000,1252,60,Condo/Co-op,3152,1547.499779,3769,15,0,Westwood,14946,35.8,White,Los Angeles City
+995000,1053,57,Condo/Co-op,4158,4101.69298,3230,11,25,Westwood,14946,35.8,White,Los Angeles City
+985000,1053,57,Condo/Co-op,4158,4101.69298,3230,11,25,Westwood,14946,35.8,White,Los Angeles City
+1025000,1550,62,Condo/Co-op,4048,2233.517726,4251,8,0,Westwood,14946,35.8,White,Los Angeles City
+1195000,2259,65,Condo/Co-op,3811,1969.084795,4172,9,0,Westwood,14946,35.8,White,Los Angeles City
+1295000,1699,62,Condo/Co-op,4022,2210.507075,4236,8,0,Westwood,14946,35.8,White,Los Angeles City
+1325000,1301,59,Condo/Co-op,3707,4066.553281,2692,2,2,Westwood,14946,35.8,White,Los Angeles City
+1199000,1682,34,Condo/Co-op,3264,1686.613882,3765,12,0,Westwood,14946,35.8,White,Los Angeles City
+1075000,1070,57,Condo/Co-op,4158,4101.69298,3230,11,25,Westwood,14946,35.8,White,Los Angeles City
+1085000,1180,60,Condo/Co-op,3152,1547.499779,3769,15,0,Westwood,14946,35.8,White,Los Angeles City
+995000,1711,42,Condo/Co-op,3025,1636.752501,3574,11,0,Westwood,14946,35.8,White,Los Angeles City
+1295000,2146,42,Townhouse,3025,1636.752501,3574,11,0,Westwood,14946,35.8,White,Los Angeles City
+1295000,2002,61,Condo/Co-op,3487,2197.751593,3552,19,15,Westwood,14946,35.8,White,Los Angeles City
+1299000,1334,59,Condo/Co-op,3691,4091.327652,2735,2,2,Westwood,14946,35.8,White,Los Angeles City
+1295000,1843,47,Condo/Co-op,2830,1620.603831,3424,11,1,Westwood,14946,35.8,White,Los Angeles City
+1090000,1363,60,Condo/Co-op,3152,1547.499779,3769,15,0,Westwood,14946,35.8,White,Los Angeles City
+1297000,1889,34,Condo/Co-op,3128,1648.502404,3661,12,0,Westwood,14946,35.8,White,Los Angeles City
+1175000,1407,34,Condo/Co-op,3128,1648.502404,3661,12,0,Westwood,14946,35.8,White,Los Angeles City
+1275000,1623,40,Condo/Co-op,3519,3928.404087,1524,0,11,Westwood,14946,35.8,White,Los Angeles City
+1395000,2162,47,Condo/Co-op,2830,1620.603831,3424,11,1,Westwood,14946,35.8,White,Los Angeles City
+1850000,2608,43,Condo/Co-op,2612,1466.349841,3383,16,22,Westwood,14946,35.8,White,Los Angeles City
+1895000,2559,47,Condo/Co-op,2830,1620.603831,3424,11,1,Westwood,14946,35.8,White,Los Angeles City
+1739000,2372,43,Condo/Co-op,3967,4305.191889,2929,7,9,Westwood,14946,35.8,White,Los Angeles City
+1695000,2818,41,Condo/Co-op,3488,1793.748181,3922,10,0,Westwood,14946,35.8,White,Los Angeles City
+1695000,2388,44,Condo/Co-op,3701,4213.413789,2868,6,3,Westwood,14946,35.8,White,Los Angeles City
+1799000,2803,41,Condo/Co-op,3488,1793.748181,3922,10,0,Westwood,14946,35.8,White,Los Angeles City
+1695000,2000,61,Condo/Co-op,3487,2197.751593,3552,19,15,Westwood,14946,35.8,White,Los Angeles City
+1748000,1650,86,Single Family Residential,3027,3448.415897,1352,0,13,Westwood,14946,35.8,White,Los Angeles City
+2100000,2298,41,Condo/Co-op,3488,1793.748181,3922,10,0,Westwood,14946,35.8,White,Los Angeles City
+2050000,2118,41,Condo/Co-op,3488,1793.748181,3922,10,0,Westwood,14946,35.8,White,Los Angeles City
+1850000,2240,44,Condo/Co-op,3701,4213.413789,2868,6,3,Westwood,14946,35.8,White,Los Angeles City
+1890000,2324,41,Condo/Co-op,3488,1793.748181,3922,10,0,Westwood,14946,35.8,White,Los Angeles City
+1795000,3521,65,Condo/Co-op,3811,1969.084795,4172,9,0,Westwood,14946,35.8,White,Los Angeles City
+1595000,2357,43,Townhouse,3967,4305.191889,2929,7,9,Westwood,14946,35.8,White,Los Angeles City
+1625000,2776,34,Condo/Co-op,3264,1686.613882,3765,12,0,Westwood,14946,35.8,White,Los Angeles City
+1695000,1638,59,Condo/Co-op,3691,4091.327652,2735,2,2,Westwood,14946,35.8,White,Los Angeles City
+1695000,1724,33,Condo/Co-op,2995,1702.099659,3491,8,1,Westwood,14946,35.8,White,Los Angeles City
+1795000,1828,41,Condo/Co-op,2949,1644.944838,3500,10,0,Westwood,14946,35.8,White,Los Angeles City
+1699000,1672,29,Condo/Co-op,3922,2194.959648,4110,8,0,Westwood,14946,35.8,White,Los Angeles City
+1395000,2261,47,Condo/Co-op,2830,1620.603831,3424,11,1,Westwood,14946,35.8,White,Los Angeles City
+1395000,2038,47,Condo/Co-op,2830,1620.603831,3424,11,1,Westwood,14946,35.8,White,Los Angeles City
+1426000,2269,62,Condo/Co-op,4022,2210.507075,4236,8,0,Westwood,14946,35.8,White,Los Angeles City
+1400000,1402,62,Condo/Co-op,4048,2233.517726,4251,8,0,Westwood,14946,35.8,White,Los Angeles City
+1549000,2082,62,Condo/Co-op,3443,1762.417456,3897,9,0,Westwood,14946,35.8,White,Los Angeles City
+1395000,2177,43,Condo/Co-op,2612,1466.349841,3383,16,22,Westwood,14946,35.8,White,Los Angeles City
+1500000,2555,65,Condo/Co-op,3811,1969.084795,4172,9,0,Westwood,14946,35.8,White,Los Angeles City
+2455000,3081,43,Townhouse,3898,4283.641917,2934,7,4,Westwood,14946,35.8,White,Los Angeles City
+2149000,2419,84,Multi-Family,3736,2179.633973,3876,10,2,Westwood,14946,35.8,White,Los Angeles City
+2295000,2357,43,Townhouse,3967,4305.191889,2929,7,9,Westwood,14946,35.8,White,Los Angeles City
+2649000,1945,43,Condo/Co-op,3452,1687.863362,3973,11,0,Westwood,14946,35.8,White,Los Angeles City
+2695000,2757,32,Condo/Co-op,2882,1643.603424,3445,9,0,Westwood,14946,35.8,White,Los Angeles City
+2750000,1830,14,Condo/Co-op,4071,2377.626046,4144,8,0,Westwood,14946,35.8,White,Los Angeles City
+2900000,2279,72,Single Family Residential,988,1762.966147,5057,17,0,Westwood,14946,35.8,White,Los Angeles City
+2950000,2474,32,Condo/Co-op,2882,1643.603424,3445,9,0,Westwood,14946,35.8,White,Los Angeles City
+2595000,2692,93,Single Family Residential,3314,1900.20524,3630,10,1,Westwood,14946,35.8,White,Los Angeles City
+4650000,5553,43,Condo/Co-op,2612,1466.349841,3383,16,22,Westwood,14946,35.8,White,Los Angeles City
+2600000,2024,96,Single Family Residential,3133,3374.69331,1924,7,22,Westwood,14946,35.8,White,Los Angeles City
+2750000,3190,33,Condo/Co-op,3791,2065.660406,4055,10,0,Westwood,14946,35.8,White,Los Angeles City
+2895000,2346,44,Condo/Co-op,3701,4213.413789,2868,6,3,Westwood,14946,35.8,White,Los Angeles City
+2999999,2392,41,Condo/Co-op,3896,2165.42432,4102,8,0,Westwood,14946,35.8,White,Los Angeles City
+3200000,2651,85,Single Family Residential,1729,1195.296097,5301,15,7,Westwood,14946,35.8,White,Los Angeles City
+3995000,3745,97,Single Family Residential,2757,2967.641288,1961,8,5,Westwood,14946,35.8,White,Los Angeles City
+2249000,2352,41,Condo/Co-op,3896,2165.42432,4102,8,0,Westwood,14946,35.8,White,Los Angeles City
+2200000,2352,41,Condo/Co-op,3896,2165.42432,4102,8,0,Westwood,14946,35.8,White,Los Angeles City
+2395000,2524,43,Condo/Co-op,3967,4305.191889,2929,7,9,Westwood,14946,35.8,White,Los Angeles City
+4395000,2942,39,Condo/Co-op,2800,1482.305812,3518,15,6,Westwood,14946,35.8,White,Los Angeles City
+3495000,2687,77,Single Family Residential,1582,1241.922861,5206,16,7,Westwood,14946,35.8,White,Los Angeles City
+2450000,2352,41,Condo/Co-op,3896,2165.42432,4102,8,0,Westwood,14946,35.8,White,Los Angeles City
+3999000,3143,33,Condo/Co-op,3791,2065.660406,4055,10,0,Westwood,14946,35.8,White,Los Angeles City
+3995000,2370,44,Condo/Co-op,3716,4227.090137,2857,6,3,Westwood,14946,35.8,White,Los Angeles City
+3599000,3520,7,Single Family Residential,1709,1605.362664,5588,15,7,Westwood,14946,35.8,White,Los Angeles City
+3200000,3360,86,Single Family Residential,1594,1506.806185,5428,15,7,Westwood,14946,35.8,White,Los Angeles City
+2295000,3224.438916,60.023669,Vacant Land,3004,1900.909842,3322,15,3,Westwood,14946,35.8,White,Los Angeles City
+2498000,2000,59,Condo/Co-op,3691,4091.327652,2735,2,2,Westwood,14946,35.8,White,Los Angeles City
+4995000,3792,90,Single Family Residential,3964,1623.080623,4854,8,8,Westwood,14946,35.8,White,Los Angeles City
+2465000,2524,43,Condo/Co-op,3924,4321.515153,2899,7,6,Westwood,14946,35.8,White,Los Angeles City
+4999999,4733,34,Condo/Co-op,3264,1686.613882,3765,12,0,Westwood,14946,35.8,White,Los Angeles City
+4695000,4007,87,Single Family Residential,3681,1523.80726,4407,13,6,Westwood,14946,35.8,White,Los Angeles City
+146000,3224.438916,60.023669,Vacant Land,1744,2549.973668,1886,7,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+599000,696,48,Condo/Co-op,1641,3254.333691,2304,6,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+578000,1002,48,Condo/Co-op,1641,3254.333691,2304,6,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+300000,3224.438916,60.023669,Vacant Land,1466,3095.180179,2434,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+199000,3224.438916,60.023669,Vacant Land,647,3470.760893,2774,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+199000,3224.438916,60.023669,Vacant Land,244,3893.536141,3196,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+325000,3224.438916,60.023669,Vacant Land,1923,4157.185428,2566,9,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+349000,3224.438916,60.023669,Vacant Land,1733,2580.52374,1919,7,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+150000,3224.438916,60.023669,Vacant Land,1663,2433.535933,1736,2,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+125000,3224.438916,60.023669,Vacant Land,4896,3914.014362,3686,2,3,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+175000,3224.438916,60.023669,Vacant Land,689,3714.200245,3024,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+170000,3224.438916,60.023669,Vacant Land,1749,2579.572239,1921,7,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+595000,3224.438916,60.023669,Vacant Land,627,3885.300796,3195,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+674999,1002,48,Condo/Co-op,1641,3254.333691,2304,6,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+615000,712,60,Condo/Co-op,932,1667.739426,1078,8,10,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+699000,1219,57,Condo/Co-op,1910,3257.949994,2178,7,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+799999,3224.438916,60.023669,Vacant Land,1499,2792.41554,2114,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+899999,1676,33,Townhouse,497,4832.472231,502,14,4,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1045000,1337,33,Condo/Co-op,1344,1995.731138,1341,2,3,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1250000,1735,5,Townhouse,1785,1842.092543,1223,16,16,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1179000,1700,85,Single Family Residential,1828,1927.450772,1294,15,11,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1150000,3224.438916,60.023669,Vacant Land,889,3218.285576,2521,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1100000,3224.438916,60.023669,Vacant Land,1548,2672.968109,1994,6,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1185000,1708,5,Townhouse,1785,1842.092543,1223,16,16,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1299000,1133,99,Single Family Residential,2071,2135.45833,1415,11,9,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1335000,2211,82,Multi-Family,1557,1643.410945,1215,38,15,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1995000,2724,44,Single Family Residential,1989,4475.626352,2794,9,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1600000,2593,99,Single Family Residential,1877,1940.822603,1322,15,11,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1599999,1392,61,Single Family Residential,1833,2177.612985,1485,4,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1699999,1650,98,Single Family Residential,2177,4223.088146,2996,8,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1845000,2013,69,Single Family Residential,341,3873.400856,3601,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1950000,2552,76,Single Family Residential,1469,2131.342564,1476,2,3,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1997900,2007,112,Single Family Residential,970,1532.632496,870,17,16,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1995000,1850,84,Single Family Residential,1568,3280.302056,2197,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1600000,2998,69,Multi-Family,2134,4312.640934,2450,11,1,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1450000,1940,113,Single Family Residential,900,1463.205868,807,18,20,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+1399000,1764,87,Multi-Family,1827,3925.700151,2374,11,1,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2399000,2449,50,Single Family Residential,312,3812.313731,3116,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2450000,2250,81,Single Family Residential,1854,2438.217016,1779,8,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2195000,2607,87,Single Family Residential,1675,3899.367557,2590,9,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2295000,3425,85,Single Family Residential,1970,3963.433874,2194,9,1,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2895000,3407,18,Single Family Residential,598,3879.95518,3665,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2850000,3016,98,Single Family Residential,1794,2465.441674,1804,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2795000,2814,99,Single Family Residential,1942,1981.602515,1303,14,11,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2999999,2552,67,Single Family Residential,1492,3848.924361,2832,7,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2950000,3660,17,Single Family Residential,498,4080.503485,3446,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+3395000,4162,31,Single Family Residential,772,3786.62924,3808,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+4295000,4529,43,Single Family Residential,1521,1969.201493,1272,4,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2448000,1929,99,Single Family Residential,1567,2252.095215,1602,1,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+3995000,4536,18,Single Family Residential,1538,2628.659306,1943,4,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2495000,2670,86,Single Family Residential,1365,1833.455431,1139,8,5,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2250000,3224.438916,60.023669,Vacant Land,964,3132.515895,2435,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2300000,2128,97,Single Family Residential,1342,1821.726976,1129,8,5,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2495000,3000,14,Single Family Residential,1754,2545.502457,1883,7,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+3999000,4750,97,Single Family Residential,1644,3471.219691,2197,5,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+3199000,3049,60.023669,Single Family Residential,259,3893.283586,3197,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+3700000,3224.438916,60.023669,Single Family Residential,1380,2720.765175,2023,0,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2374990,3502,95,Multi-Family,1577,2197.120264,1525,1,2,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2200000,1744,66,Single Family Residential,1937,2267.689903,1596,6,1,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+2940000,4131,18,Single Family Residential,1559,2619.438725,1936,5,0,East Hollywood,25956,38.3,Hispanic or Latino,Los Angeles City
+549998,1044,86,Single Family Residential,1224,1792.773458,1006,8,0,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+635000,1050,102,Multi-Family,673,1642.715968,822,5,0,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+499999,1020,97,Single Family Residential,1377,2236.578669,1398,5,0,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+500000,766,98,Single Family Residential,273,1816.214192,764,12,2,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+593900,1330,3,Single Family Residential,115,1178.576588,468,19,0,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+515000,950,64,Single Family Residential,312,1266.193061,473,9,0,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+637000,1300,3,Single Family Residential,999,2412.93038,1310,6,1,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+649995,1178,45,Single Family Residential,251,2076.937897,831,26,3,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+669900,1510,88,Multi-Family,1630,3446.093553,1138,28,3,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+649900,1320,75,Multi-Family,1782,3543.123948,1898,33,9,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+725000,1918,79,Multi-Family,434,2160.020436,1173,26,3,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+745000,1665,103,Multi-Family,567,6328.415738,3608,34,3,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+749000,1785,83,Multi-Family,2174,4061.222883,1187,18,1,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+749888,2280,17,Single Family Residential,596,2300.391274,903,8,2,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+1140000,3282,2,Multi-Family,1272,2303.634494,1039,24,3,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+1199000,2446,-1,Multi-Family,278,1248.555671,466,10,0,Watts,22298,28.6,Hispanic or Latino,Los Angeles City
+1200000,3216,101,Multi-Family,1570,1334.656742,1250,16,4,Chinatown,23625,39.4,Asian,Los Angeles City
+1200000,3216,101,Multi-Family,1570,1334.656742,1250,16,4,Chinatown,7750,32.6,Asian,Los Angeles City
+1200000,3216,101,Multi-Family,1570,1334.656742,1250,16,4,Chinatown,62181,39.3,Asian,Los Angeles City
+1495000,3512,75,Multi-Family,213,4429.5115,886,25,0,Hyde Park,16998,35.5,White,Los Angeles City
