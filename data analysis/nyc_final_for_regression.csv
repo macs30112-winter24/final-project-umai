@@ -1,0 +1,520 @@
+PRICE,SQFT,house.age,PROP_TYPE,PARK_DIST,HOSPITAL_D,RAIL_DIST,BUS_COUNTS,FnB_COUNTS,neighborhood,population.density,median.age,dominant.race,city
+1299000,1829.844584,93,Multi-Family,1263.640093,515.0363265,811.183342,15,2,Brownsville,35804,41,Black,New York City
+500000,1152,36,Single Family Residential,1099.850227,1500.729108,269.7846072,16,0,Brownsville,35804,41,Black,New York City
+500000,1152,36,Single Family Residential,1099.850227,1500.729108,269.7846072,16,0,Brownsville,35804,41,Black,New York City
+999995,1829.844584,93,Multi-Family,926.8354804,588.2377655,500.6974593,16,1,Brownsville,35804,41,Black,New York City
+715000,1144,18,Multi-Family,444.4268137,978.6431717,193.7127052,10,3,Brownsville,35804,41,Black,New York City
+1100000,1829.844584,18,Multi-Family,417.9133315,971.7495787,234.1294296,10,3,Brownsville,35804,41,Black,New York City
+1099000,1829.844584,93,Multi-Family,906.640243,401.4400053,663.5888656,11,1,Brownsville,35804,41,Black,New York City
+950000,1829.844584,18,Multi-Family,385.8359276,929.4675327,353.3380645,10,2,Brownsville,35804,41,Black,New York City
+749000,1829.844584,93,Multi-Family,711.7049026,1341.852386,310.0576157,9,2,Brownsville,35804,41,Black,New York City
+799000,2272,93,Multi-Family,675.7577083,1485.402745,437.1976427,11,3,Brownsville,35804,41,Black,New York City
+499000,1829.844584,36,Single Family Residential,564.1222583,1870.526172,763.0035167,23,6,Brownsville,35804,41,Black,New York City
+569995,1829.844584,36,Single Family Residential,630.9058582,1993.629119,852.5016159,21,5,Brownsville,35804,41,Black,New York City
+699000,1829.844584,93,Single Family Residential,368.0709971,1223.388752,258.9341461,13,3,Brownsville,35804,41,Black,New York City
+880000,1829.844584,18,Multi-Family,84.8776648,1425.714079,552.3864266,21,5,Brownsville,35804,41,Black,New York City
+1200000,1829.844584,113,Multi-Family,445.1834735,845.9388833,452.8645274,15,2,Brownsville,35804,41,Black,New York City
+1250000,1829.844584,93,Multi-Family,979.7396326,313.1593248,801.0019543,11,0,Brownsville,35804,41,Black,New York City
+1149000,1829.844584,0,Multi-Family,286.1299087,1005.625788,352.9544434,16,2,Brownsville,35804,41,Black,New York City
+1100000,2814,16,Multi-Family,611.2822663,2105.409452,831.5991424,24,4,Brownsville,35804,41,Black,New York City
+1400000,2814,16,Multi-Family,626.8864582,2118.328431,816.9391072,24,4,Brownsville,35804,41,Black,New York City
+575000,1829.844584,37,Townhouse,1049.639405,611.6122445,795.5152374,14,0,Brownsville,35804,41,Black,New York City
+1493000,1829.844584,21,Multi-Family,813.3827284,2267.720759,647.0215542,20,5,Brownsville,35804,41,Black,New York City
+689000,1800,36,Single Family Residential,1084.246503,658.7989039,818.7889216,13,0,Brownsville,35804,41,Black,New York City
+399985,1148,36,Townhouse,1098.596596,654.0464354,833.5873986,13,0,Brownsville,35804,41,Black,New York City
+795995,1829.844584,124,Multi-Family,1127.246109,869.3341697,709.6755407,13,0,Brownsville,35804,41,Black,New York City
+1350000,1829.844584,93,Multi-Family,1234.547517,834.1220484,758.7257563,10,0,Brownsville,35804,41,Black,New York City
+615000,1829.844584,37,Single Family Residential,1109.523582,1465.638163,365.8573257,16,0,Brownsville,35804,41,Black,New York City
+899000,1480,122,Multi-Family,1421.723416,2941.383407,542.1395206,19,10,Brownsville,35804,41,Black,New York City
+1300000,1829.844584,96,Multi-Family,1510.113337,2966.666858,294.0279015,18,8,Brownsville,35804,41,Black,New York City
+1799999,1829.844584,93,Multi-Family,504.7354469,1673.245002,233.6168183,14,2,Brownsville,35804,41,Black,New York City
+1380000,1979,113,Multi-Family,761.4385207,4537.222529,381.2871477,12,45,Bensonhurst,44161,39.1,White,New York City
+1250000,1596,103,Multi-Family,1093.710371,4540.933569,14.40702548,10,47,Bensonhurst,44161,39.1,White,New York City
+1499000,1829.844584,98,Multi-Family,1750.890134,4344.170412,799.5355349,11,36,Bensonhurst,44161,39.1,White,New York City
+585000,762,33,Condo/Co-op,1900.406468,4343.76379,955.8621251,12,28,Bensonhurst,44161,39.1,White,New York City
+1328888,1440,93,Single Family Residential,1679.680899,3914.308005,375.0607487,8,20,Bensonhurst,44161,39.1,White,New York City
+1488000,2152,93,Townhouse,2127.766826,4021.666899,883.7237165,9,26,Bensonhurst,44161,39.1,White,New York City
+1250000,2295,98,Single Family Residential,2036.874124,3546.634188,317.9323003,7,39,Bensonhurst,44161,39.1,White,New York City
+1560000,1600,98,Townhouse,2126.215886,3591.601645,413.9988011,9,40,Bensonhurst,44161,39.1,White,New York City
+2200000,1829.844584,98,Multi-Family,2163.1927,4316.896931,678.7103709,10,34,Bensonhurst,44161,39.1,White,New York City
+1588000,2580,103,Single Family Residential,404.037939,4153.70295,872.9447569,11,23,Bensonhurst,44161,39.1,White,New York City
+1199999,1728,93,Single Family Residential,944.4480062,1642.72834,550.6336533,3,6,Bensonhurst,44161,39.1,White,New York City
+485000,753,16,Condo/Co-op,488.7484946,2142.014732,480.4691158,2,3,Bensonhurst,44161,39.1,White,New York City
+598000,800,35,Condo/Co-op,709.2169271,2204.629911,276.5513789,3,5,Bensonhurst,44161,39.1,White,New York City
+2180000,1829.844584,34,Multi-Family,1581.58348,4472.630159,563.3332616,14,43,Bensonhurst,44161,39.1,White,New York City
+899900,1404,98,Single Family Residential,1082.340404,3320.644039,529.4845918,8,22,Bensonhurst,44161,39.1,White,New York City
+1900000,1829.844584,73,Multi-Family,750.1025331,3032.811352,177.9404569,6,16,Bensonhurst,44161,39.1,White,New York City
+2250000,1840,92,Townhouse,1166.841919,3400.381754,362.8238363,7,21,Bensonhurst,44161,39.1,White,New York City
+2250000,1840,92,Townhouse,1173.574402,3407.099346,357.9374669,7,21,Bensonhurst,44161,39.1,White,New York City
+1138000,1026,98,Multi-Family,1868.561037,2328.829525,158.4567653,7,13,Borough Park,55000,,White,New York City
+1800000,1829.844584,98,Single Family Residential,1451.478414,2662.052295,889.5522474,6,6,Borough Park,55000,,White,New York City
+1780000,1829.844584,122,Multi-Family,911.6523447,1338.855612,376.5201147,3,8,Borough Park,55000,,White,New York City
+1999990,1829.844584,66.235406,Vacant Land,646.9580337,1488.848908,911.5315113,24,9,The Bronx,34920,31,Hispanic or Latino,New York City
+499888,2800,122,Single Family Residential,284.9226616,1884.430797,700.3048787,11,12,The Bronx,34920,31,Hispanic or Latino,New York City
+900000,2028,23,Multi-Family,283.909331,1836.482783,733.743915,8,9,The Bronx,34920,31,Hispanic or Latino,New York City
+749000,2133,122,Single Family Residential,592.5345644,503.3621852,779.074655,11,1,The Bronx,34920,31,Hispanic or Latino,New York City
+839000,1829.844584,53,Multi-Family,499.5317986,986.4403952,791.3987199,19,7,The Bronx,34920,31,Hispanic or Latino,New York City
+600000,2382,113,Multi-Family,365.5098476,802.9814806,846.8665309,16,5,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,3060,16,Multi-Family,230.9842081,885.0409859,742.1675164,18,5,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,2580,122,Multi-Family,430.1725107,356.7104642,371.8781956,14,8,The Bronx,34920,31,Hispanic or Latino,New York City
+949999,2565,15,Multi-Family,163.5387663,418.0946425,445.6535749,13,8,The Bronx,34920,31,Hispanic or Latino,New York City
+949999,2565,15,Multi-Family,170.6515373,425.3777467,445.6979629,12,8,The Bronx,34920,31,Hispanic or Latino,New York City
+925000,2062,21,Multi-Family,455.6389764,872.9554065,728.1859412,11,6,The Bronx,34920,31,Hispanic or Latino,New York City
+789000,1829.844584,66.235406,Vacant Land,465.1888352,656.2844282,464.4655137,10,8,The Bronx,34920,31,Hispanic or Latino,New York City
+1100000,3008,124,Multi-Family,488.0465479,815.2862041,453.6572901,11,10,The Bronx,34920,31,Hispanic or Latino,New York City
+1200000,1829.844584,124,Multi-Family,254.8444879,1045.590521,349.4248808,13,14,The Bronx,34920,31,Hispanic or Latino,New York City
+284000,1111,87,Condo/Co-op,588.0963399,844.0683822,372.6377908,17,12,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,1829.844584,123,Multi-Family,571.8750986,1251.063778,287.8428177,19,14,The Bronx,34920,31,Hispanic or Latino,New York City
+549000,1462,124,Single Family Residential,391.1292383,1377.445959,538.0733291,9,5,The Bronx,34920,31,Hispanic or Latino,New York City
+439000,1829.844584,122,Single Family Residential,484.8431367,1255.051061,613.3956025,6,6,The Bronx,34920,31,Hispanic or Latino,New York City
+860000,2700,30,Multi-Family,784.4675181,1290.774047,877.5237795,11,4,The Bronx,34920,31,Hispanic or Latino,New York City
+599000,2179,124,Single Family Residential,586.2655563,1531.100692,1005.452689,13,1,The Bronx,34920,31,Hispanic or Latino,New York City
+549000,1250,68,Single Family Residential,567.6564247,1535.591316,996.7066293,13,1,The Bronx,34920,31,Hispanic or Latino,New York City
+875000,1829.844584,30,Multi-Family,750.2487008,1334.008852,927.9455768,12,4,The Bronx,34920,31,Hispanic or Latino,New York City
+1100000,2772,88,Multi-Family,396.3138922,1478.549235,868.3014207,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+2200000,1829.844584,103,Multi-Family,772.3139676,1020.906136,139.8301454,16,11,The Bronx,34920,31,Hispanic or Latino,New York City
+1350000,2992,93,Multi-Family,393.3283907,3017.477685,578.5134641,8,22,The Bronx,34920,31,Hispanic or Latino,New York City
+950000,2100,15,Multi-Family,684.1566504,2657.207348,293.5012881,19,23,The Bronx,34920,31,Hispanic or Latino,New York City
+965000,1829.844584,63,Multi-Family,289.8397398,2646.361848,559.6935795,12,17,The Bronx,34920,31,Hispanic or Latino,New York City
+975000,1920,113,Multi-Family,519.2562109,2430.522797,459.2090942,16,20,The Bronx,34920,31,Hispanic or Latino,New York City
+695000,2146,93,Multi-Family,765.5263241,2161.647563,601.0135984,22,21,The Bronx,34920,31,Hispanic or Latino,New York City
+900000,2880,122,Multi-Family,644.2442671,2267.036955,711.7279308,19,20,The Bronx,34920,31,Hispanic or Latino,New York City
+1399999,1829.844584,97,Multi-Family,995.7667173,2385.908196,424.2274754,17,26,The Bronx,34920,31,Hispanic or Latino,New York City
+2000000,1829.844584,66.235406,Vacant Land,466.4329333,2453.649035,755.7184839,15,16,The Bronx,34920,31,Hispanic or Latino,New York City
+355000,1026,73,Condo/Co-op,1454.372844,1456.539221,679.7644733,21,17,The Bronx,34920,31,Hispanic or Latino,New York City
+1125000,2500,16,Multi-Family,1171.236221,1801.961969,953.8813352,24,20,The Bronx,34920,31,Hispanic or Latino,New York City
+1149000,2487,113,Multi-Family,1131.763251,1864.728303,1010.989628,23,18,The Bronx,34920,31,Hispanic or Latino,New York City
+115000,500,66.235406,Condo/Co-op,1539.834759,1216.382401,321.1548473,20,5,The Bronx,34920,31,Hispanic or Latino,New York City
+625000,2318,18,Multi-Family,1493.246158,1132.353984,411.429419,17,4,The Bronx,34920,31,Hispanic or Latino,New York City
+1099000,1829.844584,97,Multi-Family,467.3153823,2264.54707,447.7242772,1,11,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,2280,32,Multi-Family,833.802647,986.007037,378.7866062,10,4,The Bronx,34920,31,Hispanic or Latino,New York City
+1299000,1829.844584,113,Multi-Family,665.6481552,1657.808302,384.4235407,3,6,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,2100,32,Multi-Family,748.1639523,1549.402281,283.3055825,5,5,The Bronx,34920,31,Hispanic or Latino,New York City
+599000,1483,113,Single Family Residential,607.1894463,1578.776781,306.8223246,10,5,The Bronx,34920,31,Hispanic or Latino,New York City
+499000,1829.844584,34,Single Family Residential,614.7501749,1099.177324,239.123795,11,2,The Bronx,34920,31,Hispanic or Latino,New York City
+674999,2600,27,Multi-Family,338.530974,1780.186329,565.1690293,7,8,The Bronx,34920,31,Hispanic or Latino,New York City
+829000,2276,122,Multi-Family,366.8077181,960.5784284,487.6317154,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+650000,2088,122,Multi-Family,205.7680826,867.7139304,654.2227712,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+980000,1829.844584,96,Multi-Family,284.5233639,2768.147522,489.8141831,13,17,The Bronx,34920,31,Hispanic or Latino,New York City
+765000,2500,34,Single Family Residential,29.027855,1460.856165,484.572879,12,5,The Bronx,34920,31,Hispanic or Latino,New York City
+399999,2180,83,Multi-Family,532.5006936,2561.092379,611.490273,16,4,The Bronx,34920,31,Hispanic or Latino,New York City
+849000,2000,122,Multi-Family,465.8197485,2718.106651,337.6761673,14,3,The Bronx,34920,31,Hispanic or Latino,New York City
+875000,2205,31,Multi-Family,289.5261282,1928.741776,368.6742632,9,6,The Bronx,34920,31,Hispanic or Latino,New York City
+925000,3013,26,Multi-Family,358.9911916,1703.896781,708.8490501,11,4,The Bronx,34920,31,Hispanic or Latino,New York City
+299000,1829.844584,66.235406,Vacant Land,218.4826486,1484.985609,856.632736,12,4,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,2300,103,Multi-Family,443.5832442,1092.973236,1293.989086,9,2,The Bronx,34920,31,Hispanic or Latino,New York City
+1400000,2076,108,Multi-Family,312.590955,1049.962246,1355.287941,7,4,The Bronx,34920,31,Hispanic or Latino,New York City
+325000,1829.844584,66.235406,Vacant Land,331.297502,1024.173222,1376.762068,8,4,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,1829.844584,28,Multi-Family,339.397103,994.5874365,1404.903544,8,4,The Bronx,34920,31,Hispanic or Latino,New York City
+1700000,2484,103,Multi-Family,366.9351831,972.9180773,1422.302242,8,3,The Bronx,34920,31,Hispanic or Latino,New York City
+949000,1872,113,Multi-Family,192.5261387,1040.299803,1244.459391,11,9,The Bronx,34920,31,Hispanic or Latino,New York City
+1025000,3015,18,Multi-Family,353.8964469,782.0720694,1518.590335,12,18,The Bronx,34920,31,Hispanic or Latino,New York City
+989000,3045,22,Multi-Family,494.7760997,637.2767476,1650.168225,12,18,The Bronx,34920,31,Hispanic or Latino,New York City
+449000,1232,122,Single Family Residential,756.7066363,455.0276018,1521.170765,14,19,The Bronx,34920,31,Hispanic or Latino,New York City
+700000,1620,23,Townhouse,142.6790547,1653.05947,535.3688146,18,16,The Bronx,34920,31,Hispanic or Latino,New York City
+999999,1829.844584,24,Multi-Family,123.5670679,1584.990419,601.9142245,19,16,The Bronx,34920,31,Hispanic or Latino,New York City
+1164000,2700,29,Multi-Family,537.8642806,1144.105991,381.4851878,19,26,The Bronx,34920,31,Hispanic or Latino,New York City
+1050000,1960,29,Multi-Family,837.5668839,918.8253114,453.4039327,18,5,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,2400,32,Multi-Family,890.1120858,1277.936534,743.5682344,18,7,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,3036,24,Multi-Family,1075.190646,1415.16682,936.8778977,19,6,The Bronx,34920,31,Hispanic or Latino,New York City
+299000,671,15,Condo/Co-op,1235.893804,1616.976967,990.8880403,18,3,The Bronx,34920,31,Hispanic or Latino,New York City
+275000,815,69,Condo/Co-op,326.4383665,386.5903251,57.37611162,7,10,The Bronx,34920,31,Hispanic or Latino,New York City
+750000,1829.844584,83,Multi-Family,584.6641847,4468.983817,3866.584773,1,0,The Bronx,34920,31,Hispanic or Latino,New York City
+697888,1494,103,Multi-Family,1441.104632,2657.868358,2053.385112,5,2,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,2066,21,Multi-Family,568.328181,3399.117159,2884.824624,10,0,The Bronx,34920,31,Hispanic or Latino,New York City
+900000,1788,73,Multi-Family,779.3293472,3293.433624,2760.297624,11,1,The Bronx,34920,31,Hispanic or Latino,New York City
+675000,1750,73,Multi-Family,759.6691036,3335.162012,2802.159158,11,1,The Bronx,34920,31,Hispanic or Latino,New York City
+875000,2215,73,Multi-Family,269.9656052,4623.102856,4048.702278,5,0,The Bronx,34920,31,Hispanic or Latino,New York City
+999999,2088,88,Multi-Family,1099.163776,3371.265034,2717.942952,8,2,The Bronx,34920,31,Hispanic or Latino,New York City
+370000,544,98,Single Family Residential,377.7560433,4281.149235,3749.101328,8,0,The Bronx,34920,31,Hispanic or Latino,New York City
+825000,2443,63,Single Family Residential,450.5112224,4677.770672,4135.775596,6,0,The Bronx,34920,31,Hispanic or Latino,New York City
+729000,1624,73,Multi-Family,669.4461066,4259.701224,3741.618408,9,0,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,2365,83,Multi-Family,726.1194356,5058.050622,4507.443325,0,0,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,2322,83,Multi-Family,732.686213,5062.103486,4512.038578,0,0,The Bronx,34920,31,Hispanic or Latino,New York City
+789000,1100,93,Multi-Family,1489.625628,3793.872645,2975.267445,3,0,The Bronx,34920,31,Hispanic or Latino,New York City
+879000,1944,68,Multi-Family,692.9997144,4875.745857,4343.806506,6,0,The Bronx,34920,31,Hispanic or Latino,New York City
+895000,2259,73,Single Family Residential,1006.53484,4260.37636,3650.382509,8,0,The Bronx,34920,31,Hispanic or Latino,New York City
+539000,1224,73,Townhouse,1465.939045,3893.366671,3087.675137,4,0,The Bronx,34920,31,Hispanic or Latino,New York City
+539000,1224,73,Townhouse,1465.939045,3893.366671,3087.675137,4,0,The Bronx,34920,31,Hispanic or Latino,New York City
+829000,2400,93,Multi-Family,938.9946799,4810.2312,4279.311503,6,0,The Bronx,34920,31,Hispanic or Latino,New York City
+895000,1700,93,Multi-Family,989.2985841,4884.888393,4348.375108,6,0,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,1980,63,Multi-Family,1051.864828,4335.946481,3716.94798,8,0,The Bronx,34920,31,Hispanic or Latino,New York City
+988000,2726,93,Single Family Residential,1760.146481,3593.815411,2676.012419,4,0,The Bronx,34920,31,Hispanic or Latino,New York City
+1080000,1829.844584,93,Multi-Family,1125.347864,3530.998205,2850.234521,5,0,The Bronx,34920,31,Hispanic or Latino,New York City
+1050000,1870,98,Single Family Residential,1949.016335,3725.308446,2742.694427,0,0,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,1600,93,Multi-Family,581.1028864,3374.06941,2859.773999,10,0,The Bronx,34920,31,Hispanic or Latino,New York City
+1180000,1768,2,Multi-Family,995.1742366,4102.965904,3484.12252,9,0,The Bronx,34920,31,Hispanic or Latino,New York City
+1180000,1768,2,Multi-Family,995.0994696,4105.301797,3486.659868,9,0,The Bronx,34920,31,Hispanic or Latino,New York City
+1430000,2840,88,Multi-Family,383.2641256,4758.440167,4188.927612,4,0,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,1760,98,Multi-Family,561.7437005,3732.450853,1966.192705,13,0,The Bronx,34920,31,Hispanic or Latino,New York City
+849999,2300,15,Multi-Family,730.512107,3442.895388,1676.986124,17,5,The Bronx,34920,31,Hispanic or Latino,New York City
+750000,2310,30,Multi-Family,914.6780513,2883.393419,1102.246582,13,6,The Bronx,34920,31,Hispanic or Latino,New York City
+795000,1486,68,Multi-Family,1523.773173,2083.866229,1128.019845,13,9,The Bronx,34920,31,Hispanic or Latino,New York City
+795000,1829.844584,68,Multi-Family,1525.220753,2082.102426,1128.446092,13,9,The Bronx,34920,31,Hispanic or Latino,New York City
+899000,966,73,Single Family Residential,1690.47295,2207.259387,971.8100464,17,17,The Bronx,34920,31,Hispanic or Latino,New York City
+910000,1896,103,Multi-Family,2218.985594,1272.214612,320.0920532,17,23,The Bronx,34920,31,Hispanic or Latino,New York City
+1448999,2328,108,Multi-Family,1502.220949,2274.49714,826.0944674,16,25,The Bronx,34920,31,Hispanic or Latino,New York City
+1200000,1829.844584,23,Multi-Family,297.8530132,3378.38323,2364.597648,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+1200000,1829.844584,23,Multi-Family,277.1284665,3402.248548,2382.904667,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+1300000,1938,93,Multi-Family,1355.653359,2041.102843,352.7599913,14,30,The Bronx,34920,31,Hispanic or Latino,New York City
+879000,1998,73,Multi-Family,679.9429991,1357.520924,600.7304475,10,8,The Bronx,34920,31,Hispanic or Latino,New York City
+875000,1916,103,Multi-Family,636.8319203,1270.656733,359.2835994,9,12,The Bronx,34920,31,Hispanic or Latino,New York City
+849000,2180,103,Multi-Family,558.7581522,1585.584647,349.2040221,10,8,The Bronx,34920,31,Hispanic or Latino,New York City
+775000,1950,63,Multi-Family,1162.438916,1936.127259,914.8178792,5,10,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,1539,103,Single Family Residential,1589.636602,2072.140254,1316.485222,4,5,The Bronx,34920,31,Hispanic or Latino,New York City
+919000,1760,98,Multi-Family,475.6452427,1679.947315,255.4560071,9,8,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,1638,73,Townhouse,1584.38327,2288.813821,1476.608394,5,4,The Bronx,34920,31,Hispanic or Latino,New York City
+949000,2690,122,Multi-Family,346.4848361,1810.019116,570.821952,3,12,The Bronx,34920,31,Hispanic or Latino,New York City
+975000,2384,93,Multi-Family,260.9517181,1843.587371,581.529701,4,12,The Bronx,34920,31,Hispanic or Latino,New York City
+715000,2520,98,Single Family Residential,932.4380338,2205.599839,1171.99963,3,6,The Bronx,34920,31,Hispanic or Latino,New York City
+575000,1390,98,Single Family Residential,592.5878766,5041.399007,3839.539007,1,0,The Bronx,34920,31,Hispanic or Latino,New York City
+599999,1829.844584,103,Single Family Residential,505.8704084,5056.753967,3752.223599,1,0,The Bronx,34920,31,Hispanic or Latino,New York City
+739990,1400,93,Multi-Family,158.6422481,4520.758216,3565.076741,2,0,The Bronx,34920,31,Hispanic or Latino,New York City
+605000,1829.844584,103,Single Family Residential,137.955468,4489.460919,3537.230328,2,0,The Bronx,34920,31,Hispanic or Latino,New York City
+330000,1980,78,Single Family Residential,37.3166085,4597.572209,3283.977229,1,0,The Bronx,34920,31,Hispanic or Latino,New York City
+775000,1829.844584,66.235406,Vacant Land,85.9135525,4441.666257,3487.863377,2,0,The Bronx,34920,31,Hispanic or Latino,New York City
+750000,1902,22,Multi-Family,68.28533356,4526.138595,3088.966764,5,0,The Bronx,34920,31,Hispanic or Latino,New York City
+688888,1498,15,Single Family Residential,57.87638907,4479.341283,3098.970812,3,0,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,1180,113,Single Family Residential,177.3205585,4305.407029,3196.704421,2,0,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,1180,113,Single Family Residential,177.3205585,4305.407029,3196.704421,2,0,The Bronx,34920,31,Hispanic or Latino,New York City
+250000,1829.844584,66.235406,Vacant Land,157.4897866,4288.618196,3191.195322,3,0,The Bronx,34920,31,Hispanic or Latino,New York City
+650000,853,65,Single Family Residential,205.7489581,3778.328052,2851.156769,6,0,The Bronx,34920,31,Hispanic or Latino,New York City
+720000,1866,63,Single Family Residential,445.1700683,3760.113984,2862.588063,5,0,The Bronx,34920,31,Hispanic or Latino,New York City
+679000,1829.844584,98,Single Family Residential,533.9349253,3581.20204,2688.904488,6,0,The Bronx,34920,31,Hispanic or Latino,New York City
+439000,1292,73,Single Family Residential,383.7818846,3766.06369,2410.379238,11,0,The Bronx,34920,31,Hispanic or Latino,New York City
+360000,2604,93,Multi-Family,469.478457,3856.132038,2282.707513,10,0,The Bronx,34920,31,Hispanic or Latino,New York City
+875000,1840,35,Multi-Family,162.1192592,3506.924179,2498.207426,12,0,The Bronx,34920,31,Hispanic or Latino,New York City
+899000,2550,53,Multi-Family,533.6133788,3484.779907,2147.585978,17,2,The Bronx,34920,31,Hispanic or Latino,New York City
+1050000,2745,48,Multi-Family,197.4969801,4312.474367,2650.020883,6,0,The Bronx,34920,31,Hispanic or Latino,New York City
+1300000,1829.844584,98,Single Family Residential,48.4354191,4420.280262,3370.636937,2,0,The Bronx,34920,31,Hispanic or Latino,New York City
+1190000,1829.844584,113,Multi-Family,2761.676057,923.6393495,290.0694205,11,13,The Bronx,34920,31,Hispanic or Latino,New York City
+600000,1829.844584,98,Single Family Residential,437.8646787,2233.159514,1019.56761,2,8,The Bronx,34920,31,Hispanic or Latino,New York City
+650000,1856,58,Single Family Residential,28.13747724,2156.591402,883.0293356,8,9,The Bronx,34920,31,Hispanic or Latino,New York City
+775000,1696,108,Single Family Residential,1210.49521,2662.170204,1627.464752,4,3,The Bronx,34920,31,Hispanic or Latino,New York City
+745000,1280,63,Single Family Residential,1466.441624,2857.192549,1835.064435,4,3,The Bronx,34920,31,Hispanic or Latino,New York City
+948000,1632,93,Multi-Family,229.4160055,2373.547921,1101.202698,1,6,The Bronx,34920,31,Hispanic or Latino,New York City
+1080000,1737,103,Multi-Family,74.06527686,2508.299269,1048.968806,8,1,The Bronx,34920,31,Hispanic or Latino,New York City
+630000,1638,63,Single Family Residential,342.5501496,2579.24823,1302.813005,1,1,The Bronx,34920,31,Hispanic or Latino,New York City
+1300000,2367,98,Multi-Family,198.8505981,2671.769752,1239.26442,1,1,The Bronx,34920,31,Hispanic or Latino,New York City
+850000,2194,83,Multi-Family,217.4341031,2783.987494,1323.086006,1,1,The Bronx,34920,31,Hispanic or Latino,New York City
+998000,2570,63,Multi-Family,1624.849455,3288.362427,2197.929797,1,0,The Bronx,34920,31,Hispanic or Latino,New York City
+579000,1829.844584,113,Single Family Residential,385.027953,2934.169366,1547.578552,0,1,The Bronx,34920,31,Hispanic or Latino,New York City
+999900,2235,96,Single Family Residential,1059.586724,3194.525277,1968.639444,0,1,The Bronx,34920,31,Hispanic or Latino,New York City
+458900,640,98,Single Family Residential,764.4513151,3108.851631,1851.779677,0,1,The Bronx,34920,31,Hispanic or Latino,New York City
+1250000,2400,63,Single Family Residential,982.7297077,2525.719767,1439.448173,3,3,The Bronx,34920,31,Hispanic or Latino,New York City
+1295000,2490,83,Multi-Family,1236.282539,3102.85256,1917.306388,0,0,The Bronx,34920,31,Hispanic or Latino,New York City
+1375000,2945,58,Multi-Family,1268.510015,1133.0503,137.1277351,5,19,The Bronx,34920,31,Hispanic or Latino,New York City
+689000,1682,103,Multi-Family,1365.716172,1327.374206,397.3261958,5,18,The Bronx,34920,31,Hispanic or Latino,New York City
+620000,1400,103,Single Family Residential,1055.868021,926.2234036,367.1547325,3,13,The Bronx,34920,31,Hispanic or Latino,New York City
+819000,1755,103,Multi-Family,1356.02445,1476.913994,536.5493105,4,15,The Bronx,34920,31,Hispanic or Latino,New York City
+739000,1782,63,Single Family Residential,891.3256395,1031.989733,256.0697626,2,13,The Bronx,34920,31,Hispanic or Latino,New York City
+2000000,1829.844584,66.235406,Vacant Land,1156.766442,2371.924876,479.2041159,12,3,The Bronx,34920,31,Hispanic or Latino,New York City
+800000,1829.844584,16,Multi-Family,773.4124341,2743.090136,658.8410053,17,2,The Bronx,34920,31,Hispanic or Latino,New York City
+800000,1829.844584,16,Multi-Family,776.3862713,2734.442644,650.0727233,17,2,The Bronx,34920,31,Hispanic or Latino,New York City
+750000,1848,78,Multi-Family,467.5387122,3052.480385,897.5802547,7,9,The Bronx,34920,31,Hispanic or Latino,New York City
+1149000,2717,18,Multi-Family,536.1253005,3108.764761,698.0859105,8,11,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,2040,83,Single Family Residential,707.5141433,2821.09583,567.3588743,7,12,The Bronx,34920,31,Hispanic or Latino,New York City
+950000,1829.844584,103,Multi-Family,187.7644132,3309.943733,568.4649204,11,12,The Bronx,34920,31,Hispanic or Latino,New York City
+995000,1829.844584,93,Multi-Family,936.4540949,1904.20215,147.1366934,9,8,The Bronx,34920,31,Hispanic or Latino,New York City
+1150000,2717,18,Multi-Family,529.9440687,3105.850609,690.1117076,8,11,The Bronx,34920,31,Hispanic or Latino,New York City
+245000,1829.844584,66.235406,Vacant Land,196.4418372,1436.86599,720.7963663,0,2,The Bronx,34920,31,Hispanic or Latino,New York City
+725000,2340,25,Multi-Family,445.720716,913.5144332,919.4706655,13,3,The Bronx,34920,31,Hispanic or Latino,New York City
+715001,2390,25,Multi-Family,464.6750435,876.0028205,932.874716,13,2,The Bronx,34920,31,Hispanic or Latino,New York City
+515000,1705,122,Single Family Residential,1055.806632,282.6064939,899.1489469,8,35,The Bronx,34920,31,Hispanic or Latino,New York City
+515000,1705,122,Single Family Residential,1055.806632,282.6064939,899.1489469,8,35,The Bronx,34920,31,Hispanic or Latino,New York City
+845000,1829.844584,122,Multi-Family,1094.742101,282.8929053,890.5060547,11,37,The Bronx,34920,31,Hispanic or Latino,New York City
+469900,2112,122,Multi-Family,1235.362832,259.1297442,952.8521538,13,39,The Bronx,34920,31,Hispanic or Latino,New York City
+439000,1248,122,Single Family Residential,1415.865734,408.8815648,994.4990658,18,42,The Bronx,34920,31,Hispanic or Latino,New York City
+890000,1829.844584,122,Multi-Family,369.4004569,1628.397149,268.5061816,27,38,The Bronx,34920,31,Hispanic or Latino,New York City
+819000,1384,113,Multi-Family,807.1867704,1455.241637,587.8686941,22,23,The Bronx,34920,31,Hispanic or Latino,New York City
+854000,1829.844584,108,Multi-Family,691.9516159,1803.897596,289.1105902,23,14,The Bronx,34920,31,Hispanic or Latino,New York City
+550000,1760,93,Single Family Residential,755.406997,1946.179395,631.0411165,19,6,The Bronx,34920,31,Hispanic or Latino,New York City
+688000,2200,88,Multi-Family,620.9461547,2022.708896,751.0041384,15,3,The Bronx,34920,31,Hispanic or Latino,New York City
+999999,1829.844584,113,Single Family Residential,940.2136072,1057.346473,347.1249414,27,39,The Bronx,34920,31,Hispanic or Latino,New York City
+1000000,2728,113,Multi-Family,355.8194929,2114.571566,180.1957827,24,15,The Bronx,34920,31,Hispanic or Latino,New York City
+975000,1100,17,Condo/Co-op,919.6026712,1487.018324,623.6704205,21,20,The Bronx,34920,31,Hispanic or Latino,New York City
+1150000,2750,122,Multi-Family,481.6767432,1595.417139,381.3245447,14,34,The Bronx,34920,31,Hispanic or Latino,New York City
+1400000,1600,103,Multi-Family,1189.739848,563.080627,1385.256473,21,28,The Bronx,34920,31,Hispanic or Latino,New York City
+165000,725,73,Condo/Co-op,156.4325167,1459.502716,756.0892525,22,12,The Bronx,34920,31,Hispanic or Latino,New York City
+650000,1829.844584,30,Multi-Family,35.89559038,1945.772682,485.0062297,17,19,The Bronx,34920,31,Hispanic or Latino,New York City
+1800000,2629,122,Single Family Residential,575.4297404,1065.617551,895.5276509,24,11,The Bronx,34920,31,Hispanic or Latino,New York City
+240000,900,66.235406,Condo/Co-op,99.42713626,1478.717635,622.7744425,14,4,The Bronx,34920,31,Hispanic or Latino,New York City
+795000,2230,103,Multi-Family,182.3152693,1280.356717,506.1278316,15,3,The Bronx,34920,31,Hispanic or Latino,New York City
+865000,1810,98,Single Family Residential,143.7016518,493.4027307,388.0327245,19,5,The Bronx,34920,31,Hispanic or Latino,New York City
+598000,1144,124,Single Family Residential,347.6461588,1485.460858,429.0368504,14,8,The Bronx,34920,31,Hispanic or Latino,New York City
+175000,850,59,Condo/Co-op,284.7009566,1475.003026,305.9578492,15,12,The Bronx,34920,31,Hispanic or Latino,New York City
+899000,1800,103,Multi-Family,389.3466023,1684.863512,611.4373048,14,12,The Bronx,34920,31,Hispanic or Latino,New York City
+695000,2200,93,Single Family Residential,413.8189413,1729.027055,520.4295088,13,12,The Bronx,34920,31,Hispanic or Latino,New York City
+950000,1308,93,Single Family Residential,350.7782485,1382.616175,601.0129647,12,6,The Bronx,34920,31,Hispanic or Latino,New York City
+930000,1910,124,Multi-Family,202.8679061,1349.975375,470.7043516,16,4,The Bronx,34920,31,Hispanic or Latino,New York City
+1100000,2544,83,Multi-Family,213.2884263,1529.412015,489.9849517,14,5,The Bronx,34920,31,Hispanic or Latino,New York City
+990000,1834,98,Single Family Residential,184.2966248,973.5387339,545.2686385,14,4,The Bronx,34920,31,Hispanic or Latino,New York City
+1199000,2394,93,Multi-Family,728.0188918,1752.079103,483.6008852,17,4,The Bronx,34920,31,Hispanic or Latino,New York City
+795000,1171,103,Multi-Family,326.2534521,1286.222476,426.938256,14,23,The Bronx,34920,31,Hispanic or Latino,New York City
+1200000,1842,93,Single Family Residential,246.0837017,1437.800655,1030.106589,10,9,The Bronx,34920,31,Hispanic or Latino,New York City
+749995,1829.844584,66.235406,Vacant Land,29.47034259,1529.746498,867.0492031,10,16,The Bronx,34920,31,Hispanic or Latino,New York City
+350000,1829.844584,66.235406,Vacant Land,514.1830177,2077.490058,317.1660711,13,27,The Bronx,34920,31,Hispanic or Latino,New York City
+929000,2060,86,Multi-Family,616.8088959,2036.648808,430.7172841,11,27,The Bronx,34920,31,Hispanic or Latino,New York City
+1002500,1829.844584,66.235406,Vacant Land,458.9692939,2782.171785,1638.192129,2,3,The Bronx,34920,31,Hispanic or Latino,New York City
+925000,1750,93,Multi-Family,820.2318724,4483.938056,2520.957638,7,5,The Bronx,34920,31,Hispanic or Latino,New York City
+1900000,2644,108,Single Family Residential,733.6317289,3095.681335,831.2008194,2,9,The Bronx,34920,31,Hispanic or Latino,New York City
+1235000,1829.844584,66.235406,Vacant Land,603.2147942,3970.668543,2008.345293,5,5,The Bronx,34920,31,Hispanic or Latino,New York City
+899999,1800,63,Multi-Family,379.3939315,3723.510545,1828.007366,5,5,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,1850,48,Single Family Residential,212.8804051,4465.69663,2767.471695,7,5,The Bronx,34920,31,Hispanic or Latino,New York City
+842500,1436,96,Single Family Residential,161.7102862,4787.402855,3139.241262,6,5,The Bronx,34920,31,Hispanic or Latino,New York City
+799900,1829.844584,66.235406,Vacant Land,1166.299544,5255.416716,3262.515646,4,4,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,1829.844584,66.235406,Vacant Land,238.0444424,4521.603832,2816.863843,7,5,The Bronx,34920,31,Hispanic or Latino,New York City
+1395000,2652,98,Single Family Residential,310.0782102,4952.269953,3253.426898,5,5,The Bronx,34920,31,Hispanic or Latino,New York City
+1599900,2244,78,Single Family Residential,1117.886956,5221.80519,3254.284344,4,4,The Bronx,34920,31,Hispanic or Latino,New York City
+819000,1829.844584,122,Multi-Family,358.7180867,745.2727176,1499.733302,13,13,The Bronx,34920,31,Hispanic or Latino,New York City
+859000,2820,26,Multi-Family,366.1336855,753.1039224,1567.730633,12,18,The Bronx,34920,31,Hispanic or Latino,New York City
+1225000,2241,113,Multi-Family,511.8074051,645.3381741,1773.917105,14,24,The Bronx,34920,31,Hispanic or Latino,New York City
+1195000,1829.844584,92,Multi-Family,616.8966136,653.1406789,1818.857899,15,26,The Bronx,34920,31,Hispanic or Latino,New York City
+900000,2586,58,Townhouse,110.2943594,3154.912166,1291.980068,1,0,The Bronx,34920,31,Hispanic or Latino,New York City
+985000,1829.844584,93,Multi-Family,1771.091897,1393.164243,398.8516376,22,26,The Bronx,34920,31,Hispanic or Latino,New York City
+1170000,1829.844584,98,Single Family Residential,1609.330058,1488.628162,274.8507724,21,29,The Bronx,34920,31,Hispanic or Latino,New York City
+724999,1260,58,Single Family Residential,733.6666487,2377.061797,555.1365154,13,11,The Bronx,34920,31,Hispanic or Latino,New York City
+249000,1829.844584,66.235406,Vacant Land,857.791135,2330.72178,477.0017257,14,11,The Bronx,34920,31,Hispanic or Latino,New York City
+1200000,2800,108,Multi-Family,964.8053931,2258.09297,559.6892815,18,12,The Bronx,34920,31,Hispanic or Latino,New York City
+775000,2910,103,Multi-Family,180.9655982,2351.727653,251.5422301,15,14,The Bronx,34920,31,Hispanic or Latino,New York City
+749888,1829.844584,63,Multi-Family,397.5687436,2246.257581,291.0741454,14,11,The Bronx,34920,31,Hispanic or Latino,New York City
+650000,1232,68,Single Family Residential,997.0665336,1663.733836,892.5541771,13,16,The Bronx,34920,31,Hispanic or Latino,New York City
+710000,1250,71,Multi-Family,637.5503735,1529.090756,249.7106286,14,11,The Bronx,34920,31,Hispanic or Latino,New York City
+985000,2475,58,Multi-Family,1224.679074,1453.92292,1126.289764,15,17,The Bronx,34920,31,Hispanic or Latino,New York City
+869000,2250,103,Multi-Family,968.2840935,1182.350045,722.9384367,12,7,The Bronx,34920,31,Hispanic or Latino,New York City
+299999,1000,85,Condo/Co-op,50.5972893,2415.255386,384.1962062,11,8,The Bronx,34920,31,Hispanic or Latino,New York City
+183000,831,87,Condo/Co-op,50.10303527,2405.664025,346.0775999,11,8,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,1120,124,Single Family Residential,688.4667055,1973.23545,617.1475148,21,12,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,1120,124,Single Family Residential,688.4667055,1973.23545,617.1475148,21,12,The Bronx,34920,31,Hispanic or Latino,New York City
+699999,2218,58,Single Family Residential,346.1545171,2052.769373,511.5656748,20,16,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,2936,63,Multi-Family,115.0042826,1964.419289,364.3680365,15,12,The Bronx,34920,31,Hispanic or Latino,New York City
+995000,2860,73,Multi-Family,637.6251781,1911.320026,683.3735731,23,12,The Bronx,34920,31,Hispanic or Latino,New York City
+949999,2322,88,Single Family Residential,74.14166392,446.3636941,1120.330759,13,0,The Bronx,34920,31,Hispanic or Latino,New York City
+999999,1664,88,Single Family Residential,581.0233441,1733.368286,1092.73634,3,3,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,1378,93,Single Family Residential,112.1359208,434.5563809,919.1099465,12,0,The Bronx,34920,31,Hispanic or Latino,New York City
+795000,1716,68,Single Family Residential,322.1715778,929.5277526,1523.973385,12,3,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,1200,103,Single Family Residential,255.7927398,577.6997583,890.4142164,12,0,The Bronx,34920,31,Hispanic or Latino,New York City
+1150000,2310,73,Multi-Family,321.559674,645.2113424,1004.456962,11,0,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,1675,88,Single Family Residential,404.1517968,789.4521074,1266.476928,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+629999,1296,92,Single Family Residential,374.4103453,697.3929451,1013.979203,12,0,The Bronx,34920,31,Hispanic or Latino,New York City
+925000,2160,58,Multi-Family,517.4803901,975.1419747,1252.143643,10,2,The Bronx,34920,31,Hispanic or Latino,New York City
+939005,2337,68,Multi-Family,649.8868899,1109.413313,1165.604201,11,3,The Bronx,34920,31,Hispanic or Latino,New York City
+1100000,2300,88,Single Family Residential,631.3105329,1225.308384,520.1817127,14,1,The Bronx,34920,31,Hispanic or Latino,New York City
+625000,1952,78,Single Family Residential,652.8097269,980.6204617,971.8626392,10,0,The Bronx,34920,31,Hispanic or Latino,New York City
+599999,1048,83,Single Family Residential,401.2565563,1327.419392,785.8571978,7,1,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,1386,73,Multi-Family,684.942542,1270.107213,690.40523,10,0,The Bronx,34920,31,Hispanic or Latino,New York City
+549777,2106,73,Single Family Residential,1080.151305,1546.408642,990.3931448,10,2,The Bronx,34920,31,Hispanic or Latino,New York City
+849000,2640,78,Multi-Family,457.6031401,1376.250678,550.42697,10,1,The Bronx,34920,31,Hispanic or Latino,New York City
+475000,1116,98,Single Family Residential,568.0635076,1907.055654,1147.177211,11,8,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,1620,73,Single Family Residential,750.911458,1527.888376,562.3520899,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,1620,73,Single Family Residential,750.911458,1527.888376,562.3520899,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+778000,1982,103,Single Family Residential,154.5854161,1566.550195,477.3465493,8,1,The Bronx,34920,31,Hispanic or Latino,New York City
+549000,496,93,Single Family Residential,566.6152552,2087.9645,1116.78502,13,8,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,1518,100,Multi-Family,1094.188979,1894.275787,753.0007103,12,2,The Bronx,34920,31,Hispanic or Latino,New York City
+709000,2008,90,Single Family Residential,206.5107741,2015.312923,657.6781814,11,2,The Bronx,34920,31,Hispanic or Latino,New York City
+570000,1728,73,Single Family Residential,978.7601739,1934.133484,630.2742301,9,2,The Bronx,34920,31,Hispanic or Latino,New York City
+849000,1908,53,Multi-Family,486.8662225,2240.006941,933.3210277,13,5,The Bronx,34920,31,Hispanic or Latino,New York City
+450000,1829.844584,63,Single Family Residential,1302.337135,2135.463932,947.8023159,13,3,The Bronx,34920,31,Hispanic or Latino,New York City
+1050000,2924,21,Multi-Family,476.6930474,2567.25531,1155.863486,15,7,The Bronx,34920,31,Hispanic or Latino,New York City
+950000,1829.844584,66.235406,Multi-Family,1172.661042,2298.769963,820.1265005,13,2,The Bronx,34920,31,Hispanic or Latino,New York City
+980000,1938,98,Multi-Family,896.5666554,1381.533124,810.7640844,10,1,The Bronx,34920,31,Hispanic or Latino,New York City
+1200000,1829.844584,66.235406,Vacant Land,1343.281331,2383.772694,989.8019474,12,2,The Bronx,34920,31,Hispanic or Latino,New York City
+635000,1224,68,Single Family Residential,1132.094858,2508.880027,865.5729681,9,4,The Bronx,34920,31,Hispanic or Latino,New York City
+599990,1140,88,Multi-Family,998.1787811,2111.611934,791.3300367,7,3,The Bronx,34920,31,Hispanic or Latino,New York City
+629000,1575,73,Single Family Residential,1228.30509,2618.223203,1042.533036,8,3,The Bronx,34920,31,Hispanic or Latino,New York City
+659000,1829.844584,78,Single Family Residential,1277.459736,2668.606221,1097.054121,10,3,The Bronx,34920,31,Hispanic or Latino,New York City
+650000,1912,63,Townhouse,1481.223416,2189.958024,1127.967572,16,3,The Bronx,34920,31,Hispanic or Latino,New York City
+669999,1832,98,Single Family Residential,1349.318015,1927.422458,1135.223139,13,8,The Bronx,34920,31,Hispanic or Latino,New York City
+750000,1752,73,Multi-Family,1455.283275,2488.925715,1107.205718,13,3,The Bronx,34920,31,Hispanic or Latino,New York City
+665000,1612,78,Multi-Family,1524.806278,2069.907038,1180.36143,16,7,The Bronx,34920,31,Hispanic or Latino,New York City
+740000,2160,58,Multi-Family,1014.28308,1817.097529,880.4762873,14,9,The Bronx,34920,31,Hispanic or Latino,New York City
+899000,1829.844584,58,Multi-Family,691.5453217,1405.651204,586.8175636,15,6,The Bronx,34920,31,Hispanic or Latino,New York City
+825000,1832,88,Multi-Family,733.3358732,2290.720191,365.4258545,15,9,The Bronx,34920,31,Hispanic or Latino,New York City
+1175000,1600,103,Single Family Residential,879.8336147,1762.772609,858.8697595,16,9,The Bronx,34920,31,Hispanic or Latino,New York City
+1299000,2888,92,Multi-Family,767.9553469,2368.82763,460.4643922,16,8,The Bronx,34920,31,Hispanic or Latino,New York City
+785000,2445,83,Multi-Family,33.71151679,1369.314169,385.1721499,8,2,The Bronx,34920,31,Hispanic or Latino,New York City
+675000,2034,78,Multi-Family,1489.184733,2391.985923,1231.535285,10,3,The Bronx,34920,31,Hispanic or Latino,New York City
+159999,1829.844584,66.235406,Vacant Land,1580.341067,2390.253489,1392.045803,11,1,The Bronx,34920,31,Hispanic or Latino,New York City
+299000,1829.844584,66.235406,Vacant Land,1364.622962,2519.674723,1124.065092,10,1,The Bronx,34920,31,Hispanic or Latino,New York City
+829999,2640,103,Multi-Family,1581.167592,2382.584116,1386.022147,10,1,The Bronx,34920,31,Hispanic or Latino,New York City
+899000,1829.844584,66.235406,Vacant Land,180.176513,1469.655849,239.0500609,8,4,The Bronx,34920,31,Hispanic or Latino,New York City
+549995,1829.844584,63,Single Family Residential,1546.015405,2210.283425,1186.574974,9,1,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,3060,58,Multi-Family,234.1587279,1536.37513,267.3214175,9,4,The Bronx,34920,31,Hispanic or Latino,New York City
+710000,2536,73,Multi-Family,1271.587613,2071.622413,932.5931499,6,3,The Bronx,34920,31,Hispanic or Latino,New York City
+749000,1615,73,Multi-Family,1281.546282,2036.617882,927.883536,6,3,The Bronx,34920,31,Hispanic or Latino,New York City
+650000,1829.844584,68,Multi-Family,1413.588566,2067.595179,1043.093641,6,1,The Bronx,34920,31,Hispanic or Latino,New York City
+425000,1700,103,Multi-Family,579.5565313,1727.368553,323.628609,7,3,The Bronx,34920,31,Hispanic or Latino,New York City
+1149999,2300,5,Multi-Family,1041.486373,2252.572215,1138.314073,16,1,The Bronx,34920,31,Hispanic or Latino,New York City
+530000,1131,98,Single Family Residential,1011.663218,2122.757953,1250.759206,15,1,The Bronx,34920,31,Hispanic or Latino,New York City
+530000,1131,98,Single Family Residential,1011.663218,2122.757953,1250.759206,15,1,The Bronx,34920,31,Hispanic or Latino,New York City
+800000,2125,68,Multi-Family,1343.112986,1865.022055,1191.155943,7,0,The Bronx,34920,31,Hispanic or Latino,New York City
+800000,2125,68,Multi-Family,1347.991648,1857.750941,1183.235071,7,0,The Bronx,34920,31,Hispanic or Latino,New York City
+960000,2440,103,Multi-Family,1386.12191,1653.289622,966.4061051,7,1,The Bronx,34920,31,Hispanic or Latino,New York City
+685000,1890,63,Single Family Residential,1280.892278,1455.99235,806.5084301,8,3,The Bronx,34920,31,Hispanic or Latino,New York City
+645000,2000,95,Single Family Residential,1039.588449,1718.138688,1188.22477,10,1,The Bronx,34920,31,Hispanic or Latino,New York City
+500000,2320,103,Single Family Residential,355.1247028,1203.760642,226.6829439,1,2,The Bronx,34920,31,Hispanic or Latino,New York City
+500000,2320,103,Single Family Residential,355.1247028,1203.760642,226.6829439,1,2,The Bronx,34920,31,Hispanic or Latino,New York City
+599000,1829.844584,63,Multi-Family,1274.651078,1512.027631,931.815941,9,1,The Bronx,34920,31,Hispanic or Latino,New York City
+750000,1998,68,Multi-Family,528.4090919,1767.826623,1360.499563,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,1700,73,Single Family Residential,884.0987477,1693.567484,1183.423746,6,2,The Bronx,34920,31,Hispanic or Latino,New York City
+550000,1308,98,Single Family Residential,960.5609014,1807.354642,1196.588137,4,2,The Bronx,34920,31,Hispanic or Latino,New York City
+755000,1984,73,Multi-Family,1188.44243,1929.572519,1173.925272,4,2,The Bronx,34920,31,Hispanic or Latino,New York City
+600000,1856,58,Townhouse,550.901429,2735.803396,632.8371798,18,1,The Bronx,34920,31,Hispanic or Latino,New York City
+650000,1890,103,Single Family Residential,614.7231551,2253.0221,1304.44403,4,1,The Bronx,34920,31,Hispanic or Latino,New York City
+529900,1644,78,Single Family Residential,495.516618,2346.704938,1176.749791,4,1,The Bronx,34920,31,Hispanic or Latino,New York City
+529900,1644,78,Single Family Residential,495.516618,2346.704938,1176.749791,4,1,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,1260,74,Single Family Residential,648.0515005,2400.663405,1203.902551,1,0,The Bronx,34920,31,Hispanic or Latino,New York City
+600000,1728,58,Multi-Family,1108.305021,2447.441286,1507.991846,1,0,The Bronx,34920,31,Hispanic or Latino,New York City
+260000,1829.844584,66.235406,Vacant Land,785.1779966,3279.950893,55.95464167,15,1,The Bronx,34920,31,Hispanic or Latino,New York City
+119000,1829.844584,66.235406,Vacant Land,167.5971257,2845.592602,808.8667233,17,2,The Bronx,34920,31,Hispanic or Latino,New York City
+680000,2375,92,Multi-Family,243.8216637,2567.049379,903.7220196,7,5,The Bronx,34920,31,Hispanic or Latino,New York City
+850000,1688,99,Multi-Family,709.2365389,3449.863464,338.8034408,6,7,The Bronx,34920,31,Hispanic or Latino,New York City
+790000,1800,60,Multi-Family,630.9804514,4743.391531,1319.276963,1,1,The Bronx,34920,31,Hispanic or Latino,New York City
+831500,2008,60,Multi-Family,597.6892957,4843.416602,1434.920824,1,1,The Bronx,34920,31,Hispanic or Latino,New York City
+960000,2650,20,Multi-Family,364.0566103,1958.910162,1510.646133,9,1,The Bronx,34920,31,Hispanic or Latino,New York City
+1050000,2270,24,Multi-Family,70.36372953,3141.022491,492.2666183,11,7,The Bronx,34920,31,Hispanic or Latino,New York City
+1199000,2632,60,Multi-Family,17.40856963,2810.396639,657.821316,9,5,The Bronx,34920,31,Hispanic or Latino,New York City
+1200000,2800,65,Multi-Family,589.5378128,3455.73299,503.0738862,20,3,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,1260,63,Single Family Residential,220.3861265,2643.843596,923.9876667,16,6,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,1260,63,Single Family Residential,220.3861265,2643.843596,923.9876667,16,6,The Bronx,34920,31,Hispanic or Latino,New York City
+879000,2160,103,Multi-Family,680.5619733,2405.842791,487.2554445,12,2,The Bronx,34920,31,Hispanic or Latino,New York City
+553000,1280,68,Single Family Residential,939.6168773,2450.475576,647.3145134,11,2,The Bronx,34920,31,Hispanic or Latino,New York City
+838000,1905,73,Multi-Family,1183.470871,2576.447416,872.1217092,12,2,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,1995,88,Multi-Family,911.8513505,2562.979752,681.7020416,12,2,The Bronx,34920,31,Hispanic or Latino,New York City
+569000,1052,88,Single Family Residential,1525.238836,2816.463377,1232.461509,14,3,The Bronx,34920,31,Hispanic or Latino,New York City
+799999,2365,73,Multi-Family,1471.939068,2701.535458,1284.743081,12,3,The Bronx,34920,31,Hispanic or Latino,New York City
+479990,1140,78,Single Family Residential,1485.254684,2740.105298,1202.806883,11,2,The Bronx,34920,31,Hispanic or Latino,New York City
+750000,1760,58,Multi-Family,354.3974484,3057.831037,395.3238058,13,3,The Bronx,34920,31,Hispanic or Latino,New York City
+625000,1539,73,Townhouse,535.6779943,2971.253124,540.9778,13,1,The Bronx,34920,31,Hispanic or Latino,New York City
+859999,1472,103,Multi-Family,409.2372146,3105.354293,332.1859614,12,3,The Bronx,34920,31,Hispanic or Latino,New York City
+600000,2620,53,Multi-Family,636.4863017,3178.575706,349.6284182,12,1,The Bronx,34920,31,Hispanic or Latino,New York City
+640000,1630,73,Multi-Family,1427.767248,2307.757893,1141.565467,8,3,The Bronx,34920,31,Hispanic or Latino,New York City
+855000,2290,63,Multi-Family,1612.853195,2360.665469,1286.46168,11,3,The Bronx,34920,31,Hispanic or Latino,New York City
+789000,1829.844584,66.235406,Vacant Land,982.1337791,2854.35803,643.4526543,13,1,The Bronx,34920,31,Hispanic or Latino,New York City
+159999,1829.844584,66.235406,Vacant Land,1574.197545,2385.462215,1376.715483,10,1,The Bronx,34920,31,Hispanic or Latino,New York City
+629000,1829.844584,68,Single Family Residential,946.5508661,2643.284164,727.868755,16,1,The Bronx,34920,31,Hispanic or Latino,New York City
+599999,1863,63,Multi-Family,194.4385085,949.9467997,396.5749708,0,2,The Bronx,34920,31,Hispanic or Latino,New York City
+605000,1735,103,Single Family Residential,853.2680738,899.5680076,363.5653677,4,4,The Bronx,34920,31,Hispanic or Latino,New York City
+950000,3000,17,Multi-Family,266.8120484,660.9094802,311.7406053,3,4,The Bronx,34920,31,Hispanic or Latino,New York City
+199000,1829.844584,66.235406,Vacant Land,962.7815126,1328.063364,923.3366791,10,3,The Bronx,34920,31,Hispanic or Latino,New York City
+145000,1829.844584,66.235406,Vacant Land,910.2618498,1398.605225,986.4914692,9,2,The Bronx,34920,31,Hispanic or Latino,New York City
+778000,1782,69,Multi-Family,1214.194837,1112.140032,696.2424883,11,6,The Bronx,34920,31,Hispanic or Latino,New York City
+650000,1951,113,Single Family Residential,517.1346552,333.8865936,86.33362833,7,4,The Bronx,34920,31,Hispanic or Latino,New York City
+999999,2560,88,Multi-Family,940.961222,1546.281606,1096.815517,6,2,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,914,93,Single Family Residential,988.3990329,839.3039998,426.8122103,9,6,The Bronx,34920,31,Hispanic or Latino,New York City
+525000,914,93,Single Family Residential,988.3990329,839.3039998,426.8122103,9,6,The Bronx,34920,31,Hispanic or Latino,New York City
+195000,1829.844584,66.235406,Single Family Residential,754.2102341,637.4065291,274.4090755,9,6,The Bronx,34920,31,Hispanic or Latino,New York City
+499000,1146,98,Single Family Residential,1212.079084,1163.656877,559.3276629,9,6,The Bronx,34920,31,Hispanic or Latino,New York City
+930000,1829.844584,66.235406,Multi-Family,863.6140915,873.3184699,339.36736,8,5,The Bronx,34920,31,Hispanic or Latino,New York City
+680000,1318,98,Single Family Residential,1123.285899,1164.678656,423.708351,10,6,The Bronx,34920,31,Hispanic or Latino,New York City
+585000,2076,93,Single Family Residential,370.7642824,529.0801206,501.3254533,9,8,The Bronx,34920,31,Hispanic or Latino,New York City
+1150000,1829.844584,93,Multi-Family,482.968543,733.4744787,90.36195399,4,4,The Bronx,34920,31,Hispanic or Latino,New York City
+485000,816,113,Single Family Residential,2241.441808,652.3536399,788.7035159,11,15,The Bronx,34920,31,Hispanic or Latino,New York City
+949000,2680,60,Multi-Family,2483.190854,231.8761772,655.7709083,11,18,The Bronx,34920,31,Hispanic or Latino,New York City
+196500,653,53,Condo/Co-op,1620.930866,1308.155733,1065.025828,19,15,The Bronx,34920,31,Hispanic or Latino,New York City
+499999,1744,113,Single Family Residential,456.2031142,5999.004444,4167.208246,0,2,The Bronx,34920,31,Hispanic or Latino,New York City
+199000,1829.844584,66.235406,Vacant Land,888.305473,6194.853057,4402.153864,1,11,The Bronx,34920,31,Hispanic or Latino,New York City
+599000,1606,98,Single Family Residential,900.4516563,6205.438453,4413.431279,1,11,The Bronx,34920,31,Hispanic or Latino,New York City
+750000,1881,78,Single Family Residential,1646.59041,1034.630701,1452.88423,9,9,The Bronx,34920,31,Hispanic or Latino,New York City
+780000,1656,103,Single Family Residential,1162.893598,1046.383914,952.4341817,10,7,The Bronx,34920,31,Hispanic or Latino,New York City
+899000,1440,103,Single Family Residential,1632.498584,1080.200384,1377.021504,9,10,The Bronx,34920,31,Hispanic or Latino,New York City
+649000,1700,113,Townhouse,591.1809056,962.8315743,633.433076,13,7,The Bronx,34920,31,Hispanic or Latino,New York City
+895000,2305,68,Multi-Family,321.4847076,768.6495039,586.478178,13,6,The Bronx,34920,31,Hispanic or Latino,New York City
+670000,2101,93,Single Family Residential,1655.946224,988.4880152,1438.521924,11,10,The Bronx,34920,31,Hispanic or Latino,New York City
+450000,1829.844584,66.235406,Vacant Land,2047.396009,610.6779102,1184.72275,8,11,The Bronx,34920,31,Hispanic or Latino,New York City
+779000,1580,78,Multi-Family,1216.032301,619.7970988,1265.239984,13,16,The Bronx,34920,31,Hispanic or Latino,New York City
+1224000,2400,83,Single Family Residential,621.0516774,599.7443522,966.0204372,20,10,The Bronx,34920,31,Hispanic or Latino,New York City
+999000,2400,103,Multi-Family,1621.790579,734.4584462,1309.119587,15,14,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,1750,83,Single Family Residential,439.9635289,435.9294928,836.9701078,21,8,The Bronx,34920,31,Hispanic or Latino,New York City
+1050000,1829.844584,97,Multi-Family,2302.277448,272.9427495,863.5957688,9,13,The Bronx,34920,31,Hispanic or Latino,New York City
+660000,1283,76,Townhouse,909.5385809,450.7377297,1296.93803,16,12,The Bronx,34920,31,Hispanic or Latino,New York City
+729000,1600,83,Single Family Residential,468.4802656,335.3849104,965.6146813,21,8,The Bronx,34920,31,Hispanic or Latino,New York City
+695000,1870,98,Single Family Residential,1269.271681,359.8822701,1504.07078,14,17,The Bronx,34920,31,Hispanic or Latino,New York City
+750000,2320,93,Single Family Residential,559.1921762,398.3374603,1068.522609,19,8,The Bronx,34920,31,Hispanic or Latino,New York City
+749000,1480,83,Single Family Residential,621.6928861,456.7150999,1119.634874,18,8,The Bronx,34920,31,Hispanic or Latino,New York City
+949000,1650,103,Multi-Family,1157.269674,289.183295,1497.755082,13,14,The Bronx,34920,31,Hispanic or Latino,New York City
+1300000,2200,98,Multi-Family,2353.656914,291.1075634,394.5564244,7,16,The Bronx,34920,31,Hispanic or Latino,New York City
+849000,1829.844584,66.235406,Multi-Family,196.4317786,675.1461513,1569.492872,14,3,The Bronx,34920,31,Hispanic or Latino,New York City
+600000,1634,98,Multi-Family,835.3525309,2413.911556,441.0748314,18,12,The Bronx,34920,31,Hispanic or Latino,New York City
+699000,1421,98,Single Family Residential,181.9109451,1868.280909,233.5264034,9,6,The Bronx,34920,31,Hispanic or Latino,New York City
+489000,2500,103,Single Family Residential,522.9453037,1132.806988,286.8167786,6,6,The Bronx,34920,31,Hispanic or Latino,New York City
+649000,1522,73,Multi-Family,738.3417149,1602.938282,461.1984284,6,5,The Bronx,34920,31,Hispanic or Latino,New York City
+799000,2000,98,Multi-Family,774.1564108,1578.322892,386.1592412,6,5,The Bronx,34920,31,Hispanic or Latino,New York City
+649000,1890,58,Single Family Residential,942.5888143,1848.315462,458.1184363,5,4,The Bronx,34920,31,Hispanic or Latino,New York City
+700000,1472,98,Multi-Family,889.9635337,1686.237209,287.4460989,5,5,The Bronx,34920,31,Hispanic or Latino,New York City
+579990,1728,98,Townhouse,1348.029631,1413.884056,613.3128425,9,4,The Bronx,34920,31,Hispanic or Latino,New York City
+599000,1665,63,Single Family Residential,1520.068976,2250.956761,410.896189,2,3,The Bronx,34920,31,Hispanic or Latino,New York City
+849000,2200,-1,Multi-Family,1774.153357,2452.97939,636.119386,2,3,The Bronx,34920,31,Hispanic or Latino,New York City
+615000,1665,68,Townhouse,1798.901795,2482.779885,663.4255737,2,3,The Bronx,34920,31,Hispanic or Latino,New York City
+615000,1435,78,Single Family Residential,1658.100789,2056.363676,658.0211444,3,4,The Bronx,34920,31,Hispanic or Latino,New York City
+550000,1648,58,Single Family Residential,1771.983304,2387.569747,622.8973882,2,3,The Bronx,34920,31,Hispanic or Latino,New York City
+829000,1296,78,Multi-Family,1267.423034,2071.192029,1235.041347,2,1,The Bronx,34920,31,Hispanic or Latino,New York City
+279000,1829.844584,66.235406,Vacant Land,1986.876059,2537.044209,844.8549273,2,3,The Bronx,34920,31,Hispanic or Latino,New York City
+675999,2070,63,Multi-Family,1328.039967,2126.54091,1212.276427,2,1,The Bronx,34920,31,Hispanic or Latino,New York City
+789000,1789,103,Multi-Family,487.545018,1162.56738,346.7695538,5,6,The Bronx,34920,31,Hispanic or Latino,New York City
+1150000,2376,103,Multi-Family,772.9158563,1397.97183,399.5403808,6,6,The Bronx,34920,31,Hispanic or Latino,New York City
+849000,1829.844584,53,Multi-Family,284.9321682,1181.456456,1524.129976,5,9,The Bronx,34920,31,Hispanic or Latino,New York City
+499000,1350,124,Single Family Residential,106.6532312,681.4124713,947.905371,9,13,The Bronx,34920,31,Hispanic or Latino,New York City
+599000,1497,103,Single Family Residential,164.402597,1606.434949,1618.741258,4,10,The Bronx,34920,31,Hispanic or Latino,New York City
+859000,1829.844584,122,Single Family Residential,778.2776037,690.7892958,398.6635774,15,3,The Bronx,34920,31,Hispanic or Latino,New York City
+949999,2682,122,Single Family Residential,895.5741252,555.4969519,289.4307194,16,4,The Bronx,34920,31,Hispanic or Latino,New York City
+269999,900,95,Condo/Co-op,362.477304,1901.117483,390.3674645,22,15,Concourse,101566,33,Hispanic or Latino,New York City
+184500,1829.844584,95,Condo/Co-op,281.437449,1957.449988,363.3618396,23,15,Concourse,101566,33,Hispanic or Latino,New York City
+259900,1111,87,Condo/Co-op,588.0963399,844.0683822,372.6377908,17,12,Concourse,101566,33,Hispanic or Latino,New York City
+349000,1440,87,Condo/Co-op,588.0963399,844.0683822,372.6377908,17,12,Concourse,101566,33,Hispanic or Latino,New York City
+180000,600,69,Condo/Co-op,99.09860175,1162.322906,536.2651756,20,13,Concourse,101566,33,Hispanic or Latino,New York City
+239000,800,69,Condo/Co-op,99.09860175,1162.322906,536.2651756,20,13,Concourse,101566,33,Hispanic or Latino,New York City
+320000,870,68,Condo/Co-op,99.09860175,1162.322906,536.2651756,20,13,Concourse,101566,33,Hispanic or Latino,New York City
+375000,850,69,Condo/Co-op,99.09860175,1162.322906,536.2651756,20,13,Concourse,101566,33,Hispanic or Latino,New York City
+425000,1100,69,Condo/Co-op,99.09860175,1162.322906,536.2651756,20,13,Concourse,101566,33,Hispanic or Latino,New York City
+399000,1120,69,Condo/Co-op,99.09860175,1162.322906,536.2651756,20,13,Concourse,101566,33,Hispanic or Latino,New York City
+275000,650,82,Condo/Co-op,178.1184598,1353.502797,444.1206233,22,8,Concourse,101566,33,Hispanic or Latino,New York City
+699999,1615,93,Townhouse,1440.125874,4310.928428,3555.062553,4,0,Broad Channel,119000,40,White,New York City
+570000,1829.844584,97,Single Family Residential,2108.659845,7558.947428,975.2162519,0,1,Broad Channel,119000,40,White,New York City
+549000,1829.844584,7,Single Family Residential,2018.730548,7400.42392,882.7536496,0,1,Broad Channel,119000,40,White,New York City
+579000,1829.844584,98,Single Family Residential,2423.674142,7308.783703,334.6655071,0,0,Broad Channel,119000,40,White,New York City
+438000,865,103,Single Family Residential,2686.082666,7321.819454,224.8818779,0,0,Broad Channel,119000,40,White,New York City
+299000,1829.844584,103,Single Family Residential,2923.408295,7450.415372,422.1282559,0,0,Broad Channel,119000,40,White,New York City
+160000,1829.844584,66.235406,Vacant Land,2935.269959,7467.393936,437.907392,0,0,Broad Channel,119000,40,White,New York City
+749000,1829.844584,92,Single Family Residential,1717.855982,7514.072108,1425.971366,0,1,Broad Channel,119000,40,White,New York City
+990000,3000,6,Single Family Residential,2279.967933,7398.473641,582.8318051,0,0,Broad Channel,119000,40,White,New York City
+165000,735,73,Condo/Co-op,98.73397263,1497.317625,839.2632498,17,11,Fordham,87329,31,Hispanic or Latino,New York City
+263000,975,73,Condo/Co-op,98.73397263,1497.317625,839.2632498,17,11,Fordham,87329,31,Hispanic or Latino,New York City
+260000,900,73,Condo/Co-op,98.73397263,1497.317625,839.2632498,17,11,Fordham,87329,31,Hispanic or Latino,New York City
+245000,950,71,Condo/Co-op,96.8224921,1499.668695,780.6280825,21,12,Fordham,87329,31,Hispanic or Latino,New York City
+189000,750,73,Condo/Co-op,156.6912938,1436.866132,839.2380209,21,11,Fordham,87329,31,Hispanic or Latino,New York City
+149000,750,73,Condo/Co-op,156.6912938,1436.866132,839.2380209,21,11,Fordham,87329,31,Hispanic or Latino,New York City
+265000,975,73,Condo/Co-op,156.6912938,1436.866132,839.2380209,21,11,Fordham,87329,31,Hispanic or Latino,New York City
+199999,950,73,Condo/Co-op,156.6912938,1436.866132,839.2380209,21,11,Fordham,87329,31,Hispanic or Latino,New York City
+243000,965,73,Condo/Co-op,156.4325167,1459.502716,756.0892525,22,12,Fordham,87329,31,Hispanic or Latino,New York City
+170000,795,73,Condo/Co-op,156.4325167,1459.502716,756.0892525,22,12,Fordham,87329,31,Hispanic or Latino,New York City
+261111,935,73,Condo/Co-op,156.4325167,1459.502716,756.0892525,22,12,Fordham,87329,31,Hispanic or Latino,New York City
+154900,700,73,Condo/Co-op,212.1017735,1384.375408,844.5984935,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+164990,735,73,Condo/Co-op,212.1017735,1384.375408,844.5984935,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+165000,800,73,Condo/Co-op,212.1017735,1384.375408,844.5984935,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+260000,1000,73,Condo/Co-op,212.1017735,1384.375408,844.5984935,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+265000,975,73,Condo/Co-op,229.6308943,1416.357609,741.992757,22,12,Fordham,87329,31,Hispanic or Latino,New York City
+266500,975,73,Condo/Co-op,229.6308943,1416.357609,741.992757,22,12,Fordham,87329,31,Hispanic or Latino,New York City
+275000,965,73,Condo/Co-op,258.7224041,1386.231204,760.0719482,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+160000,850,73,Condo/Co-op,257.4769314,1391.506939,727.6955094,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+170000,850,73,Condo/Co-op,257.4769314,1391.506939,727.6955094,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+260000,965,73,Condo/Co-op,257.4769314,1391.506939,727.6955094,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+165000,795,73,Condo/Co-op,257.4769314,1391.506939,727.6955094,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+184000,850,73,Condo/Co-op,257.4769314,1391.506939,727.6955094,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+173000,795,73,Condo/Co-op,289.7252948,1319.016856,849.6779785,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+145000,707,73,Condo/Co-op,289.7252948,1319.016856,849.6779785,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+166000,795,73,Condo/Co-op,306.7810232,1333.127908,798.391879,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+130000,1829.844584,73,Condo/Co-op,306.7810232,1333.127908,798.391879,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+230000,935,73,Condo/Co-op,289.7252948,1319.016856,849.6779785,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+299000,1000,73,Condo/Co-op,212.1017735,1384.375408,844.5984935,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+276000,975,73,Condo/Co-op,257.4769314,1391.506939,727.6955094,22,11,Fordham,87329,31,Hispanic or Latino,New York City
+459000,1829.844584,108,Single Family Residential,2745.569809,2355.054562,1592.167817,1,0,Inwood,50696,40.8,Hispanic or Latino,New York City
+489000,1288,109,Single Family Residential,2888.592666,2477.569545,1725.050586,1,0,Inwood,50696,40.8,Hispanic or Latino,New York City
+619000,1310,103,Single Family Residential,2720.371444,2368.435942,1710.363914,1,0,Inwood,50696,40.8,Hispanic or Latino,New York City
+619000,1310,103,Single Family Residential,2713.493907,2364.257066,1708.170329,1,0,Inwood,50696,40.8,Hispanic or Latino,New York City
+685000,1963,53,Single Family Residential,2281.022267,2334.66869,1509.764152,1,0,Inwood,50696,40.8,Hispanic or Latino,New York City
+680000,1829.844584,93,Single Family Residential,2635.444619,2151.642435,1433.570459,1,0,Inwood,50696,40.8,Hispanic or Latino,New York City
+775000,1829.844584,108,Multi-Family,2977.826203,2522.757374,1786.143316,1,0,Inwood,50696,40.8,Hispanic or Latino,New York City
+775000,1271,113,Single Family Residential,2858.259355,2424.658947,1715.557566,1,0,Inwood,50696,40.8,Hispanic or Latino,New York City
+1100000,1882,113,Single Family Residential,2918.331851,2595.234422,1937.365225,0,0,Inwood,50696,40.8,Hispanic or Latino,New York City
+1200000,1829.844584,95,Multi-Family,2647.115636,2336.565787,1706.96644,1,0,Inwood,50696,40.8,Hispanic or Latino,New York City

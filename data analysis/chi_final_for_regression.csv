@@ -1,0 +1,1282 @@
+PRICE,SQFT,house.age,PROP_TYPE,PARK_DIST,HOSPITAL_D,RAIL_DIST,BUS_COUNTS,FnB_COUNTS,neighborhood,population.density,median.age,dominant.race,city
+139999,2025.422782,109,Multi-Family,493,1511,418,56,6,Woodlawn,15747,36.5,Black,Chicago
+154400,1430,125,Condo/Co-op,431,1119,763,53,8,Woodlawn,15747,36.5,Black,Chicago
+189000,2025.422782,103,Condo/Co-op,302,784,991,61,14,Woodlawn,15747,36.5,Black,Chicago
+449900,2025.422782,113,Multi-Family,516,1375,457,59,7,Woodlawn,15747,36.5,Black,Chicago
+674800,2025.422782,1,Townhouse,339,1012,603,58,9,Woodlawn,15747,36.5,Black,Chicago
+689800,2025.422782,1,Townhouse,239,1121,538,54,7,Woodlawn,15747,36.5,Black,Chicago
+735000,2250,0,Townhouse,146,1183,1050,45,9,Woodlawn,15747,36.5,Black,Chicago
+759000,2300,0,Townhouse,146,1183,1050,45,9,Woodlawn,15747,36.5,Black,Chicago
+689800,2025.422782,0,Single Family Residential,239,1121,538,53,7,Woodlawn,15747,36.5,Black,Chicago
+689800,2025.422782,0,Single Family Residential,285,1044,555,57,8,Woodlawn,15747,36.5,Black,Chicago
+889000,2025.422782,0,Multi-Family,196,1423,668,54,2,Woodlawn,15747,36.5,Black,Chicago
+980000,2025.422782,123,Multi-Family,294,1069,577,57,8,Woodlawn,15747,36.5,Black,Chicago
+205900,1700,133,Condo/Co-op,72,2058,1330,37,1,Woodlawn,15747,36.5,Black,Chicago
+184900,1150,15,Condo/Co-op,322,2073,983,41,3,Woodlawn,15747,36.5,Black,Chicago
+174900,650,68.46433862,Condo/Co-op,328,1516,1197,45,6,Woodlawn,15747,36.5,Black,Chicago
+135000,1600,123,Condo/Co-op,213,2204,1527,41,2,Woodlawn,15747,36.5,Black,Chicago
+212000,1200,113,Condo/Co-op,187,1837,2070,41,2,Woodlawn,15747,36.5,Black,Chicago
+340000,2025.422782,115,Multi-Family,150,2257,1389,26,1,Woodlawn,15747,36.5,Black,Chicago
+350000,2025.422782,133,Multi-Family,581,2122,933,44,4,Woodlawn,15747,36.5,Black,Chicago
+262000,1350,68.46433862,Condo/Co-op,259,1833,1070,43,2,Woodlawn,15747,36.5,Black,Chicago
+300000,2025.422782,133,Multi-Family,524,2094,923,43,4,Woodlawn,15747,36.5,Black,Chicago
+399997,2025.422782,125,Multi-Family,591,2053,865,47,4,Woodlawn,15747,36.5,Black,Chicago
+420000,2025.422782,99,Multi-Family,373,2165,1041,35,2,Woodlawn,15747,36.5,Black,Chicago
+449900,2025.422782,130,Multi-Family,316,1908,910,48,5,Woodlawn,15747,36.5,Black,Chicago
+789900,3000,-1,Single Family Residential,384,2119,996,39,2,Woodlawn,15747,36.5,Black,Chicago
+710000,2025.422782,123,Multi-Family,121,1451,738,50,7,Woodlawn,15747,36.5,Black,Chicago
+1250000,2025.422782,123,Multi-Family,201,2213,1525,40,2,Woodlawn,15747,36.5,Black,Chicago
+990000,2025.422782,93,Multi-Family,201,1762,760,50,5,Woodlawn,15747,36.5,Black,Chicago
+265000,2025.422782,120,Multi-Family,1020,1953,202,51,3,Woodlawn,15747,36.5,Black,Chicago
+147900,1300,68.46433862,Single Family Residential,424,1770,585,48,4,Woodlawn,15747,36.5,Black,Chicago
+199000,2025.422782,133,Multi-Family,418,1539,297,57,6,Woodlawn,15747,36.5,Black,Chicago
+259900,2025.422782,133,Multi-Family,609,1720,488,59,5,Woodlawn,15747,36.5,Black,Chicago
+469000,1670,0,Single Family Residential,980,2007,583,52,5,Woodlawn,15747,36.5,Black,Chicago
+629900,2025.422782,-1,Multi-Family,417,1503,301,58,7,Woodlawn,15747,36.5,Black,Chicago
+599000,2025.422782,13,Multi-Family,841,1778,405,57,7,Woodlawn,15747,36.5,Black,Chicago
+614000,2025.422782,-1,Multi-Family,743,1645,432,54,7,Woodlawn,15747,36.5,Black,Chicago
+527900,2800,112,Single Family Residential,363,1493,242,54,5,Woodlawn,15747,36.5,Black,Chicago
+175000,2050,68.46433862,Single Family Residential,1027,2407,1266,59,1,Woodlawn,15747,36.5,Black,Chicago
+215000,2025.422782,56,Multi-Family,795,1969,713,57,5,Woodlawn,15747,36.5,Black,Chicago
+347000,2025.422782,68.46433862,Multi-Family,1069,2470,1261,58,1,Woodlawn,15747,36.5,Black,Chicago
+299800,2800,93,Single Family Residential,925,2025,804,53,5,Woodlawn,15747,36.5,Black,Chicago
+299000,2025.422782,109,Multi-Family,1186,2331,1084,57,1,Woodlawn,15747,36.5,Black,Chicago
+375000,2025.422782,113,Multi-Family,996,2400,1148,53,0,Woodlawn,15747,36.5,Black,Chicago
+425000,2025.422782,-1,Single Family Residential,1044,2634,1386,64,0,Woodlawn,15747,36.5,Black,Chicago
+499000,2700,2,Single Family Residential,741,1987,738,53,4,Woodlawn,15747,36.5,Black,Chicago
+499000,2700,2,Single Family Residential,716,1902,647,56,5,Woodlawn,15747,36.5,Black,Chicago
+229900,1155,137,Single Family Residential,625,1716,698,42,1,Austin,18763,36.1,Black,Chicago
+198000,1200,108,Single Family Residential,659,1693,771,40,1,Austin,18763,36.1,Black,Chicago
+234900,2025.422782,133,Multi-Family,198,2178,560,32,0,Austin,18763,36.1,Black,Chicago
+499000,2025.422782,59,Multi-Family,687,1775,785,44,5,Austin,18763,36.1,Black,Chicago
+480000,2025.422782,116,Multi-Family,258,2217,260,29,0,Austin,18763,36.1,Black,Chicago
+349900,1,111,Single Family Residential,400,4388,2160,34,1,Austin,18763,36.1,Black,Chicago
+495000,994,110,Single Family Residential,359,4331,2182,29,1,Austin,18763,36.1,Black,Chicago
+371000,1882,68.46433862,Single Family Residential,462,4214,1971,47,4,Austin,18763,36.1,Black,Chicago
+395000,1820,111,Single Family Residential,333,4340,2120,42,3,Austin,18763,36.1,Black,Chicago
+899000,2025.422782,96,Multi-Family,629,3713,1444,42,3,Austin,18763,36.1,Black,Chicago
+529900,2025.422782,0,Multi-Family,325,4556,2398,41,2,Austin,18763,36.1,Black,Chicago
+299900,2025.422782,114,Multi-Family,339,2587,1152,52,1,Austin,18763,36.1,Black,Chicago
+1199000,2025.422782,98,Multi-Family,333,2562,1137,52,1,Austin,18763,36.1,Black,Chicago
+205000,1734,68.46433862,Single Family Residential,799,3759,1662,48,3,Austin,18763,36.1,Black,Chicago
+306000,2025.422782,101,Multi-Family,479,3847,2093,46,1,Austin,18763,36.1,Black,Chicago
+285000,2025.422782,105,Multi-Family,733,4004,1807,45,3,Austin,18763,36.1,Black,Chicago
+425000,2025.422782,114,Multi-Family,630,3054,1397,29,0,Austin,18763,36.1,Black,Chicago
+418900,2025.422782,107,Multi-Family,748,3872,1619,46,3,Austin,18763,36.1,Black,Chicago
+449900,2025.422782,98,Multi-Family,443,3988,2108,41,1,Austin,18763,36.1,Black,Chicago
+399000,1638,109,Single Family Residential,608,3853,1955,45,3,Austin,18763,36.1,Black,Chicago
+529900,2025.422782,0,Multi-Family,582,4064,1957,40,3,Austin,18763,36.1,Black,Chicago
+190000,2025.422782,108,Multi-Family,306,3029,590,31,2,Austin,18763,36.1,Black,Chicago
+80000,800,53,Condo/Co-op,50,2562,556,35,1,Austin,18763,36.1,Black,Chicago
+319900,2400,123,Single Family Residential,403,2925,864,40,2,Austin,18763,36.1,Black,Chicago
+345000,2027,142,Single Family Residential,119,2570,572,35,2,Austin,18763,36.1,Black,Chicago
+299999,1212,108,Single Family Residential,266,2789,776,36,2,Austin,18763,36.1,Black,Chicago
+365000,1538,115,Single Family Residential,652,3530,1357,41,2,Austin,18763,36.1,Black,Chicago
+119900,1700,119,Single Family Residential,73,2117,679,38,1,Austin,18763,36.1,Black,Chicago
+310000,2025.422782,110,Multi-Family,198,2248,394,31,1,Austin,18763,36.1,Black,Chicago
+392200,2025.422782,15,Multi-Family,209,2013,871,50,1,Austin,18763,36.1,Black,Chicago
+392200,2025.422782,15,Multi-Family,200,2006,864,50,1,Austin,18763,36.1,Black,Chicago
+750000,2025.422782,1,Multi-Family,491,2490,517,34,1,Austin,18763,36.1,Black,Chicago
+530000,2025.422782,114,Multi-Family,750,2854,198,23,0,Austin,18763,36.1,Black,Chicago
+149900,2025.422782,111,Multi-Family,534,2154,1109,57,1,Austin,18763,36.1,Black,Chicago
+181000,2025.422782,110,Multi-Family,471,2484,1048,52,2,Austin,18763,36.1,Black,Chicago
+249900,2025.422782,120,Multi-Family,661,2323,788,44,1,Austin,18763,36.1,Black,Chicago
+389900,2025.422782,101,Multi-Family,408,2018,1108,62,1,Austin,18763,36.1,Black,Chicago
+289900,1400,103,Single Family Residential,995,3371,2714,45,1,Austin,18763,36.1,Black,Chicago
+249900,2368,96,Single Family Residential,939,3407,2785,47,1,Austin,18763,36.1,Black,Chicago
+349000,2025.422782,99,Multi-Family,732,3274,2993,47,1,Austin,18763,36.1,Black,Chicago
+265000,2025.422782,98,Multi-Family,689,2618,3175,35,0,Austin,18763,36.1,Black,Chicago
+370000,2025.422782,103,Single Family Residential,564,3294,3147,41,1,Austin,18763,36.1,Black,Chicago
+395000,2400,109,Single Family Residential,885,3639,2328,36,1,Austin,18763,36.1,Black,Chicago
+699500,2025.422782,99,Multi-Family,718,3538,3000,38,1,Austin,18763,36.1,Black,Chicago
+615000,2410,3,Single Family Residential,661,3458,3048,39,1,Austin,18763,36.1,Black,Chicago
+370000,1568,14,Townhouse,759,3600,4150,42,0,Austin,18763,36.1,Black,Chicago
+359900,2000,13,Townhouse,793,3576,4228,39,0,Austin,18763,36.1,Black,Chicago
+399900,2025.422782,96,Multi-Family,799,3882,3459,36,0,Austin,18763,36.1,Black,Chicago
+649000,2025.422782,0,Multi-Family,476,4286,2757,46,2,Austin,18763,36.1,Black,Chicago
+309000,2025.422782,71,Multi-Family,318,1097,1446,62,1,Austin,18763,36.1,Black,Chicago
+325000,2025.422782,98,Multi-Family,459,770,1670,63,1,Austin,18763,36.1,Black,Chicago
+398500,1154,104,Single Family Residential,476,452,1739,52,0,Austin,18763,36.1,Black,Chicago
+720000,2025.422782,58,Multi-Family,241,499,1717,54,1,Austin,18763,36.1,Black,Chicago
+129999,1200,70,Townhouse,416,1593,743,69,1,Austin,18763,36.1,Black,Chicago
+120000,1000,138,Single Family Residential,62,2480,835,58,1,Austin,18763,36.1,Black,Chicago
+255000,2025.422782,112,Multi-Family,519,1978,622,69,1,Austin,18763,36.1,Black,Chicago
+350000,2025.422782,68.46433862,Multi-Family,456,1766,699,71,1,Austin,18763,36.1,Black,Chicago
+285000,2025.422782,111,Multi-Family,170,2355,783,60,1,Austin,18763,36.1,Black,Chicago
+284900,3100,132,Single Family Residential,646,1861,448,64,0,Austin,18763,36.1,Black,Chicago
+374900,2025.422782,123,Multi-Family,473,2035,670,64,1,Austin,18763,36.1,Black,Chicago
+385000,2025.422782,108,Multi-Family,360,2189,424,53,0,Austin,18763,36.1,Black,Chicago
+419000,1600,143,Single Family Residential,827,2218,211,49,0,Austin,18763,36.1,Black,Chicago
+415000,2000,101,Single Family Residential,1092,1743,372,48,0,Austin,18763,36.1,Black,Chicago
+179700,2025.422782,68.46433862,Multi-Family,543,3575,1282,37,0,Austin,18763,36.1,Black,Chicago
+308900,1232,68.46433862,Single Family Residential,778,3806,1538,46,1,Austin,18763,36.1,Black,Chicago
+379000,2025.422782,113,Multi-Family,647,3327,1051,37,0,Austin,18763,36.1,Black,Chicago
+564999,2025.422782,123,Multi-Family,529,3804,1350,30,0,Austin,18763,36.1,Black,Chicago
+579000,2025.422782,115,Multi-Family,618,4024,1735,41,1,Austin,18763,36.1,Black,Chicago
+164000,1000,49,Condo/Co-op,318,1184,5244,22,2,Austin,18763,36.1,Black,Chicago
+399999,1159,113,Single Family Residential,45,666,4991,21,2,Austin,18763,36.1,Black,Chicago
+279999,1000,101,Single Family Residential,154,1063,460,17,0,Austin,18763,36.1,Black,Chicago
+387000,2025.422782,100,Multi-Family,717,1328,808,14,2,Austin,18763,36.1,Black,Chicago
+125000,900,93,Condo/Co-op,565,1578,974,47,5,Austin,18763,36.1,Black,Chicago
+97500,2025.422782,54,Single Family Residential,448,1630,855,47,1,Austin,18763,36.1,Black,Chicago
+197500,2025.422782,123,Multi-Family,555,1461,931,45,5,Austin,18763,36.1,Black,Chicago
+279500,2025.422782,133,Single Family Residential,250,1119,1201,48,5,Austin,18763,36.1,Black,Chicago
+344900,2025.422782,108,Multi-Family,308,917,1430,62,2,Austin,18763,36.1,Black,Chicago
+465000,2025.422782,68.46433862,Multi-Family,262,772,1557,61,2,Austin,18763,36.1,Black,Chicago
+339999,2018,14,Townhouse,1117,3968,4257,39,1,Austin,18763,36.1,Black,Chicago
+295000,2025.422782,90,Multi-Family,885,4124,3805,39,1,Austin,18763,36.1,Black,Chicago
+300000,1319,108,Single Family Residential,881,4130,3787,39,1,Austin,18763,36.1,Black,Chicago
+275000,1800,98,Single Family Residential,936,3987,3684,41,0,Austin,18763,36.1,Black,Chicago
+375000,2700,15,Condo/Co-op,849,3703,4156,40,1,Austin,18763,36.1,Black,Chicago
+345000,936,110,Single Family Residential,317,4621,3112,44,2,Austin,18763,36.1,Black,Chicago
+335500,1565,84,Single Family Residential,295,4494,3099,47,2,Austin,18763,36.1,Black,Chicago
+379900,2025.422782,65,Multi-Family,173,4313,2992,48,2,Austin,18763,36.1,Black,Chicago
+459900,2025.422782,68.46433862,Multi-Family,114,4620,2687,41,1,Austin,18763,36.1,Black,Chicago
+449900,2025.422782,98,Multi-Family,390,4486,2534,46,2,Austin,18763,36.1,Black,Chicago
+750000,2568,98,Multi-Family,601,4163,3322,36,0,Austin,18763,36.1,Black,Chicago
+689000,2025.422782,96,Multi-Family,294,3789,2733,44,2,Austin,18763,36.1,Black,Chicago
+79900,950,101,Condo/Co-op,522,2611,3428,37,0,Austin,18763,36.1,Black,Chicago
+350000,2025.422782,98,Multi-Family,181,1550,3881,31,2,Austin,18763,36.1,Black,Chicago
+339000,980,98,Single Family Residential,418,2186,3452,40,0,Austin,18763,36.1,Black,Chicago
+440000,2025.422782,68.46433862,Multi-Family,294,2304,3902,27,0,Austin,18763,36.1,Black,Chicago
+110000,1184,125,Single Family Residential,249,2771,356,27,2,Austin,18763,36.1,Black,Chicago
+200000,840,132,Single Family Residential,319,2920,521,21,0,Austin,18763,36.1,Black,Chicago
+460000,2025.422782,68.46433862,Multi-Family,202,1729,1937,32,28,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+475000,2025.422782,136,Multi-Family,242,1841,1790,34,32,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+1200000,2025.422782,3,Single Family Residential,103,1869,1469,38,38,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+249000,1334,123,Single Family Residential,319,2762,3073,38,8,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+815000,2025.422782,3,Single Family Residential,271,2853,3229,35,5,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+149000,1104,68.46433862,Single Family Residential,260,1125,1864,51,9,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+89900,630,133,Single Family Residential,471,552,1213,38,12,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+460000,3049,68.46433862,Single Family Residential,244,409,1360,51,9,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+339900,2025.422782,121,Multi-Family,350,337,1285,51,9,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+439000,2025.422782,100,Multi-Family,253,293,1179,51,8,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+450000,2025.422782,68.46433862,Multi-Family,181,731,1682,52,8,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+415000,2025.422782,68.46433862,Multi-Family,105,305,1041,49,8,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+320000,1500,68.46433862,Single Family Residential,119,2180,3084,42,9,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+359900,2025.422782,105,Multi-Family,242,1500,2305,53,9,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+605000,1800,68.46433862,Single Family Residential,246,1620,2431,46,5,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+634900,2473,0,Single Family Residential,183,2075,3109,43,9,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+654900,2473,0,Single Family Residential,187,2056,3119,43,9,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+89000,920,113,Single Family Residential,442,1622,2475,49,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+150000,2025.422782,118,Multi-Family,581,1253,2024,46,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+319900,2025.422782,115,Multi-Family,574,1077,1930,46,4,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+300000,2025.422782,111,Multi-Family,484,2287,3040,51,2,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+347500,1150,68.46433862,Single Family Residential,506,1956,2796,44,2,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+375000,2025.422782,103,Multi-Family,426,1796,2611,37,1,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+545000,2025.422782,100,Multi-Family,122,1691,2375,47,1,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+515000,2025.422782,68.46433862,Multi-Family,372,1421,2122,47,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+1175000,2025.422782,97,Multi-Family,403,1850,2659,36,1,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+775000,2500,3,Condo/Co-op,252,509,2315,42,24,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+227500,2025.422782,110,Multi-Family,119,1936,2540,39,1,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+355000,1600,111,Single Family Residential,268,1997,2054,26,0,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+389900,1650,110,Single Family Residential,132,1789,2381,44,1,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+440000,2850,108,Single Family Residential,326,1458,1834,35,0,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+585000,2600,0,Single Family Residential,255,1939,2492,39,1,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+309900,1350,130,Single Family Residential,100,3489,3738,46,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+405000,2025.422782,127,Multi-Family,131,3348,3876,41,2,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+649000,2025.422782,0,Single Family Residential,194,3334,3782,45,2,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+379900,2025.422782,97,Multi-Family,442,3232,3510,31,1,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+149900,1428,138,Single Family Residential,169,265,673,23,5,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+217900,2025.422782,123,Multi-Family,371,646,1381,27,4,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+200000,2025.422782,120,Multi-Family,458,427,946,24,7,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+295000,2025.422782,138,Multi-Family,344,682,1368,27,2,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+309000,2025.422782,115,Multi-Family,66,683,1338,28,7,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+300000,2025.422782,113,Multi-Family,231,697,1250,27,2,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+260000,2025.422782,105,Multi-Family,338,532,1309,26,4,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+309000,2000,66,Single Family Residential,222,164,783,19,5,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+499999,2400,135,Single Family Residential,389,833,1685,33,4,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+390000,1445,0,Single Family Residential,303,427,1227,33,5,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+390000,1445,0,Single Family Residential,293,442,1246,34,5,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+390000,1445,0,Single Family Residential,469,414,1310,27,5,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+390000,1445,0,Single Family Residential,463,409,1303,26,5,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+149900,900,133,Single Family Residential,171,2434,3122,47,9,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+365000,2025.422782,118,Single Family Residential,597,1671,2876,43,10,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+600000,1825,69,Single Family Residential,329,1708,2373,30,14,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+559000,2025.422782,119,Multi-Family,410,1887,2541,30,12,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+115000,1200,98,Condo/Co-op,187,2409,2972,49,2,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+159900,1800,94,Condo/Co-op,187,2416,2975,49,2,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+195000,995,91,Condo/Co-op,483,2741,3439,51,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+195000,995,91,Condo/Co-op,483,2741,3439,51,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+195000,995,91,Condo/Co-op,483,2741,3439,51,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+195000,995,91,Condo/Co-op,483,2741,3439,51,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+195000,995,91,Condo/Co-op,483,2741,3439,51,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+195000,995,91,Condo/Co-op,483,2741,3439,51,3,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+259000,2025.422782,101,Multi-Family,242,2095,2696,45,1,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+425000,2876,121,Single Family Residential,383,2284,2797,45,2,Humboldt Park,23679,34.2,Hispanic or Latino,Chicago
+174900,1200,92,Condo/Co-op,441,2009,2472,41,3,South Shore,18768,38.5,Black,Chicago
+175000,1200,112,Condo/Co-op,441,2009,2472,41,3,South Shore,18768,38.5,Black,Chicago
+249900,1400,111,Condo/Co-op,547,2277,2089,38,2,South Shore,18768,38.5,Black,Chicago
+430000,2025.422782,17,Multi-Family,168,1409,2786,26,5,South Shore,18768,38.5,Black,Chicago
+740999,2025.422782,113,Multi-Family,184,1776,2434,38,2,South Shore,18768,38.5,Black,Chicago
+47500,878,53,Condo/Co-op,512,1903,5517,44,13,South Shore,18768,38.5,Black,Chicago
+275000,2025.422782,111,Multi-Family,708,1850,5227,46,13,South Shore,18768,38.5,Black,Chicago
+415000,2025.422782,110,Multi-Family,593,1993,5308,46,13,South Shore,18768,38.5,Black,Chicago
+47500,878,53,Condo/Co-op,512,1903,5517,44,13,South Shore,18768,38.5,Black,Chicago
+275000,2025.422782,111,Multi-Family,708,1850,5227,46,13,South Shore,18768,38.5,Black,Chicago
+415000,2025.422782,110,Multi-Family,593,1993,5308,46,13,South Shore,18768,38.5,Black,Chicago
+49900,2025.422782,26,Condo/Co-op,173,753,3894,37,4,South Shore,18768,38.5,Black,Chicago
+89000,800,55,Condo/Co-op,48,773,4441,19,2,South Shore,18768,38.5,Black,Chicago
+175000,2000,18,Condo/Co-op,177,751,4130,38,4,South Shore,18768,38.5,Black,Chicago
+142000,793,55,Condo/Co-op,48,773,4441,19,2,South Shore,18768,38.5,Black,Chicago
+140000,1000,68.46433862,Condo/Co-op,52,873,4478,25,3,South Shore,18768,38.5,Black,Chicago
+189000,1100,43,Condo/Co-op,52,873,4478,25,3,South Shore,18768,38.5,Black,Chicago
+114999,2025.422782,55,Condo/Co-op,48,773,4441,19,2,South Shore,18768,38.5,Black,Chicago
+125000,1250,97,Condo/Co-op,54,1156,4569,32,11,South Shore,18768,38.5,Black,Chicago
+79000,1000,109,Condo/Co-op,681,1529,4141,45,18,South Shore,18768,38.5,Black,Chicago
+180000,2025.422782,68.46433862,Condo/Co-op,54,1156,4569,32,11,South Shore,18768,38.5,Black,Chicago
+160000,1350,94,Condo/Co-op,54,1156,4569,32,11,South Shore,18768,38.5,Black,Chicago
+194000,3000,96,Condo/Co-op,556,1369,3647,39,11,South Shore,18768,38.5,Black,Chicago
+375000,2025.422782,105,Multi-Family,472,1606,3923,39,15,South Shore,18768,38.5,Black,Chicago
+125000,1250,97,Condo/Co-op,54,1156,4569,32,11,South Shore,18768,38.5,Black,Chicago
+79000,1000,109,Condo/Co-op,681,1529,4141,45,18,South Shore,18768,38.5,Black,Chicago
+180000,2025.422782,68.46433862,Condo/Co-op,54,1156,4569,32,11,South Shore,18768,38.5,Black,Chicago
+160000,1350,94,Condo/Co-op,54,1156,4569,32,11,South Shore,18768,38.5,Black,Chicago
+194000,3000,96,Condo/Co-op,556,1369,3647,39,11,South Shore,18768,38.5,Black,Chicago
+375000,2025.422782,105,Multi-Family,472,1606,3923,39,15,South Shore,18768,38.5,Black,Chicago
+148900,1200,17,Condo/Co-op,362,1711,2787,49,6,South Shore,18768,38.5,Black,Chicago
+259900,1600,16,Condo/Co-op,433,1858,2716,45,3,South Shore,18768,38.5,Black,Chicago
+135000,1608,123,Single Family Residential,513,1466,2659,29,4,South Shore,18768,38.5,Black,Chicago
+115000,1000,123,Condo/Co-op,526,1415,2715,33,4,South Shore,18768,38.5,Black,Chicago
+135000,1608,123,Single Family Residential,513,1466,2659,29,4,South Shore,18768,38.5,Black,Chicago
+115000,1000,123,Condo/Co-op,526,1415,2715,33,4,South Shore,18768,38.5,Black,Chicago
+74900,2200,111,Single Family Residential,957,1558,5332,34,12,South Shore,18768,38.5,Black,Chicago
+50000,1000,81,Townhouse,274,1072,4416,38,7,South Shore,18768,38.5,Black,Chicago
+139900,1351,73,Single Family Residential,724,1510,4451,47,16,South Shore,18768,38.5,Black,Chicago
+75000,1250,68.46433862,Condo/Co-op,927,1625,5292,40,13,South Shore,18768,38.5,Black,Chicago
+85000,950,68.46433862,Condo/Co-op,592,1489,4274,44,14,South Shore,18768,38.5,Black,Chicago
+215000,1285,98,Single Family Residential,1037,1514,5239,33,12,South Shore,18768,38.5,Black,Chicago
+164900,2025.422782,95,Multi-Family,786,1485,5036,35,8,South Shore,18768,38.5,Black,Chicago
+159900,1104,123,Single Family Residential,508,1355,4948,36,3,South Shore,18768,38.5,Black,Chicago
+222999,2025.422782,106,Multi-Family,835,1698,4768,47,17,South Shore,18768,38.5,Black,Chicago
+258000,2025.422782,109,Multi-Family,179,727,4218,47,11,South Shore,18768,38.5,Black,Chicago
+239999,1420,72,Single Family Residential,205,615,3935,50,11,South Shore,18768,38.5,Black,Chicago
+289999,2025.422782,99,Multi-Family,246,983,3364,40,10,South Shore,18768,38.5,Black,Chicago
+325999,1200,68.46433862,Single Family Residential,302,1116,3911,50,11,South Shore,18768,38.5,Black,Chicago
+249900,2025.422782,123,Multi-Family,233,874,3773,53,13,South Shore,18768,38.5,Black,Chicago
+319900,1440,108,Single Family Residential,737,968,5334,38,2,South Shore,18768,38.5,Black,Chicago
+425000,2025.422782,103,Multi-Family,290,1047,3801,51,12,South Shore,18768,38.5,Black,Chicago
+498900,2025.422782,104,Multi-Family,337,1122,3407,47,13,South Shore,18768,38.5,Black,Chicago
+390000,2025.422782,113,Multi-Family,187,882,3705,52,13,South Shore,18768,38.5,Black,Chicago
+1125000,2025.422782,96,Multi-Family,581,1462,4911,33,4,South Shore,18768,38.5,Black,Chicago
+599999,3138,104,Single Family Residential,748,1744,4571,49,20,South Shore,18768,38.5,Black,Chicago
+74900,2200,111,Single Family Residential,957,1558,5332,34,12,South Shore,18768,38.5,Black,Chicago
+50000,1000,81,Townhouse,274,1072,4416,38,7,South Shore,18768,38.5,Black,Chicago
+139900,1351,73,Single Family Residential,724,1510,4451,47,16,South Shore,18768,38.5,Black,Chicago
+75000,1250,68.46433862,Condo/Co-op,927,1625,5292,40,13,South Shore,18768,38.5,Black,Chicago
+85000,950,68.46433862,Condo/Co-op,592,1489,4274,44,14,South Shore,18768,38.5,Black,Chicago
+215000,1285,98,Single Family Residential,1037,1514,5239,33,12,South Shore,18768,38.5,Black,Chicago
+164900,2025.422782,95,Multi-Family,786,1485,5036,35,8,South Shore,18768,38.5,Black,Chicago
+159900,1104,123,Single Family Residential,508,1355,4948,36,3,South Shore,18768,38.5,Black,Chicago
+222999,2025.422782,106,Multi-Family,835,1698,4768,47,17,South Shore,18768,38.5,Black,Chicago
+258000,2025.422782,109,Multi-Family,179,727,4218,47,11,South Shore,18768,38.5,Black,Chicago
+239999,1420,72,Single Family Residential,205,615,3935,50,11,South Shore,18768,38.5,Black,Chicago
+289999,2025.422782,99,Multi-Family,246,983,3364,40,10,South Shore,18768,38.5,Black,Chicago
+325999,1200,68.46433862,Single Family Residential,302,1116,3911,50,11,South Shore,18768,38.5,Black,Chicago
+249900,2025.422782,123,Multi-Family,233,874,3773,53,13,South Shore,18768,38.5,Black,Chicago
+319900,1440,108,Single Family Residential,737,968,5334,38,2,South Shore,18768,38.5,Black,Chicago
+425000,2025.422782,103,Multi-Family,290,1047,3801,51,12,South Shore,18768,38.5,Black,Chicago
+498900,2025.422782,104,Multi-Family,337,1122,3407,47,13,South Shore,18768,38.5,Black,Chicago
+390000,2025.422782,113,Multi-Family,187,882,3705,52,13,South Shore,18768,38.5,Black,Chicago
+1125000,2025.422782,96,Multi-Family,581,1462,4911,33,4,South Shore,18768,38.5,Black,Chicago
+599999,3138,104,Single Family Residential,748,1744,4571,49,20,South Shore,18768,38.5,Black,Chicago
+89000,2025.422782,68.46433862,Condo/Co-op,803,815,4634,58,2,South Shore,18768,38.5,Black,Chicago
+198000,1692,80,Single Family Residential,777,764,5452,39,3,South Shore,18768,38.5,Black,Chicago
+219900,2744,108,Single Family Residential,477,775,4881,64,1,South Shore,18768,38.5,Black,Chicago
+315000,2573,101,Single Family Residential,617,846,5314,38,2,South Shore,18768,38.5,Black,Chicago
+339000,2700,105,Single Family Residential,859,632,5552,36,2,South Shore,18768,38.5,Black,Chicago
+89000,2025.422782,68.46433862,Condo/Co-op,803,815,4634,58,2,South Shore,18768,38.5,Black,Chicago
+198000,1692,80,Single Family Residential,777,764,5452,39,3,South Shore,18768,38.5,Black,Chicago
+219900,2744,108,Single Family Residential,477,775,4881,64,1,South Shore,18768,38.5,Black,Chicago
+315000,2573,101,Single Family Residential,617,846,5314,38,2,South Shore,18768,38.5,Black,Chicago
+339000,2700,105,Single Family Residential,859,632,5552,36,2,South Shore,18768,38.5,Black,Chicago
+94900,2025.422782,132,Multi-Family,20,603,4011,58,6,South Shore,18768,38.5,Black,Chicago
+169900,2025.422782,108,Multi-Family,465,680,3455,47,5,South Shore,18768,38.5,Black,Chicago
+167999,2025.422782,125,Multi-Family,319,727,3806,52,6,South Shore,18768,38.5,Black,Chicago
+112500,1452,139,Single Family Residential,572,1086,3131,43,5,South Shore,18768,38.5,Black,Chicago
+179900,933,50,Single Family Residential,378,564,3559,47,5,South Shore,18768,38.5,Black,Chicago
+199900,2025.422782,123,Multi-Family,341,1217,3018,29,6,South Shore,18768,38.5,Black,Chicago
+330000,2025.422782,105,Multi-Family,452,409,3719,44,5,South Shore,18768,38.5,Black,Chicago
+310000,3100,128,Single Family Residential,128,508,4074,59,6,South Shore,18768,38.5,Black,Chicago
+320000,2025.422782,13,Multi-Family,650,1053,3087,45,6,South Shore,18768,38.5,Black,Chicago
+274000,2025.422782,116,Multi-Family,740,920,3335,44,5,South Shore,18768,38.5,Black,Chicago
+295000,2025.422782,116,Multi-Family,508,351,3786,42,5,South Shore,18768,38.5,Black,Chicago
+325000,1880,100,Single Family Residential,230,705,3430,41,7,South Shore,18768,38.5,Black,Chicago
+325000,2025.422782,96,Multi-Family,226,452,3993,58,5,South Shore,18768,38.5,Black,Chicago
+289000,2611,68.46433862,Single Family Residential,686,766,3462,42,5,South Shore,18768,38.5,Black,Chicago
+407500,2025.422782,117,Multi-Family,532,393,3755,42,5,South Shore,18768,38.5,Black,Chicago
+94900,2025.422782,132,Multi-Family,20,603,4011,58,6,South Shore,18768,38.5,Black,Chicago
+169900,2025.422782,108,Multi-Family,465,680,3455,47,5,South Shore,18768,38.5,Black,Chicago
+167999,2025.422782,125,Multi-Family,319,727,3806,52,6,South Shore,18768,38.5,Black,Chicago
+112500,1452,139,Single Family Residential,572,1086,3131,43,5,South Shore,18768,38.5,Black,Chicago
+179900,933,50,Single Family Residential,378,564,3559,47,5,South Shore,18768,38.5,Black,Chicago
+199900,2025.422782,123,Multi-Family,341,1217,3018,29,6,South Shore,18768,38.5,Black,Chicago
+330000,2025.422782,105,Multi-Family,452,409,3719,44,5,South Shore,18768,38.5,Black,Chicago
+310000,3100,128,Single Family Residential,128,508,4074,59,6,South Shore,18768,38.5,Black,Chicago
+320000,2025.422782,13,Multi-Family,650,1053,3087,45,6,South Shore,18768,38.5,Black,Chicago
+274000,2025.422782,116,Multi-Family,740,920,3335,44,5,South Shore,18768,38.5,Black,Chicago
+295000,2025.422782,116,Multi-Family,508,351,3786,42,5,South Shore,18768,38.5,Black,Chicago
+325000,1880,100,Single Family Residential,230,705,3430,41,7,South Shore,18768,38.5,Black,Chicago
+325000,2025.422782,96,Multi-Family,226,452,3993,58,5,South Shore,18768,38.5,Black,Chicago
+289000,2611,68.46433862,Single Family Residential,686,766,3462,42,5,South Shore,18768,38.5,Black,Chicago
+407500,2025.422782,117,Multi-Family,532,393,3755,42,5,South Shore,18768,38.5,Black,Chicago
+135000,1452,97,Single Family Residential,229,2026,2935,15,1,Roseland,10478,42.8,Black,Chicago
+149900,1356,123,Single Family Residential,139,2356,2883,26,3,Roseland,10478,42.8,Black,Chicago
+254900,2100,98,Single Family Residential,217,2039,2922,16,1,Roseland,10478,42.8,Black,Chicago
+299999,2730,98,Single Family Residential,204,2397,2800,26,3,Roseland,10478,42.8,Black,Chicago
+384000,2500,102,Single Family Residential,173,2562,2846,26,2,Roseland,10478,42.8,Black,Chicago
+130000,1200,66,Single Family Residential,638,1118,4207,20,1,Roseland,10478,42.8,Black,Chicago
+125000,800,100,Single Family Residential,98,2657,3069,28,2,Roseland,10478,42.8,Black,Chicago
+99000,1345,85,Single Family Residential,728,1208,4335,24,0,Roseland,10478,42.8,Black,Chicago
+170000,1100,94,Single Family Residential,372,1934,3092,18,2,Roseland,10478,42.8,Black,Chicago
+165250,1675,71,Single Family Residential,863,1445,3975,22,0,Roseland,10478,42.8,Black,Chicago
+135000,1250,48,Single Family Residential,486,1659,3402,10,0,Roseland,10478,42.8,Black,Chicago
+249900,1040,73,Single Family Residential,1028,1606,4264,26,0,Roseland,10478,42.8,Black,Chicago
+239900,1200,69,Single Family Residential,269,2234,3672,22,2,Roseland,10478,42.8,Black,Chicago
+429000,2528,91,Single Family Residential,718,1532,3839,18,0,Roseland,10478,42.8,Black,Chicago
+130000,1336,81,Townhouse,452,5326,1079,30,0,Roseland,10478,42.8,Black,Chicago
+107900,780,100,Single Family Residential,535,4323,536,29,0,Roseland,10478,42.8,Black,Chicago
+190000,800,75,Single Family Residential,635,5192,898,37,0,Roseland,10478,42.8,Black,Chicago
+209900,1750,118,Single Family Residential,98,4433,2023,41,0,Roseland,10478,42.8,Black,Chicago
+180000,1142,100,Single Family Residential,533,4027,649,31,0,Roseland,10478,42.8,Black,Chicago
+295000,1620,60,Single Family Residential,573,4593,982,42,0,Roseland,10478,42.8,Black,Chicago
+270000,900,72,Single Family Residential,718,4994,588,29,0,Roseland,10478,42.8,Black,Chicago
+350000,2025.422782,60,Multi-Family,409,2736,2859,39,2,Roseland,10478,42.8,Black,Chicago
+65000,2025.422782,118,Multi-Family,725,759,3737,22,2,Roseland,10478,42.8,Black,Chicago
+116500,785,110,Single Family Residential,836,915,3583,21,2,Roseland,10478,42.8,Black,Chicago
+125000,1356,128,Single Family Residential,1064,1040,3483,19,2,Roseland,10478,42.8,Black,Chicago
+130000,2025.422782,113,Multi-Family,918,1033,3470,15,2,Roseland,10478,42.8,Black,Chicago
+110000,1025,134,Single Family Residential,49,387,4438,24,1,Roseland,10478,42.8,Black,Chicago
+88000,1038,123,Single Family Residential,665,508,4045,30,2,Roseland,10478,42.8,Black,Chicago
+70000,1400,110,Single Family Residential,822,1579,2919,22,2,Roseland,10478,42.8,Black,Chicago
+179996,1400,114,Single Family Residential,506,487,4009,26,2,Roseland,10478,42.8,Black,Chicago
+165000,2025.422782,128,Single Family Residential,450,765,3915,18,2,Roseland,10478,42.8,Black,Chicago
+109900,2025.422782,98,Multi-Family,616,1038,3901,12,1,Roseland,10478,42.8,Black,Chicago
+185000,1200,128,Single Family Residential,601,454,4059,28,2,Roseland,10478,42.8,Black,Chicago
+229000,1449,120,Single Family Residential,353,165,4343,26,2,Roseland,10478,42.8,Black,Chicago
+159900,1048,52,Single Family Residential,564,821,3942,32,2,Roseland,10478,42.8,Black,Chicago
+124900,864,121,Single Family Residential,491,228,4280,30,2,Roseland,10478,42.8,Black,Chicago
+190000,1000,112,Single Family Residential,459,359,4137,28,2,Roseland,10478,42.8,Black,Chicago
+170000,1302,68.46433862,Single Family Residential,49,517,4320,20,1,Roseland,10478,42.8,Black,Chicago
+219000,903,68.46433862,Single Family Residential,804,774,3731,23,2,Roseland,10478,42.8,Black,Chicago
+249900,2000,59,Single Family Residential,949,1469,3026,24,2,Roseland,10478,42.8,Black,Chicago
+324500,3074,115,Single Family Residential,335,813,4234,15,1,Roseland,10478,42.8,Black,Chicago
+300000,2025.422782,115,Multi-Family,327,226,4290,26,2,Roseland,10478,42.8,Black,Chicago
+259000,2025.422782,128,Multi-Family,1077,1293,3418,20,1,Roseland,10478,42.8,Black,Chicago
+304999,2434,128,Single Family Residential,623,984,3873,30,1,Roseland,10478,42.8,Black,Chicago
+319000,2025.422782,100,Multi-Family,1001,1035,3536,24,1,Roseland,10478,42.8,Black,Chicago
+275000,2025.422782,118,Multi-Family,579,443,4064,28,2,Roseland,10478,42.8,Black,Chicago
+459000,2025.422782,100,Multi-Family,398,292,4206,28,2,Roseland,10478,42.8,Black,Chicago
+440000,2772,66,Multi-Family,250,787,4245,34,2,Roseland,10478,42.8,Black,Chicago
+239000,2248,123,Single Family Residential,691,1445,3163,14,1,Roseland,10478,42.8,Black,Chicago
+99000,1021,72,Townhouse,529,1629,4188,32,0,Roseland,10478,42.8,Black,Chicago
+39900,1350,106,Single Family Residential,919,1385,3633,33,1,Roseland,10478,42.8,Black,Chicago
+134900,1201,72,Single Family Residential,663,1613,4030,34,0,Roseland,10478,42.8,Black,Chicago
+205000,1632,80,Single Family Residential,801,1411,3779,36,1,Roseland,10478,42.8,Black,Chicago
+325000,2025.422782,68.46433862,Multi-Family,919,1537,3684,33,1,Roseland,10478,42.8,Black,Chicago
+259000,2025.422782,98,Multi-Family,1064,1380,3454,20,1,Roseland,10478,42.8,Black,Chicago
+242500,1012,111,Single Family Residential,882,1404,3683,34,1,Roseland,10478,42.8,Black,Chicago
+279000,1917,67,Single Family Residential,241,1541,4506,31,2,Roseland,10478,42.8,Black,Chicago
+235000,2025.422782,106,Multi-Family,477,1546,4220,33,0,Roseland,10478,42.8,Black,Chicago
+279000,2200,66,Single Family Residential,1031,1966,3266,42,2,Roseland,10478,42.8,Black,Chicago
+403000,2025.422782,71,Multi-Family,1127,1713,3502,28,1,Roseland,10478,42.8,Black,Chicago
+164999,1250,134,Single Family Residential,809,929,5418,35,0,Roseland,10478,42.8,Black,Chicago
+185000,2025.422782,128,Multi-Family,578,429,4879,39,1,Roseland,10478,42.8,Black,Chicago
+224900,2100,113,Single Family Residential,703,735,5220,39,1,Roseland,10478,42.8,Black,Chicago
+185000,2025.422782,123,Multi-Family,694,393,4880,39,1,Roseland,10478,42.8,Black,Chicago
+185000,2025.422782,128,Multi-Family,679,399,4883,38,1,Roseland,10478,42.8,Black,Chicago
+124900,2025.422782,111,Multi-Family,476,396,4828,35,1,Roseland,10478,42.8,Black,Chicago
+249900,3200,96,Single Family Residential,582,261,4682,36,1,Roseland,10478,42.8,Black,Chicago
+123690,2304,123,Single Family Residential,126,658,4687,42,1,Roseland,10478,42.8,Black,Chicago
+219900,880,112,Single Family Residential,242,1466,5338,38,1,Roseland,10478,42.8,Black,Chicago
+240000,2000,68.46433862,Single Family Residential,472,1291,5497,35,1,Roseland,10478,42.8,Black,Chicago
+285000,2025.422782,99,Multi-Family,168,1468,4822,34,1,Roseland,10478,42.8,Black,Chicago
+135000,960,63,Single Family Residential,699,4109,1251,34,0,Roseland,10478,42.8,Black,Chicago
+144997,960,77,Single Family Residential,223,3795,1007,39,0,Roseland,10478,42.8,Black,Chicago
+150000,2025.422782,58,Single Family Residential,462,3162,1372,24,0,Roseland,10478,42.8,Black,Chicago
+149900,1087,84,Single Family Residential,432,4262,914,47,0,Roseland,10478,42.8,Black,Chicago
+49000,1200,93,Single Family Residential,656,2980,1604,33,2,Roseland,10478,42.8,Black,Chicago
+79900,2025.422782,109,Multi-Family,717,2916,1658,33,2,Roseland,10478,42.8,Black,Chicago
+120000,2025.422782,68.46433862,Multi-Family,526,3103,1469,29,1,Roseland,10478,42.8,Black,Chicago
+224900,1000,74,Single Family Residential,993,2922,1982,36,2,Roseland,10478,42.8,Black,Chicago
+214500,3125,95,Single Family Residential,486,3156,1357,21,0,Roseland,10478,42.8,Black,Chicago
+110000,975,68.46433862,Single Family Residential,871,2754,1762,29,2,Roseland,10478,42.8,Black,Chicago
+160000,2025.422782,97,Multi-Family,1069,2554,1983,36,3,Roseland,10478,42.8,Black,Chicago
+294900,2080,68.46433862,Single Family Residential,520,3591,1396,23,0,Roseland,10478,42.8,Black,Chicago
+269500,1500,93,Single Family Residential,966,3085,1939,34,2,Roseland,10478,42.8,Black,Chicago
+289900,1900,74,Single Family Residential,1073,2611,2290,38,2,Roseland,10478,42.8,Black,Chicago
+245000,1600,67,Single Family Residential,678,2557,2729,45,2,Roseland,10478,42.8,Black,Chicago
+60000,2025.422782,114,Multi-Family,891,1011,5295,24,0,Roseland,10478,42.8,Black,Chicago
+105000,1200,109,Single Family Residential,734,1040,5025,27,1,Roseland,10478,42.8,Black,Chicago
+115000,900,105,Single Family Residential,533,957,4670,20,1,Roseland,10478,42.8,Black,Chicago
+109000,1200,68.46433862,Single Family Residential,699,1022,4977,29,1,Roseland,10478,42.8,Black,Chicago
+89999,2025.422782,103,Multi-Family,806,1184,4941,33,0,Roseland,10478,42.8,Black,Chicago
+174900,985,104,Single Family Residential,884,1585,5291,36,1,Roseland,10478,42.8,Black,Chicago
+285000,2025.422782,99,Multi-Family,915,931,5323,29,1,Roseland,10478,42.8,Black,Chicago
+265000,1900,108,Single Family Residential,870,1085,5228,24,0,Roseland,10478,42.8,Black,Chicago
+110000,2500,101,Single Family Residential,254,2994,1667,10,1,Roseland,10478,42.8,Black,Chicago
+37000,1650,98,Single Family Residential,896,2538,1957,31,2,Roseland,10478,42.8,Black,Chicago
+80000,1164,118,Single Family Residential,558,2842,1685,22,1,Roseland,10478,42.8,Black,Chicago
+177000,1040,59,Single Family Residential,151,2406,2303,14,1,Roseland,10478,42.8,Black,Chicago
+158900,946,98,Single Family Residential,743,2709,1793,25,1,Roseland,10478,42.8,Black,Chicago
+176000,2217,96,Single Family Residential,904,2568,1928,30,2,Roseland,10478,42.8,Black,Chicago
+209900,1091,100,Single Family Residential,686,2960,1536,22,1,Roseland,10478,42.8,Black,Chicago
+160000,3125,60,Single Family Residential,208,2950,1814,12,1,Roseland,10478,42.8,Black,Chicago
+199000,1030,96,Single Family Residential,827,2825,1674,28,2,Roseland,10478,42.8,Black,Chicago
+250000,1211,98,Single Family Residential,941,2657,1842,28,2,Roseland,10478,42.8,Black,Chicago
+299990,1150,40,Single Family Residential,311,2738,1949,14,1,Roseland,10478,42.8,Black,Chicago
+295000,1064,52,Single Family Residential,56,3118,1773,10,1,Roseland,10478,42.8,Black,Chicago
+279900,2200,72,Single Family Residential,238,2452,2224,14,1,Roseland,10478,42.8,Black,Chicago
+174997,1040,66,Single Family Residential,314,1817,2979,12,1,Roseland,10478,42.8,Black,Chicago
+268000,1104,67,Single Family Residential,524,1642,3192,10,1,Roseland,10478,42.8,Black,Chicago
+229500,1872,69,Single Family Residential,329,5065,5214,24,2,Auburn Gresham,15858,39,Black,Chicago
+249900,1471,72,Single Family Residential,408,5013,5353,22,2,Auburn Gresham,15858,39,Black,Chicago
+255000,1904,71,Single Family Residential,290,5209,4475,21,2,Auburn Gresham,15858,39,Black,Chicago
+140000,2000,98,Single Family Residential,579,5250,2819,36,2,Auburn Gresham,15858,39,Black,Chicago
+310000,2025.422782,68.46433862,Multi-Family,297,5580,2766,25,2,Auburn Gresham,15858,39,Black,Chicago
+314000,2025.422782,92,Multi-Family,267,5674,2550,29,1,Auburn Gresham,15858,39,Black,Chicago
+299500,1701,98,Single Family Residential,582,5288,2830,36,2,Auburn Gresham,15858,39,Black,Chicago
+375000,3000,100,Single Family Residential,462,5006,2652,41,3,Auburn Gresham,15858,39,Black,Chicago
+180000,2025.422782,100,Multi-Family,637,5631,3218,16,2,Auburn Gresham,15858,39,Black,Chicago
+45000,888,133,Single Family Residential,228,4785,1954,35,2,Auburn Gresham,15858,39,Black,Chicago
+39900,581,55,Townhouse,394,4622,1825,39,2,Auburn Gresham,15858,39,Black,Chicago
+124900,1200,102,Single Family Residential,387,4590,1871,39,1,Auburn Gresham,15858,39,Black,Chicago
+189000,1000,133,Single Family Residential,143,4349,1667,40,1,Auburn Gresham,15858,39,Black,Chicago
+80000,702,118,Single Family Residential,320,4542,3097,35,1,Auburn Gresham,15858,39,Black,Chicago
+205000,2025.422782,96,Multi-Family,107,4426,3477,39,0,Auburn Gresham,15858,39,Black,Chicago
+157000,1272,103,Single Family Residential,311,3949,3004,45,0,Auburn Gresham,15858,39,Black,Chicago
+209000,1653,101,Single Family Residential,358,3774,3071,36,0,Auburn Gresham,15858,39,Black,Chicago
+339900,1650,98,Single Family Residential,469,3728,2933,40,0,Auburn Gresham,15858,39,Black,Chicago
+385000,2025.422782,113,Multi-Family,332,4527,3092,35,1,Auburn Gresham,15858,39,Black,Chicago
+88000,1336,103,Single Family Residential,614,4700,4029,35,1,Auburn Gresham,15858,39,Black,Chicago
+75000,2025.422782,68.46433862,Ranch,255,4658,3785,39,1,Auburn Gresham,15858,39,Black,Chicago
+155000,2200,101,Single Family Residential,413,4880,3015,37,1,Auburn Gresham,15858,39,Black,Chicago
+259900,1312,113,Single Family Residential,415,4951,3700,36,1,Auburn Gresham,15858,39,Black,Chicago
+239900,2201,105,Single Family Residential,209,4788,3692,38,1,Auburn Gresham,15858,39,Black,Chicago
+285000,2025.422782,108,Multi-Family,481,5074,3625,35,1,Auburn Gresham,15858,39,Black,Chicago
+285900,2400,68.46433862,Single Family Residential,598,4835,3979,33,1,Auburn Gresham,15858,39,Black,Chicago
+114900,1505,113,Single Family Residential,18,4807,3515,38,1,Auburn Gresham,15858,39,Black,Chicago
+324900,1677,102,Single Family Residential,599,4944,2893,40,2,Auburn Gresham,15858,39,Black,Chicago
+294500,1872,110,Single Family Residential,582,4589,2478,41,2,Auburn Gresham,15858,39,Black,Chicago
+350000,2025.422782,115,Multi-Family,721,4129,2372,36,1,Auburn Gresham,15858,39,Black,Chicago
+244900,1914,105,Single Family Residential,611,4347,2691,42,2,Auburn Gresham,15858,39,Black,Chicago
+284900,2025.422782,107,Multi-Family,579,3533,2627,38,0,Auburn Gresham,15858,39,Black,Chicago
+379000,2025.422782,115,Multi-Family,470,4212,2784,44,1,Auburn Gresham,15858,39,Black,Chicago
+400000,2025.422782,108,Multi-Family,475,4461,2889,40,2,Auburn Gresham,15858,39,Black,Chicago
+369000,2025.422782,68.46433862,Multi-Family,657,4415,2682,40,2,Auburn Gresham,15858,39,Black,Chicago
+170000,720,118,Single Family Residential,329,5703,1771,14,0,Auburn Gresham,15858,39,Black,Chicago
+184995,1650,55,Single Family Residential,111,5507,2033,29,2,Auburn Gresham,15858,39,Black,Chicago
+179900,1120,68,Single Family Residential,516,3213,4437,36,2,Auburn Gresham,15858,39,Black,Chicago
+269900,1824,76,Single Family Residential,938,2867,4039,35,2,Auburn Gresham,15858,39,Black,Chicago
+274900,1500,76,Single Family Residential,1155,2523,3720,32,0,Auburn Gresham,15858,39,Black,Chicago
+85000,950,50,Single Family Residential,456,3449,3306,33,0,Auburn Gresham,15858,39,Black,Chicago
+224000,801,102,Single Family Residential,974,3964,4074,34,0,Auburn Gresham,15858,39,Black,Chicago
+319900,1152,96,Single Family Residential,673,2939,3507,31,0,Auburn Gresham,15858,39,Black,Chicago
+310000,2025.422782,103,Multi-Family,962,4048,4195,35,0,Auburn Gresham,15858,39,Black,Chicago
+269900,2976,97,Single Family Residential,540,3073,3430,35,0,Auburn Gresham,15858,39,Black,Chicago
+297500,2246,103,Single Family Residential,970,3863,3835,39,0,Auburn Gresham,15858,39,Black,Chicago
+299900,2223,103,Single Family Residential,760,3351,3667,42,0,Auburn Gresham,15858,39,Black,Chicago
+374999,2025.422782,101,Multi-Family,821,3654,3682,40,0,Auburn Gresham,15858,39,Black,Chicago
+265000,1500,78,Single Family Residential,116,4123,4991,30,0,Auburn Gresham,15858,39,Black,Chicago
+277000,1267,95,Single Family Residential,362,4906,4522,16,0,Auburn Gresham,15858,39,Black,Chicago
+349000,2025.422782,102,Multi-Family,893,4200,4415,36,0,Auburn Gresham,15858,39,Black,Chicago
+315000,2025.422782,94,Multi-Family,820,4432,4364,29,0,Auburn Gresham,15858,39,Black,Chicago
+359900,2025.422782,94,Multi-Family,602,4338,4718,34,0,Auburn Gresham,15858,39,Black,Chicago
+425000,2025.422782,68.46433862,Multi-Family,875,4243,4477,35,0,Auburn Gresham,15858,39,Black,Chicago
+485000,2025.422782,68.46433862,Multi-Family,680,3975,4376,39,0,Auburn Gresham,15858,39,Black,Chicago
+328000,950,20,Condo/Co-op,112,1961,539,40,54,Armour Square,15357,40.2,Asian,Chicago
+289800,800,20,Condo/Co-op,133,1944,576,43,56,Armour Square,15357,40.2,Asian,Chicago
+305000,900,14,Condo/Co-op,53,2079,687,35,53,Armour Square,15357,40.2,Asian,Chicago
+295000,1200,14,Condo/Co-op,51,2089,689,34,51,Armour Square,15357,40.2,Asian,Chicago
+495000,1900,26,Townhouse,167,1898,481,44,55,Armour Square,15357,40.2,Asian,Chicago
+479000,1800,16,Townhouse,42,2067,653,34,52,Armour Square,15357,40.2,Asian,Chicago
+388000,1140,55,Townhouse,313,1756,804,45,50,Armour Square,15357,40.2,Asian,Chicago
+469000,2400,15,Townhouse,42,2064,649,35,52,Armour Square,15357,40.2,Asian,Chicago
+658888,2400,54,Single Family Residential,262,1739,850,44,45,Armour Square,15357,40.2,Asian,Chicago
+559000,2025.422782,138,Multi-Family,166,1654,843,45,43,Armour Square,15357,40.2,Asian,Chicago
+350000,1065,13,Condo/Co-op,549,2024,990,45,46,Armour Square,15357,40.2,Asian,Chicago
+349000,1249,32,Townhouse,498,2005,1066,46,41,Armour Square,15357,40.2,Asian,Chicago
+260000,1200,18,Condo/Co-op,450,1605,1262,35,17,Armour Square,15357,40.2,Asian,Chicago
+308000,1000,134,Condo/Co-op,348,1499,1528,31,12,Armour Square,15357,40.2,Asian,Chicago
+699900,2176,0,Townhouse,194,2309,883,36,15,Armour Square,15357,40.2,Asian,Chicago
+699900,2176,0,Townhouse,209,2297,896,37,15,Armour Square,15357,40.2,Asian,Chicago
+284900,1709,14,Condo/Co-op,237,3503,1713,26,0,Oakland,20547,39.3,Black,Chicago
+650000,2025.422782,68.46433862,Multi-Family,331,2569,1502,41,8,Oakland,20547,39.3,Black,Chicago
+650000,2025.422782,68.46433862,Multi-Family,331,2569,1502,41,8,Oakland,20547,39.3,Black,Chicago
+199900,1350,20,Condo/Co-op,49,2853,1754,38,6,Oakland,20547,39.3,Black,Chicago
+411000,2025.422782,5,Condo/Co-op,312,2538,1882,31,6,Oakland,20547,39.3,Black,Chicago
+411000,2025.422782,5,Condo/Co-op,312,2538,1882,31,6,Oakland,20547,39.3,Black,Chicago
+565000,2220,26,Single Family Residential,125,3040,1805,32,3,Oakland,20547,39.3,Black,Chicago
+122500,2025.422782,138,Condo/Co-op,309,2253,1333,34,8,Grand Boulevard,21650,44.7,Black,Chicago
+329900,2054,18,Condo/Co-op,89,2464,663,52,5,Grand Boulevard,21650,44.7,Black,Chicago
+305000,2025.422782,18,Condo/Co-op,106,2501,1047,49,8,Grand Boulevard,21650,44.7,Black,Chicago
+280000,1400,18,Condo/Co-op,166,2536,681,55,3,Grand Boulevard,21650,44.7,Black,Chicago
+334900,2600,18,Townhouse,166,2536,681,55,3,Grand Boulevard,21650,44.7,Black,Chicago
+394900,1350,4,Condo/Co-op,139,2548,762,54,5,Grand Boulevard,21650,44.7,Black,Chicago
+729000,2025.422782,128,Multi-Family,126,2229,931,45,8,Grand Boulevard,21650,44.7,Black,Chicago
+122500,2025.422782,138,Condo/Co-op,309,2253,1333,34,8,Grand Boulevard,21650,44.7,Black,Chicago
+329900,2054,18,Condo/Co-op,89,2464,663,52,5,Grand Boulevard,21650,44.7,Black,Chicago
+305000,2025.422782,18,Condo/Co-op,106,2501,1047,49,8,Grand Boulevard,21650,44.7,Black,Chicago
+280000,1400,18,Condo/Co-op,166,2536,681,55,3,Grand Boulevard,21650,44.7,Black,Chicago
+334900,2600,18,Townhouse,166,2536,681,55,3,Grand Boulevard,21650,44.7,Black,Chicago
+394900,1350,4,Condo/Co-op,139,2548,762,54,5,Grand Boulevard,21650,44.7,Black,Chicago
+729000,2025.422782,128,Multi-Family,126,2229,931,45,8,Grand Boulevard,21650,44.7,Black,Chicago
+227000,1500,129,Condo/Co-op,47,2020,147,47,6,Grand Boulevard,21650,44.7,Black,Chicago
+153900,1100,117,Condo/Co-op,689,1396,282,44,6,Grand Boulevard,21650,44.7,Black,Chicago
+230000,1700,128,Condo/Co-op,664,1529,415,51,6,Grand Boulevard,21650,44.7,Black,Chicago
+155000,1100,132,Condo/Co-op,689,1396,282,44,6,Grand Boulevard,21650,44.7,Black,Chicago
+239900,1400,19,Condo/Co-op,291,2308,276,44,3,Grand Boulevard,21650,44.7,Black,Chicago
+329900,2600,19,Condo/Co-op,170,1728,418,47,8,Grand Boulevard,21650,44.7,Black,Chicago
+325000,1700,68.46433862,Condo/Co-op,639,1277,154,41,5,Grand Boulevard,21650,44.7,Black,Chicago
+240000,2025.422782,68.46433862,Condo/Co-op,508,1595,461,50,6,Grand Boulevard,21650,44.7,Black,Chicago
+425900,1700,0,Condo/Co-op,685,1365,256,42,6,Grand Boulevard,21650,44.7,Black,Chicago
+468900,2195,0,Condo/Co-op,222,1465,468,44,8,Grand Boulevard,21650,44.7,Black,Chicago
+415000,2025.422782,68.46433862,Multi-Family,459,1125,161,45,10,Grand Boulevard,21650,44.7,Black,Chicago
+989000,2025.422782,0,Multi-Family,172,1769,408,48,8,Grand Boulevard,21650,44.7,Black,Chicago
+1049900,2025.422782,0,Multi-Family,658,1501,392,46,6,Grand Boulevard,21650,44.7,Black,Chicago
+1150000,2025.422782,0,Multi-Family,8,2157,223,44,3,Grand Boulevard,21650,44.7,Black,Chicago
+749000,2025.422782,0,Single Family Residential,255,1965,413,40,7,Grand Boulevard,21650,44.7,Black,Chicago
+749000,2025.422782,0,Single Family Residential,255,1965,413,40,7,Grand Boulevard,21650,44.7,Black,Chicago
+189500,1200,119,Condo/Co-op,40,481,1017,45,4,Grand Boulevard,21650,44.7,Black,Chicago
+375000,2500,68.46433862,Condo/Co-op,120,719,1261,46,6,Grand Boulevard,21650,44.7,Black,Chicago
+189500,1200,119,Condo/Co-op,40,481,1017,45,4,Grand Boulevard,21650,44.7,Black,Chicago
+375000,2500,68.46433862,Condo/Co-op,120,719,1261,46,6,Grand Boulevard,21650,44.7,Black,Chicago
+224500,2500,125,Condo/Co-op,415,952,483,50,8,Grand Boulevard,21650,44.7,Black,Chicago
+200000,1100,122,Condo/Co-op,226,387,248,40,8,Grand Boulevard,21650,44.7,Black,Chicago
+249900,1700,18,Condo/Co-op,483,948,436,48,8,Grand Boulevard,21650,44.7,Black,Chicago
+325000,1328,15,Condo/Co-op,237,1318,667,52,10,Grand Boulevard,21650,44.7,Black,Chicago
+245000,1400,114,Condo/Co-op,183,608,244,49,9,Grand Boulevard,21650,44.7,Black,Chicago
+299000,1650,103,Condo/Co-op,329,943,559,51,10,Grand Boulevard,21650,44.7,Black,Chicago
+324000,2000,68.46433862,Condo/Co-op,146,668,472,44,10,Grand Boulevard,21650,44.7,Black,Chicago
+479900,1500,0,Single Family Residential,86,749,446,49,10,Grand Boulevard,21650,44.7,Black,Chicago
+565000,3000,119,Single Family Residential,88,683,382,49,10,Grand Boulevard,21650,44.7,Black,Chicago
+995000,2025.422782,0,Multi-Family,347,784,294,48,7,Grand Boulevard,21650,44.7,Black,Chicago
+885000,2025.422782,128,Multi-Family,548,660,723,52,12,Grand Boulevard,21650,44.7,Black,Chicago
+885000,2025.422782,128,Multi-Family,548,660,723,52,12,Grand Boulevard,21650,44.7,Black,Chicago
+75000,1690,68.46433862,Condo/Co-op,219,1811,666,49,10,Grand Boulevard,21650,44.7,Black,Chicago
+160000,1300,125,Condo/Co-op,503,676,939,54,9,Grand Boulevard,21650,44.7,Black,Chicago
+164900,2025.422782,68.46433862,Condo/Co-op,563,612,827,53,11,Grand Boulevard,21650,44.7,Black,Chicago
+329900,2600,20,Condo/Co-op,552,621,1038,57,9,Grand Boulevard,21650,44.7,Black,Chicago
+320000,1800,19,Condo/Co-op,520,651,875,53,9,Grand Boulevard,21650,44.7,Black,Chicago
+409900,3000,16,Townhouse,198,1330,450,39,8,Grand Boulevard,21650,44.7,Black,Chicago
+539900,2700,130,Single Family Residential,241,996,1069,47,10,Grand Boulevard,21650,44.7,Black,Chicago
+690000,2025.422782,138,Single Family Residential,162,1453,739,49,12,Grand Boulevard,21650,44.7,Black,Chicago
+599000,2025.422782,115,Multi-Family,415,850,1105,53,9,Grand Boulevard,21650,44.7,Black,Chicago
+749900,3000,0,Single Family Residential,145,1718,775,49,13,Grand Boulevard,21650,44.7,Black,Chicago
+799000,2025.422782,128,Multi-Family,191,1592,1312,41,14,Grand Boulevard,21650,44.7,Black,Chicago
+699900,2958,118,Single Family Residential,535,636,886,54,10,Grand Boulevard,21650,44.7,Black,Chicago
+1250000,2025.422782,0,Single Family Residential,39,1609,927,52,13,Grand Boulevard,21650,44.7,Black,Chicago
+75000,1690,68.46433862,Condo/Co-op,219,1811,666,49,10,Grand Boulevard,21650,44.7,Black,Chicago
+160000,1300,125,Condo/Co-op,503,676,939,54,9,Grand Boulevard,21650,44.7,Black,Chicago
+164900,2025.422782,68.46433862,Condo/Co-op,563,612,827,53,11,Grand Boulevard,21650,44.7,Black,Chicago
+329900,2600,20,Condo/Co-op,552,621,1038,57,9,Grand Boulevard,21650,44.7,Black,Chicago
+320000,1800,19,Condo/Co-op,520,651,875,53,9,Grand Boulevard,21650,44.7,Black,Chicago
+409900,3000,16,Townhouse,198,1330,450,39,8,Grand Boulevard,21650,44.7,Black,Chicago
+539900,2700,130,Single Family Residential,241,996,1069,47,10,Grand Boulevard,21650,44.7,Black,Chicago
+690000,2025.422782,138,Single Family Residential,162,1453,739,49,12,Grand Boulevard,21650,44.7,Black,Chicago
+599000,2025.422782,115,Multi-Family,415,850,1105,53,9,Grand Boulevard,21650,44.7,Black,Chicago
+749900,3000,0,Single Family Residential,145,1718,775,49,13,Grand Boulevard,21650,44.7,Black,Chicago
+799000,2025.422782,128,Multi-Family,191,1592,1312,41,14,Grand Boulevard,21650,44.7,Black,Chicago
+699900,2958,118,Single Family Residential,535,636,886,54,10,Grand Boulevard,21650,44.7,Black,Chicago
+1250000,2025.422782,0,Single Family Residential,39,1609,927,52,13,Grand Boulevard,21650,44.7,Black,Chicago
+815000,2025.422782,130,Multi-Family,145,2770,341,55,4,Grand Boulevard,21650,44.7,Black,Chicago
+287000,1400,17,Condo/Co-op,305,2557,458,60,2,Grand Boulevard,21650,44.7,Black,Chicago
+160000,2025.422782,68.46433862,Condo/Co-op,263,4234,596,22,7,Rogers Park,20211,45.8,White,Chicago
+160000,2025.422782,68.46433862,Condo/Co-op,263,4234,596,22,7,Rogers Park,20211,45.8,White,Chicago
+205000,850,103,Condo/Co-op,250,4277,598,22,7,Rogers Park,20211,45.8,White,Chicago
+205000,850,103,Condo/Co-op,250,4277,598,22,7,Rogers Park,20211,45.8,White,Chicago
+330000,1250,26,Condo/Co-op,98,4098,821,18,7,Rogers Park,20211,45.8,White,Chicago
+330000,1250,26,Condo/Co-op,98,4098,821,18,7,Rogers Park,20211,45.8,White,Chicago
+300000,965,56,Condo/Co-op,64,3711,644,19,5,Rogers Park,20211,45.8,White,Chicago
+300000,965,56,Condo/Co-op,64,3711,644,19,5,Rogers Park,20211,45.8,White,Chicago
+365000,2025.422782,21,Condo/Co-op,121,4565,881,13,5,Rogers Park,20211,45.8,White,Chicago
+365000,2025.422782,21,Condo/Co-op,121,4565,881,13,5,Rogers Park,20211,45.8,White,Chicago
+925000,2025.422782,114,Single Family Residential,343,3449,266,43,31,Rogers Park,20211,45.8,White,Chicago
+925000,2025.422782,114,Single Family Residential,343,3449,266,43,31,Rogers Park,20211,45.8,White,Chicago
+649000,2025.422782,113,Multi-Family,60,4418,201,24,9,Rogers Park,20211,45.8,White,Chicago
+649000,2025.422782,113,Multi-Family,60,4418,201,24,9,Rogers Park,20211,45.8,White,Chicago
+150000,830,105,Condo/Co-op,275,2922,427,45,33,Rogers Park,20211,45.8,White,Chicago
+150000,830,105,Condo/Co-op,275,2922,427,45,33,Rogers Park,20211,45.8,White,Chicago
+185900,1500,19,Condo/Co-op,519,2909,523,45,31,Rogers Park,20211,45.8,White,Chicago
+185900,1500,19,Condo/Co-op,519,2909,523,45,31,Rogers Park,20211,45.8,White,Chicago
+168000,2025.422782,55,Condo/Co-op,301,2927,437,45,33,Rogers Park,20211,45.8,White,Chicago
+168000,2025.422782,55,Condo/Co-op,301,2927,437,45,33,Rogers Park,20211,45.8,White,Chicago
+189900,650,103,Condo/Co-op,51,2773,348,34,31,Rogers Park,20211,45.8,White,Chicago
+189900,650,103,Condo/Co-op,51,2773,348,34,31,Rogers Park,20211,45.8,White,Chicago
+319900,2025.422782,68.46433862,Condo/Co-op,275,2721,246,46,37,Rogers Park,20211,45.8,White,Chicago
+319900,2025.422782,68.46433862,Condo/Co-op,275,2721,246,46,37,Rogers Park,20211,45.8,White,Chicago
+200000,2025.422782,96,Condo/Co-op,254,2029,1345,28,19,Rogers Park,20211,45.8,White,Chicago
+200000,2025.422782,96,Condo/Co-op,254,2029,1345,28,19,Rogers Park,20211,45.8,White,Chicago
+145000,2025.422782,68.46433862,Condo/Co-op,319,2158,355,32,33,Rogers Park,20211,45.8,White,Chicago
+145000,2025.422782,68.46433862,Condo/Co-op,319,2158,355,32,33,Rogers Park,20211,45.8,White,Chicago
+189770,2025.422782,68.46433862,Condo/Co-op,246,2073,444,31,36,Rogers Park,20211,45.8,White,Chicago
+189770,2025.422782,68.46433862,Condo/Co-op,246,2073,444,31,36,Rogers Park,20211,45.8,White,Chicago
+124900,750,68.46433862,Condo/Co-op,170,2334,1212,31,18,Rogers Park,20211,45.8,White,Chicago
+124900,750,68.46433862,Condo/Co-op,170,2334,1212,31,18,Rogers Park,20211,45.8,White,Chicago
+359000,1700,68.46433862,Condo/Co-op,528,2290,403,42,46,Rogers Park,20211,45.8,White,Chicago
+359000,1700,68.46433862,Condo/Co-op,528,2290,403,42,46,Rogers Park,20211,45.8,White,Chicago
+147500,900,54,Condo/Co-op,154,4420,517,27,8,Rogers Park,20211,45.8,White,Chicago
+147500,900,54,Condo/Co-op,154,4420,517,27,8,Rogers Park,20211,45.8,White,Chicago
+179900,1000,68.46433862,Condo/Co-op,784,5003,1286,34,7,Rogers Park,20211,45.8,White,Chicago
+179900,1000,68.46433862,Condo/Co-op,784,5003,1286,34,7,Rogers Park,20211,45.8,White,Chicago
+165000,686,74,Condo/Co-op,66,4192,953,29,15,Rogers Park,20211,45.8,White,Chicago
+165000,686,74,Condo/Co-op,66,4192,953,29,15,Rogers Park,20211,45.8,White,Chicago
+145900,800,63,Condo/Co-op,350,4403,1172,30,8,Rogers Park,20211,45.8,White,Chicago
+145900,800,63,Condo/Co-op,350,4403,1172,30,8,Rogers Park,20211,45.8,White,Chicago
+319000,2100,94,Condo/Co-op,202,4355,1007,24,9,Rogers Park,20211,45.8,White,Chicago
+319000,2100,94,Condo/Co-op,202,4355,1007,24,9,Rogers Park,20211,45.8,White,Chicago
+315000,1200,58,Townhouse,732,4948,1250,32,7,Rogers Park,20211,45.8,White,Chicago
+315000,1200,58,Townhouse,732,4948,1250,32,7,Rogers Park,20211,45.8,White,Chicago
+349000,2025.422782,96,Condo/Co-op,428,4554,1167,25,10,Rogers Park,20211,45.8,White,Chicago
+349000,2025.422782,96,Condo/Co-op,428,4554,1167,25,10,Rogers Park,20211,45.8,White,Chicago
+265000,1350,100,Condo/Co-op,219,4497,783,25,8,Rogers Park,20211,45.8,White,Chicago
+265000,1350,100,Condo/Co-op,219,4497,783,25,8,Rogers Park,20211,45.8,White,Chicago
+176500,720,103,Condo/Co-op,130,3724,1510,26,18,Rogers Park,20211,45.8,White,Chicago
+176500,720,103,Condo/Co-op,130,3724,1510,26,18,Rogers Park,20211,45.8,White,Chicago
+724900,2025.422782,124,Multi-Family,214,3697,911,35,22,Rogers Park,20211,45.8,White,Chicago
+724900,2025.422782,124,Multi-Family,214,3697,911,35,22,Rogers Park,20211,45.8,White,Chicago
+384000,2025.422782,21,Condo/Co-op,246,4107,1219,28,16,Rogers Park,20211,45.8,White,Chicago
+384000,2025.422782,21,Condo/Co-op,246,4107,1219,28,16,Rogers Park,20211,45.8,White,Chicago
+145000,2025.422782,104,Single Family Residential,995,5567,419,33,5,Chatham,10549,42.5,Black,Chicago
+150000,2025.422782,69,Single Family Residential,527,4938,1562,35,0,Chatham,10549,42.5,Black,Chicago
+310000,1293,60,Single Family Residential,397,5143,945,33,1,Chatham,10549,42.5,Black,Chicago
+305000,1100,68,Single Family Residential,535,4919,826,39,3,Chatham,10549,42.5,Black,Chicago
+299700,2858,120,Single Family Residential,308,4881,1696,33,0,Chatham,10549,42.5,Black,Chicago
+315000,1562,102,Single Family Residential,727,5227,615,39,5,Chatham,10549,42.5,Black,Chicago
+284900,1080,106,Single Family Residential,686,5159,459,40,5,Chatham,10549,42.5,Black,Chicago
+50000,1280,118,Single Family Residential,483,3324,2465,27,4,Chatham,10549,42.5,Black,Chicago
+139000,1103,103,Single Family Residential,717,2883,2600,14,2,Chatham,10549,42.5,Black,Chicago
+79901,1031,56,Condo/Co-op,318,3269,2750,27,2,Chatham,10549,42.5,Black,Chicago
+179900,2025.422782,97,Multi-Family,193,3832,2405,29,3,Chatham,10549,42.5,Black,Chicago
+177500,1100,103,Single Family Residential,458,3219,2462,26,4,Chatham,10549,42.5,Black,Chicago
+265000,1300,57,Single Family Residential,214,3974,2362,28,3,Chatham,10549,42.5,Black,Chicago
+309900,2100,106,Single Family Residential,550,3103,2554,23,3,Chatham,10549,42.5,Black,Chicago
+275000,2025.422782,60,Multi-Family,94,3983,2476,27,3,Chatham,10549,42.5,Black,Chicago
+403000,2025.422782,100,Multi-Family,382,3051,2765,26,3,Chatham,10549,42.5,Black,Chicago
+49000,2025.422782,97,Condo/Co-op,839,2630,2550,24,1,Chatham,10549,42.5,Black,Chicago
+84900,975,99,Condo/Co-op,821,2579,2542,24,1,Chatham,10549,42.5,Black,Chicago
+63500,1027,99,Condo/Co-op,844,2611,2555,24,1,Chatham,10549,42.5,Black,Chicago
+137600,2025.422782,96,Multi-Family,705,2468,2680,25,1,Chatham,10549,42.5,Black,Chicago
+200000,2025.422782,102,Multi-Family,406,2163,2829,25,2,Chatham,10549,42.5,Black,Chicago
+325000,2025.422782,100,Multi-Family,507,2280,2473,28,3,Chatham,10549,42.5,Black,Chicago
+249900,2025.422782,100,Multi-Family,522,2287,2475,28,3,Chatham,10549,42.5,Black,Chicago
+335000,2025.422782,94,Multi-Family,917,2662,2416,28,1,Chatham,10549,42.5,Black,Chicago
+425000,2025.422782,101,Multi-Family,661,2420,2657,25,1,Chatham,10549,42.5,Black,Chicago
+150000,924,138,Single Family Residential,301,4328,1168,39,2,Chatham,10549,42.5,Black,Chicago
+40000,961,61,Townhouse,391,4528,1028,35,2,Chatham,10549,42.5,Black,Chicago
+209000,1272,65,Single Family Residential,490,4443,482,46,2,Chatham,10549,42.5,Black,Chicago
+9500,1000,140,Single Family Residential,365,4747,1408,40,2,Chatham,10549,42.5,Black,Chicago
+185000,2025.422782,138,Multi-Family,480,4572,1355,37,2,Chatham,10549,42.5,Black,Chicago
+114900,1200,45,Single Family Residential,278,4351,1260,38,1,Chatham,10549,42.5,Black,Chicago
+239900,2025.422782,109,Multi-Family,498,4274,776,44,2,Chatham,10549,42.5,Black,Chicago
+239900,1128,96,Single Family Residential,488,4386,271,43,2,Chatham,10549,42.5,Black,Chicago
+239999,2600,125,Single Family Residential,427,4540,1425,40,2,Chatham,10549,42.5,Black,Chicago
+315000,1700,89,Single Family Residential,405,5093,1133,24,7,Chatham,10549,42.5,Black,Chicago
+354900,1900,16,Single Family Residential,602,4324,514,46,1,Chatham,10549,42.5,Black,Chicago
+359000,2193,93,Single Family Residential,238,5041,854,33,4,Chatham,10549,42.5,Black,Chicago
+925000,2025.422782,103,Multi-Family,487,4431,688,44,2,Chatham,10549,42.5,Black,Chicago
+294900,2548,71,Single Family Residential,576,3981,1407,17,2,Chatham,10549,42.5,Black,Chicago
+53890,850,58,Condo/Co-op,929,3637,1321,29,1,Chatham,10549,42.5,Black,Chicago
+320000,2025.422782,106,Multi-Family,816,3507,1658,30,1,Chatham,10549,42.5,Black,Chicago
+410000,2025.422782,113,Multi-Family,1148,3024,1827,38,1,Chatham,10549,42.5,Black,Chicago
+82000,1785,118,Single Family Residential,463,4506,2016,36,0,Chatham,10549,42.5,Black,Chicago
+145000,1420,68.46433862,Single Family Residential,460,4648,1862,38,0,Chatham,10549,42.5,Black,Chicago
+179900,1300,68.46433862,Single Family Residential,408,4616,1913,38,0,Chatham,10549,42.5,Black,Chicago
+122900,1615,118,Single Family Residential,439,4521,1951,41,0,Chatham,10549,42.5,Black,Chicago
+179999,1200,123,Single Family Residential,293,4344,2199,34,0,Chatham,10549,42.5,Black,Chicago
+332000,2025.422782,105,Multi-Family,354,4385,2276,23,0,Chatham,10549,42.5,Black,Chicago
+283900,1927,133,Single Family Residential,257,4302,2289,26,0,Chatham,10549,42.5,Black,Chicago
+105000,1063,68.46433862,Single Family Residential,64,4153,1366,30,2,Chatham,10549,42.5,Black,Chicago
+45000,775,73,Condo/Co-op,293,3365,2297,27,4,Chatham,10549,42.5,Black,Chicago
+93900,1260,118,Single Family Residential,93,4711,1875,33,2,Chatham,10549,42.5,Black,Chicago
+125000,2025.422782,128,Multi-Family,413,4043,2139,30,3,Chatham,10549,42.5,Black,Chicago
+160000,1000,77,Townhouse,22,3858,1877,39,4,Chatham,10549,42.5,Black,Chicago
+179000,752,70,Single Family Residential,313,4020,2070,37,3,Chatham,10549,42.5,Black,Chicago
+219500,2918,94,Single Family Residential,453,4116,2105,32,3,Chatham,10549,42.5,Black,Chicago
+256900,2600,80,Single Family Residential,153,4087,1441,35,4,Chatham,10549,42.5,Black,Chicago
+339000,2000,98,Single Family Residential,565,4553,1346,38,2,Chatham,10549,42.5,Black,Chicago
+305000,3020,102,Single Family Residential,394,4524,1623,39,3,Chatham,10549,42.5,Black,Chicago
+250000,1224,53,Single Family Residential,385,4777,1261,32,2,Chatham,10549,42.5,Black,Chicago
+305000,1700,91,Single Family Residential,250,4694,1565,38,2,Chatham,10549,42.5,Black,Chicago
+289000,1035,61,Single Family Residential,340,4450,1277,36,3,Chatham,10549,42.5,Black,Chicago
+270000,1800,60,Single Family Residential,399,4312,1706,41,3,Chatham,10549,42.5,Black,Chicago
+284000,1035,61,Single Family Residential,340,4463,1264,36,3,Chatham,10549,42.5,Black,Chicago
+365000,1900,64,Single Family Residential,230,4030,1981,37,3,Chatham,10549,42.5,Black,Chicago
+312000,2025.422782,98,Multi-Family,842,2675,2145,32,1,Chatham,10549,42.5,Black,Chicago
+183999,1236,115,Single Family Residential,188,4484,455,38,3,Chatham,10549,42.5,Black,Chicago
+119900,900,100,Condo/Co-op,99,4302,484,42,3,Chatham,10549,42.5,Black,Chicago
+214900,1100,66,Single Family Residential,246,4590,431,34,3,Chatham,10549,42.5,Black,Chicago
+348999,3000,97,Single Family Residential,131,4396,452,43,3,Chatham,10549,42.5,Black,Chicago
+319500,1800,79,Single Family Residential,545,4261,908,37,2,Chatham,10549,42.5,Black,Chicago
+180000,2025.422782,97,Multi-Family,924,3488,1293,36,0,Chatham,10549,42.5,Black,Chicago
+269900,1100,110,Single Family Residential,421,2084,2662,27,2,Chatham,10549,42.5,Black,Chicago
+1250000,2025.422782,97,Multi-Family,296,1972,2864,26,1,Chatham,10549,42.5,Black,Chicago
+209900,1453,80,Single Family Residential,628,4407,951,31,2,Chatham,10549,42.5,Black,Chicago
+179000,1443,84,Single Family Residential,673,4313,1022,32,2,Chatham,10549,42.5,Black,Chicago
+315000,1800,94,Single Family Residential,736,3996,1226,28,2,Chatham,10549,42.5,Black,Chicago
+195000,1808,81,Single Family Residential,613,4711,952,34,7,Chatham,10549,42.5,Black,Chicago
+364900,2281,54,Single Family Residential,554,4234,1293,23,2,Chatham,10549,42.5,Black,Chicago
+52000,1232,113,Single Family Residential,305,3377,2825,29,0,West Englewood,12178,40.9,Black,Chicago
+140000,1344,128,Single Family Residential,273,1985,2320,34,0,West Englewood,12178,40.9,Black,Chicago
+189900,958,52,Single Family Residential,848,2157,2963,25,0,West Englewood,12178,40.9,Black,Chicago
+249000,1069,68.46433862,Single Family Residential,284,2203,2285,36,0,West Englewood,12178,40.9,Black,Chicago
+244900,1200,100,Single Family Residential,454,2500,2475,38,0,West Englewood,12178,40.9,Black,Chicago
+299900,2025.422782,128,Multi-Family,849,3017,1705,34,1,West Englewood,12178,40.9,Black,Chicago
+259900,1344,100,Single Family Residential,497,2139,2526,35,0,West Englewood,12178,40.9,Black,Chicago
+265000,3125,102,Single Family Residential,36,3143,2869,33,0,West Englewood,12178,40.9,Black,Chicago
+100000,1165,108,Single Family Residential,611,3746,2127,41,0,West Englewood,12178,40.9,Black,Chicago
+49900,792,114,Single Family Residential,701,3949,2037,40,0,West Englewood,12178,40.9,Black,Chicago
+195000,1836,94,Single Family Residential,166,4051,1503,40,1,West Englewood,12178,40.9,Black,Chicago
+174900,2025.422782,107,Multi-Family,619,4246,1995,43,1,West Englewood,12178,40.9,Black,Chicago
+89000,1400,99,Single Family Residential,441,2867,1688,35,0,West Englewood,12178,40.9,Black,Chicago
+235000,1249,51,Single Family Residential,399,2842,1657,34,0,West Englewood,12178,40.9,Black,Chicago
+96000,2025.422782,115,Multi-Family,549,3327,1389,33,1,West Englewood,12178,40.9,Black,Chicago
+48000,1080,107,Single Family Residential,990,3686,2542,38,0,West Englewood,12178,40.9,Black,Chicago
+150000,1056,113,Single Family Residential,890,3839,2637,35,0,West Englewood,12178,40.9,Black,Chicago
+100000,2025.422782,110,Single Family Residential,520,3425,2478,30,1,West Englewood,12178,40.9,Black,Chicago
+198999,1426,117,Single Family Residential,258,3225,1290,35,1,West Englewood,12178,40.9,Black,Chicago
+189000,1838,19,Single Family Residential,403,3342,1121,27,1,West Englewood,12178,40.9,Black,Chicago
+259000,2025.422782,118,Multi-Family,570,3270,1352,29,1,West Englewood,12178,40.9,Black,Chicago
+259999,2100,128,Single Family Residential,969,3520,2006,37,1,West Englewood,12178,40.9,Black,Chicago
+245000,2025.422782,108,Multi-Family,1124,3181,2328,32,0,West Englewood,12178,40.9,Black,Chicago
+194900,2025.422782,110,Multi-Family,745,3910,2793,32,0,West Englewood,12178,40.9,Black,Chicago
+189999,1300,91,Single Family Residential,712,3836,2819,34,0,West Englewood,12178,40.9,Black,Chicago
+299999,2025.422782,68.46433862,Multi-Family,502,3113,434,40,1,West Englewood,12178,40.9,Black,Chicago
+245000,1536,108,Single Family Residential,536,3192,374,38,1,West Englewood,12178,40.9,Black,Chicago
+185000,2025.422782,113,Multi-Family,787,3208,811,44,1,West Englewood,12178,40.9,Black,Chicago
+35000,3125,68.46433862,Single Family Residential,661,3133,1172,34,1,West Englewood,12178,40.9,Black,Chicago
+55900,1100,138,Single Family Residential,518,3929,1780,33,1,West Englewood,12178,40.9,Black,Chicago
+100000,1371,97,Single Family Residential,661,3312,1114,34,1,West Englewood,12178,40.9,Black,Chicago
+199000,1620,123,Single Family Residential,535,2706,1311,38,1,West Englewood,12178,40.9,Black,Chicago
+129900,690,123,Single Family Residential,90,4002,1409,36,1,West Englewood,12178,40.9,Black,Chicago
+580000,2025.422782,109,Multi-Family,350,3467,1456,41,1,West Englewood,12178,40.9,Black,Chicago
+64999,816,116,Single Family Residential,357,3742,862,39,1,West Englewood,12178,40.9,Black,Chicago
+174900,1000,73,Single Family Residential,741,3579,478,39,1,West Englewood,12178,40.9,Black,Chicago
+250000,1142,103,Single Family Residential,117,3117,1300,33,0,West Englewood,12178,40.9,Black,Chicago
+319000,962,113,Single Family Residential,151,3820,1102,26,1,West Englewood,12178,40.9,Black,Chicago
+80000,990,115,Single Family Residential,559,2319,1315,32,0,West Englewood,12178,40.9,Black,Chicago
+202900,2025.422782,110,Single Family Residential,394,2355,1149,28,0,West Englewood,12178,40.9,Black,Chicago
+140000,440,108,Single Family Residential,575,2651,1504,37,1,West Englewood,12178,40.9,Black,Chicago
+159900,2025.422782,120,Multi-Family,621,2733,826,31,0,West Englewood,12178,40.9,Black,Chicago
+134900,2025.422782,92,Multi-Family,539,2596,1506,37,1,West Englewood,12178,40.9,Black,Chicago
+160000,2025.422782,114,Multi-Family,695,2934,1218,35,1,West Englewood,12178,40.9,Black,Chicago
+179900,1080,61,Single Family Residential,307,2324,1680,37,1,West Englewood,12178,40.9,Black,Chicago
+125000,828,118,Single Family Residential,270,2245,1724,37,1,West Englewood,12178,40.9,Black,Chicago
+147000,1668,135,Single Family Residential,366,1940,1573,32,0,West Englewood,12178,40.9,Black,Chicago
+250000,2025.422782,96,Multi-Family,275,2497,1232,35,1,West Englewood,12178,40.9,Black,Chicago
+239000,1040,64,Single Family Residential,420,1719,2123,34,0,West Englewood,12178,40.9,Black,Chicago
+285000,1527,121,Single Family Residential,363,1974,1549,32,0,West Englewood,12178,40.9,Black,Chicago
+97000,807,98,Single Family Residential,115,2933,1300,35,1,West Englewood,12178,40.9,Black,Chicago
+89900,1197,132,Single Family Residential,294,3168,264,33,1,West Englewood,12178,40.9,Black,Chicago
+114900,969,50,Single Family Residential,230,2655,1591,28,0,West Englewood,12178,40.9,Black,Chicago
+140000,2025.422782,111,Multi-Family,209,2899,1417,36,1,West Englewood,12178,40.9,Black,Chicago
+118900,1554,113,Single Family Residential,146,2747,1443,34,0,West Englewood,12178,40.9,Black,Chicago
+234900,2025.422782,123,Multi-Family,41,3000,1185,37,1,West Englewood,12178,40.9,Black,Chicago
+285000,2700,133,Single Family Residential,146,3036,408,39,1,West Englewood,12178,40.9,Black,Chicago
+279000,2025.422782,113,Multi-Family,106,2691,741,34,1,West Englewood,12178,40.9,Black,Chicago
+88000,1400,136,Single Family Residential,305,3233,426,33,0,West Englewood,12178,40.9,Black,Chicago
+65000,1200,130,Single Family Residential,196,3467,1606,44,1,West Englewood,12178,40.9,Black,Chicago
+189900,2060,118,Single Family Residential,243,3241,1954,45,0,West Englewood,12178,40.9,Black,Chicago
+117000,2025.422782,113,Multi-Family,183,3050,1763,46,0,West Englewood,12178,40.9,Black,Chicago
+130000,2220,102,Single Family Residential,250,3325,2194,43,0,West Englewood,12178,40.9,Black,Chicago
+150000,2025.422782,84,Condo/Co-op,82,676,730,50,42,Uptown,18389,37.6,White,Chicago
+140000,2025.422782,84,Condo/Co-op,109,765,706,50,44,Uptown,18389,37.6,White,Chicago
+200000,1250,49,Condo/Co-op,393,942,462,53,52,Uptown,18389,37.6,White,Chicago
+250000,2025.422782,98,Condo/Co-op,430,1009,458,47,52,Uptown,18389,37.6,White,Chicago
+245000,1340,86,Condo/Co-op,109,765,706,50,44,Uptown,18389,37.6,White,Chicago
+367000,1550,22,Condo/Co-op,391,1063,405,49,48,Uptown,18389,37.6,White,Chicago
+450000,2025.422782,19,Condo/Co-op,235,870,247,67,60,Uptown,18389,37.6,White,Chicago
+549900,2025.422782,-1,Condo/Co-op,198,709,327,71,60,Uptown,18389,37.6,White,Chicago
+699900,2025.422782,-1,Condo/Co-op,198,709,327,71,60,Uptown,18389,37.6,White,Chicago
+649900,2025.422782,-1,Condo/Co-op,198,709,327,71,60,Uptown,18389,37.6,White,Chicago
+624000,2025.422782,-1,Condo/Co-op,208,764,242,64,54,Uptown,18389,37.6,White,Chicago
+649900,2025.422782,0,Condo/Co-op,171,672,371,69,63,Uptown,18389,37.6,White,Chicago
+684000,2025.422782,0,Condo/Co-op,208,764,242,64,54,Uptown,18389,37.6,White,Chicago
+214900,1200,68.46433862,Condo/Co-op,363,1091,372,58,58,Uptown,18389,37.6,White,Chicago
+499999,1700,112,Condo/Co-op,115,1393,415,53,56,Uptown,18389,37.6,White,Chicago
+399900,1300,68.46433862,Condo/Co-op,75,1256,583,53,58,Uptown,18389,37.6,White,Chicago
+474000,2000,68.46433862,Condo/Co-op,159,1249,670,48,52,Uptown,18389,37.6,White,Chicago
+875000,2025.422782,0,Condo/Co-op,382,1193,976,38,39,Uptown,18389,37.6,White,Chicago
+725000,1578,0,Condo/Co-op,382,1193,976,38,39,Uptown,18389,37.6,White,Chicago
+800000,2025.422782,0,Condo/Co-op,382,1193,976,38,39,Uptown,18389,37.6,White,Chicago
+875000,2100,0,Condo/Co-op,382,1193,976,38,39,Uptown,18389,37.6,White,Chicago
+149999,2025.422782,59,Condo/Co-op,49,887,1262,61,18,Uptown,18389,37.6,White,Chicago
+159000,900,61,Condo/Co-op,49,887,1262,61,18,Uptown,18389,37.6,White,Chicago
+155000,2025.422782,97,Condo/Co-op,326,739,1041,73,34,Uptown,18389,37.6,White,Chicago
+105000,906,61,Condo/Co-op,49,887,1262,61,18,Uptown,18389,37.6,White,Chicago
+249900,957,49,Condo/Co-op,93,648,1050,69,24,Uptown,18389,37.6,White,Chicago
+250000,1500,117,Condo/Co-op,302,408,793,69,40,Uptown,18389,37.6,White,Chicago
+325000,1100,57,Condo/Co-op,247,598,977,74,31,Uptown,18389,37.6,White,Chicago
+260000,1442,61,Condo/Co-op,49,887,1262,61,18,Uptown,18389,37.6,White,Chicago
+319000,2025.422782,110,Condo/Co-op,377,709,534,73,45,Uptown,18389,37.6,White,Chicago
+349999,1158,16,Condo/Co-op,178,533,528,76,68,Uptown,18389,37.6,White,Chicago
+314900,1766,119,Condo/Co-op,302,408,793,69,40,Uptown,18389,37.6,White,Chicago
+289900,2025.422782,59,Condo/Co-op,247,598,977,74,31,Uptown,18389,37.6,White,Chicago
+475000,1408,19,Condo/Co-op,303,1260,346,58,59,Uptown,18389,37.6,White,Chicago
+519900,1970,19,Condo/Co-op,215,1016,514,59,41,Uptown,18389,37.6,White,Chicago
+360000,1400,50,Condo/Co-op,93,648,1050,69,24,Uptown,18389,37.6,White,Chicago
+474900,1167,51,Condo/Co-op,93,648,1050,69,24,Uptown,18389,37.6,White,Chicago
+375000,1115,19,Condo/Co-op,111,625,453,73,76,Uptown,18389,37.6,White,Chicago
+485000,2025.422782,49,Condo/Co-op,93,648,1050,69,24,Uptown,18389,37.6,White,Chicago
+535000,2500,121,Condo/Co-op,372,530,490,78,45,Uptown,18389,37.6,White,Chicago
+395000,2025.422782,61,Condo/Co-op,49,887,1262,61,18,Uptown,18389,37.6,White,Chicago
+425000,1420,60,Condo/Co-op,49,887,1262,61,18,Uptown,18389,37.6,White,Chicago
+524000,1790,34,Townhouse,36,688,447,75,68,Uptown,18389,37.6,White,Chicago
+650000,2025.422782,117,Multi-Family,263,912,214,63,81,Uptown,18389,37.6,White,Chicago
+799000,3200,101,Condo/Co-op,201,638,705,70,38,Uptown,18389,37.6,White,Chicago
+1100000,3011,130,Single Family Residential,37,1026,531,56,46,Uptown,18389,37.6,White,Chicago
+149900,2025.422782,68.46433862,Condo/Co-op,92,412,771,51,40,Uptown,18389,37.6,White,Chicago
+120000,401,70,Condo/Co-op,50,190,908,53,38,Uptown,18389,37.6,White,Chicago
+144900,553,69,Condo/Co-op,105,450,746,52,40,Uptown,18389,37.6,White,Chicago
+130000,2025.422782,95,Condo/Co-op,156,297,768,59,47,Uptown,18389,37.6,White,Chicago
+159900,650,70,Condo/Co-op,94,387,778,53,40,Uptown,18389,37.6,White,Chicago
+154900,2025.422782,76,Condo/Co-op,120,390,754,53,42,Uptown,18389,37.6,White,Chicago
+450000,1768,93,Condo/Co-op,148,346,680,62,51,Uptown,18389,37.6,White,Chicago
+418000,2025.422782,100,Condo/Co-op,70,512,763,48,41,Uptown,18389,37.6,White,Chicago
+720000,3000,68.46433862,Condo/Co-op,55,385,621,65,54,Uptown,18389,37.6,White,Chicago
+749000,2025.422782,0,Condo/Co-op,261,800,547,57,77,Uptown,18389,37.6,White,Chicago
+1149000,2258,128,Single Family Residential,203,943,567,51,79,Uptown,18389,37.6,White,Chicago
+700000,3000,18,Condo/Co-op,37,759,188,67,71,Uptown,18389,37.6,White,Chicago
+750000,2179,111,Condo/Co-op,292,798,493,55,73,Uptown,18389,37.6,White,Chicago
+785000,2025.422782,123,Multi-Family,271,1106,264,59,78,Uptown,18389,37.6,White,Chicago
+725000,3013,111,Single Family Residential,88,405,567,67,61,Uptown,18389,37.6,White,Chicago
+649000,2025.422782,0,Condo/Co-op,261,800,547,57,77,Uptown,18389,37.6,White,Chicago
+1350000,2025.422782,58,Multi-Family,405,661,634,51,67,Uptown,18389,37.6,White,Chicago
+170000,750,62,Condo/Co-op,226,805,813,39,51,Uptown,18389,37.6,White,Chicago
+400000,1200,68.46433862,Condo/Co-op,435,615,355,33,42,Uptown,18389,37.6,White,Chicago
+1199000,2025.422782,130,Multi-Family,502,459,852,43,34,Uptown,18389,37.6,White,Chicago
+1350000,2025.422782,147,Single Family Residential,567,297,1025,44,36,Uptown,18389,37.6,White,Chicago
+315000,847,11,Condo/Co-op,273,402,1059,42,41,Uptown,18389,37.6,White,Chicago
+219900,956,94,Single Family Residential,73,2819,583,32,3,Fuller Park,13407,33.1,White,Chicago
+267400,1360,132,Single Family Residential,101,2681,484,40,3,Fuller Park,13407,33.1,White,Chicago
+459900,2025.422782,-1,Single Family Residential,270,2782,636,41,3,Fuller Park,13407,33.1,White,Chicago
+115000,2025.422782,68.46433862,Multi-Family,471,3031,1097,42,2,Fuller Park,13407,33.1,White,Chicago
+39000,960,135,Single Family Residential,487,2258,543,39,0,Fuller Park,13407,33.1,White,Chicago
+45000,2025.422782,68.46433862,Multi-Family,740,2213,1057,33,0,Fuller Park,13407,33.1,White,Chicago
+149900,814,140,Single Family Residential,213,2308,261,42,2,Fuller Park,13407,33.1,White,Chicago
+125000,2025.422782,140,Multi-Family,705,2221,797,35,1,Fuller Park,13407,33.1,White,Chicago
+270000,2025.422782,134,Multi-Family,588,2246,757,38,0,Fuller Park,13407,33.1,White,Chicago
+585000,2025.422782,133,Multi-Family,569,2125,590,42,1,Fuller Park,13407,33.1,White,Chicago
+149900,2025.422782,118,Multi-Family,460,378,708,54,3,East Garfield Park,15452,31.4,Black,Chicago
+169000,1100,112,Condo/Co-op,267,789,542,58,3,East Garfield Park,15452,31.4,Black,Chicago
+185000,2025.422782,15,Condo/Co-op,188,879,406,59,3,East Garfield Park,15452,31.4,Black,Chicago
+171000,2025.422782,108,Multi-Family,356,668,962,43,1,East Garfield Park,15452,31.4,Black,Chicago
+320000,2025.422782,118,Multi-Family,438,307,629,53,1,East Garfield Park,15452,31.4,Black,Chicago
+295000,2250,25,Single Family Residential,118,731,1035,49,3,East Garfield Park,15452,31.4,Black,Chicago
+294999,2157,24,Single Family Residential,89,755,1035,46,3,East Garfield Park,15452,31.4,Black,Chicago
+165000,825,99,Condo/Co-op,853,1727,249,42,2,East Garfield Park,15452,31.4,Black,Chicago
+120000,3000,122,Condo/Co-op,557,1307,331,40,1,East Garfield Park,15452,31.4,Black,Chicago
+209000,2172,133,Single Family Residential,470,1491,924,65,1,East Garfield Park,15452,31.4,Black,Chicago
+174900,2025.422782,101,Condo/Co-op,853,1727,249,42,2,East Garfield Park,15452,31.4,Black,Chicago
+415000,2025.422782,118,Multi-Family,600,1574,792,61,1,East Garfield Park,15452,31.4,Black,Chicago
+375000,2025.422782,135,Multi-Family,796,1413,308,26,1,East Garfield Park,15452,31.4,Black,Chicago
+489000,2025.422782,130,Multi-Family,637,1464,504,53,1,East Garfield Park,15452,31.4,Black,Chicago
+550000,2025.422782,133,Multi-Family,875,1704,249,41,2,East Garfield Park,15452,31.4,Black,Chicago
+699900,2025.422782,1,Multi-Family,607,1426,576,56,1,East Garfield Park,15452,31.4,Black,Chicago
+649000,2025.422782,128,Multi-Family,445,1436,908,66,1,East Garfield Park,15452,31.4,Black,Chicago
+230000,2025.422782,138,Multi-Family,437,1958,831,54,2,East Garfield Park,15452,31.4,Black,Chicago
+175000,2025.422782,148,Multi-Family,214,1974,475,59,2,East Garfield Park,15452,31.4,Black,Chicago
+745000,3180,4,Single Family Residential,719,2037,444,43,8,East Garfield Park,15452,31.4,Black,Chicago
+230000,2025.422782,138,Multi-Family,437,1958,831,54,2,East Garfield Park,15452,31.4,Black,Chicago
+175000,2025.422782,148,Multi-Family,214,1974,475,59,2,East Garfield Park,15452,31.4,Black,Chicago
+745000,3180,4,Single Family Residential,719,2037,444,43,8,East Garfield Park,15452,31.4,Black,Chicago
+219999,1200,16,Condo/Co-op,375,1247,543,53,1,East Garfield Park,15452,31.4,Black,Chicago
+219999,1300,16,Condo/Co-op,375,1247,543,53,1,East Garfield Park,15452,31.4,Black,Chicago
+228000,1300,16,Condo/Co-op,397,1669,973,50,0,East Garfield Park,15452,31.4,Black,Chicago
+180000,2025.422782,128,Multi-Family,396,1628,920,47,0,East Garfield Park,15452,31.4,Black,Chicago
+339000,2025.422782,138,Multi-Family,324,1436,851,51,1,East Garfield Park,15452,31.4,Black,Chicago
+575000,2025.422782,18,Multi-Family,362,1068,465,61,1,East Garfield Park,15452,31.4,Black,Chicago
+190000,2025.422782,128,Multi-Family,261,971,587,39,2,East Garfield Park,15452,31.4,Black,Chicago
+159000,1600,22,Condo/Co-op,407,1076,416,61,4,East Garfield Park,15452,31.4,Black,Chicago
+390000,1718,0,Single Family Residential,315,738,350,46,4,East Garfield Park,15452,31.4,Black,Chicago
+799000,2025.422782,18,Multi-Family,278,736,226,46,5,East Garfield Park,15452,31.4,Black,Chicago
+175000,2025.422782,118,Multi-Family,182,184,527,64,1,East Garfield Park,15452,31.4,Black,Chicago
+299900,2025.422782,118,Multi-Family,269,343,1014,42,1,East Garfield Park,15452,31.4,Black,Chicago
+325000,2025.422782,128,Multi-Family,549,956,730,67,0,East Garfield Park,15452,31.4,Black,Chicago
+559900,2025.422782,113,Multi-Family,235,210,511,61,1,East Garfield Park,15452,31.4,Black,Chicago
+100000,1200,119,Condo/Co-op,75,1203,509,43,1,West Garfield Park,21045,34.8,Black,Chicago
+173000,2025.422782,112,Multi-Family,261,1543,777,40,1,West Garfield Park,21045,34.8,Black,Chicago
+119900,1200,119,Condo/Co-op,75,1203,509,43,1,West Garfield Park,21045,34.8,Black,Chicago
+349000,2025.422782,125,Multi-Family,205,1111,486,40,0,West Garfield Park,21045,34.8,Black,Chicago
+159000,1500,120,Single Family Residential,458,1988,1086,29,2,West Garfield Park,21045,34.8,Black,Chicago
+324900,2025.422782,143,Multi-Family,310,1722,856,23,2,West Garfield Park,21045,34.8,Black,Chicago
+610000,2025.422782,135,Multi-Family,295,1654,807,22,2,West Garfield Park,21045,34.8,Black,Chicago
+65400,940,133,Single Family Residential,371,968,332,20,1,West Garfield Park,21045,34.8,Black,Chicago
+259000,2025.422782,118,Multi-Family,55,1441,506,27,2,West Garfield Park,21045,34.8,Black,Chicago
+160000,2025.422782,108,Multi-Family,797,2843,794,45,0,West Garfield Park,21045,34.8,Black,Chicago
+269500,2025.422782,68.46433862,Multi-Family,850,2788,747,45,0,West Garfield Park,21045,34.8,Black,Chicago
+189900,2025.422782,132,Multi-Family,612,2072,1070,44,2,West Garfield Park,21045,34.8,Black,Chicago
+225000,2025.422782,119,Multi-Family,666,2091,1136,41,2,West Garfield Park,21045,34.8,Black,Chicago
+520000,2025.422782,121,Multi-Family,444,1929,803,50,2,West Garfield Park,21045,34.8,Black,Chicago
+699900,2025.422782,68.46433862,Multi-Family,779,2391,1090,45,2,West Garfield Park,21045,34.8,Black,Chicago
+99000,2025.422782,68.46433862,Multi-Family,407,2815,961,49,1,West Garfield Park,21045,34.8,Black,Chicago
+159900,2025.422782,118,Multi-Family,726,1866,525,53,1,West Garfield Park,21045,34.8,Black,Chicago
+269900,2000,123,Single Family Residential,213,1963,564,47,1,West Garfield Park,21045,34.8,Black,Chicago
+565000,2025.422782,118,Multi-Family,132,1439,338,45,1,West Garfield Park,21045,34.8,Black,Chicago
+299900,1750,68.46433862,Single Family Residential,398,2858,875,47,0,West Garfield Park,21045,34.8,Black,Chicago
+399900,2025.422782,123,Multi-Family,146,2774,920,58,1,West Garfield Park,21045,34.8,Black,Chicago
+125000,2025.422782,118,Multi-Family,332,1683,725,50,1,West Garfield Park,21045,34.8,Black,Chicago
+150000,2025.422782,112,Multi-Family,438,1372,269,51,1,West Garfield Park,21045,34.8,Black,Chicago
+199900,2025.422782,115,Multi-Family,346,1731,731,50,1,West Garfield Park,21045,34.8,Black,Chicago
+199900,2025.422782,110,Multi-Family,402,1342,348,53,1,West Garfield Park,21045,34.8,Black,Chicago
+294000,2025.422782,113,Multi-Family,179,1308,880,43,1,West Garfield Park,21045,34.8,Black,Chicago
+309000,2025.422782,118,Multi-Family,350,1706,717,50,1,West Garfield Park,21045,34.8,Black,Chicago
+259000,2025.422782,115,Multi-Family,282,1742,791,51,1,West Garfield Park,21045,34.8,Black,Chicago
+311000,2025.422782,128,Multi-Family,214,1756,857,47,1,West Garfield Park,21045,34.8,Black,Chicago
+150000,732,143,Single Family Residential,752,1940,449,48,1,West Garfield Park,21045,34.8,Black,Chicago
+139900,2025.422782,139,Multi-Family,219,688,319,20,2,West Garfield Park,21045,34.8,Black,Chicago
+55000,840,68.46433862,Condo/Co-op,126,2523,3475,32,21,Hyde Park,16998,35.5,White,Chicago
+190000,2200,98,Condo/Co-op,126,2523,3475,32,21,Hyde Park,16998,35.5,White,Chicago
+139000,1600,105,Condo/Co-op,53,2726,3822,38,51,Hyde Park,16998,35.5,White,Chicago
+199000,1800,97,Condo/Co-op,126,2523,3475,32,21,Hyde Park,16998,35.5,White,Chicago
+125000,1100,97,Condo/Co-op,75,1693,2419,36,17,Hyde Park,16998,35.5,White,Chicago
+285000,2200,103,Condo/Co-op,126,2523,3475,32,21,Hyde Park,16998,35.5,White,Chicago
+250000,2200,68.46433862,Condo/Co-op,126,2523,3475,32,21,Hyde Park,16998,35.5,White,Chicago
+345000,1700,55,Condo/Co-op,107,2669,3678,42,55,Hyde Park,16998,35.5,White,Chicago
+259900,1650,103,Condo/Co-op,53,2726,3822,38,51,Hyde Park,16998,35.5,White,Chicago
+296000,1550,113,Condo/Co-op,130,2739,3604,35,44,Hyde Park,16998,35.5,White,Chicago
+269000,1400,101,Condo/Co-op,60,2422,3338,29,23,Hyde Park,16998,35.5,White,Chicago
+325000,2400,101,Condo/Co-op,60,2422,3338,29,23,Hyde Park,16998,35.5,White,Chicago
+699000,2600,97,Condo/Co-op,75,1693,2410,34,17,Hyde Park,16998,35.5,White,Chicago
+570000,3000,114,Condo/Co-op,217,2428,3421,35,41,Hyde Park,16998,35.5,White,Chicago
+135000,2025.422782,68.46433862,Condo/Co-op,110,1111,1515,46,10,Hyde Park,16998,35.5,White,Chicago
+105000,2025.422782,113,Condo/Co-op,110,1468,2007,50,30,Hyde Park,16998,35.5,White,Chicago
+85000,700,113,Condo/Co-op,127,1477,1991,52,29,Hyde Park,16998,35.5,White,Chicago
+230000,1100,99,Condo/Co-op,114,1164,1787,44,26,Hyde Park,16998,35.5,White,Chicago
+149500,800,85,Condo/Co-op,114,1164,1787,44,26,Hyde Park,16998,35.5,White,Chicago
+335000,1541,103,Condo/Co-op,123,1497,2080,50,30,Hyde Park,16998,35.5,White,Chicago
+299900,1600,68.46433862,Condo/Co-op,228,1256,1648,46,19,Hyde Park,16998,35.5,White,Chicago
+280000,1600,110,Condo/Co-op,357,1199,1710,49,13,Hyde Park,16998,35.5,White,Chicago
+450000,2100,62,Townhouse,85,1808,2440,37,54,Hyde Park,16998,35.5,White,Chicago
+685000,2018,119,Single Family Residential,196,1563,2076,48,31,Hyde Park,16998,35.5,White,Chicago
+267000,1425,63,Single Family Residential,642,2150,4828,41,8,Hyde Park,16998,35.5,White,Chicago
+145000,2025.422782,101,Condo/Co-op,6,1613,2291,34,12,Hyde Park,16998,35.5,White,Chicago
+140000,850,68.46433862,Condo/Co-op,222,1309,2390,33,54,Hyde Park,16998,35.5,White,Chicago
+160500,2025.422782,103,Condo/Co-op,111,1963,3044,63,66,Hyde Park,16998,35.5,White,Chicago
+194000,1020,68.46433862,Condo/Co-op,103,1804,2595,42,58,Hyde Park,16998,35.5,White,Chicago
+325000,1950,125,Condo/Co-op,150,1395,2441,44,38,Hyde Park,16998,35.5,White,Chicago
+395000,1600,68.46433862,Condo/Co-op,150,1395,2441,44,38,Hyde Park,16998,35.5,White,Chicago
+399900,2025.422782,68.46433862,Condo/Co-op,242,1101,2045,55,34,Hyde Park,16998,35.5,White,Chicago
+560000,2237,63,Townhouse,41,1382,2566,36,73,Hyde Park,16998,35.5,White,Chicago
+1199000,2025.422782,127,Single Family Residential,169,1761,2948,56,77,Hyde Park,16998,35.5,White,Chicago
+895000,2025.422782,98,Multi-Family,122,968,1475,45,4,Hyde Park,16998,35.5,White,Chicago
+74000,2025.422782,123,Single Family Residential,337,2202,823,59,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+149000,2126,130,Single Family Residential,437,3016,1461,40,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+115000,2352,115,Single Family Residential,465,2078,771,52,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+165000,2025.422782,123,Multi-Family,323,2908,1520,43,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+210000,1100,118,Single Family Residential,222,2941,1348,48,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+225000,2025.422782,114,Multi-Family,431,3265,1294,48,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+325000,2800,27,Single Family Residential,163,2378,1225,42,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+340000,2025.422782,68.46433862,Multi-Family,71,2786,1249,47,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+70000,1008,141,Single Family Residential,316,2236,2398,29,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+50000,1251,113,Single Family Residential,229,2111,2531,28,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+55000,2025.422782,133,Single Family Residential,405,2591,2335,53,4,Greater Grand Crossing,11884,39.1,Black,Chicago
+130000,1800,105,Single Family Residential,850,2750,1834,48,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+38300,2025.422782,136,Multi-Family,63,1906,2719,43,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+99500,1495,68.46433862,Single Family Residential,203,2043,2604,30,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+75000,2025.422782,128,Multi-Family,600,2798,2158,47,5,Greater Grand Crossing,11884,39.1,Black,Chicago
+160000,2025.422782,68.46433862,Multi-Family,606,2815,2130,50,5,Greater Grand Crossing,11884,39.1,Black,Chicago
+169000,954,50,Single Family Residential,76,1920,2705,44,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+135000,3125,143,Single Family Residential,188,2048,2545,44,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+214000,2025.422782,110,Single Family Residential,1042,3178,1624,44,5,Greater Grand Crossing,11884,39.1,Black,Chicago
+170000,1406,103,Single Family Residential,1080,3308,1489,39,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+270000,1437,113,Single Family Residential,970,3220,1632,41,5,Greater Grand Crossing,11884,39.1,Black,Chicago
+265000,2025.422782,104,Multi-Family,840,2978,1958,41,5,Greater Grand Crossing,11884,39.1,Black,Chicago
+295000,2025.422782,133,Multi-Family,380,2642,2209,56,4,Greater Grand Crossing,11884,39.1,Black,Chicago
+289900,2000,110,Single Family Residential,870,2809,1795,42,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+354900,2949,133,Single Family Residential,206,2136,2482,34,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+390000,2400,109,Single Family Residential,1057,3307,1504,37,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+225000,2025.422782,129,Multi-Family,265,3475,1407,47,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+425000,2025.422782,138,Multi-Family,284,3463,1538,47,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+253000,2025.422782,21,Multi-Family,119,4131,1189,39,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+495000,2025.422782,99,Multi-Family,97,3629,1263,40,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+220000,1725,68.46433862,Single Family Residential,463,3820,2877,43,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+117000,2025.422782,101,Single Family Residential,690,2363,643,65,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+104000,2025.422782,123,Multi-Family,278,2424,812,58,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+135000,1910,118,Single Family Residential,715,3383,1697,33,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+107400,2025.422782,110,Single Family Residential,510,2437,733,67,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+143000,1290,103,Single Family Residential,329,2548,873,65,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+235000,2025.422782,98,Multi-Family,830,1990,296,65,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+259000,1200,108,Single Family Residential,716,3158,1279,46,4,Greater Grand Crossing,11884,39.1,Black,Chicago
+273000,1911,106,Single Family Residential,958,3393,1163,47,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+400000,3200,107,Single Family Residential,884,3206,1354,43,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+399000,2025.422782,114,Multi-Family,505,2392,696,65,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+75000,2025.422782,68.46433862,Multi-Family,564,3061,1701,63,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+229000,1656,121,Single Family Residential,584,2721,1459,68,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+154400,2025.422782,113,Multi-Family,512,2780,1469,68,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+210000,2025.422782,118,Multi-Family,235,2834,1379,61,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+347000,2025.422782,103,Multi-Family,245,2826,1377,61,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+315000,2025.422782,106,Multi-Family,205,3141,1524,51,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+240500,2025.422782,106,Multi-Family,21,2782,1230,51,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+365000,2025.422782,122,Multi-Family,256,2580,1109,59,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+450000,2025.422782,128,Multi-Family,317,2579,1150,56,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+400000,2025.422782,111,Multi-Family,272,2482,982,64,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+775000,2025.422782,110,Multi-Family,635,3051,1925,48,4,Greater Grand Crossing,11884,39.1,Black,Chicago
+69000,2025.422782,133,Multi-Family,526,1865,2267,25,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+275000,2025.422782,138,Multi-Family,445,1794,2347,20,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+124900,912,51,Single Family Residential,204,1971,2341,30,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+99000,2025.422782,123,Multi-Family,46,1609,2726,36,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+74900,1290,134,Single Family Residential,493,2361,2234,40,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+187900,2025.422782,123,Single Family Residential,305,1744,2428,18,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+249900,2025.422782,125,Multi-Family,140,1702,2528,30,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+305000,2025.422782,128,Multi-Family,230,1509,2912,36,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+279800,1888,68.46433862,Single Family Residential,110,1921,2586,43,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+124900,912,51,Single Family Residential,204,1971,2341,30,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+99000,2025.422782,123,Multi-Family,46,1609,2726,36,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+74900,1290,134,Single Family Residential,493,2361,2234,40,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+187900,2025.422782,123,Single Family Residential,305,1744,2428,18,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+249900,2025.422782,125,Multi-Family,140,1702,2528,30,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+305000,2025.422782,128,Multi-Family,230,1509,2912,36,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+279800,1888,68.46433862,Single Family Residential,110,1921,2586,43,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+165000,1458,98,Single Family Residential,535,4067,564,52,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+175900,1152,108,Single Family Residential,908,3689,993,51,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+308000,1890,104,Single Family Residential,893,3525,1075,45,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+95000,1761,68.46433862,Single Family Residential,918,3508,921,51,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+187900,1176,97,Single Family Residential,889,3664,720,54,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+369900,3100,105,Single Family Residential,1053,3475,1379,42,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+188500,1798,106,Single Family Residential,1057,2931,1675,49,5,Greater Grand Crossing,11884,39.1,Black,Chicago
+215000,1099,104,Single Family Residential,959,3383,1199,38,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+104700,2312,106,Single Family Residential,1055,2939,1656,48,4,Greater Grand Crossing,11884,39.1,Black,Chicago
+130000,1525,108,Single Family Residential,1140,3172,1572,47,5,Greater Grand Crossing,11884,39.1,Black,Chicago
+275000,2900,101,Single Family Residential,1190,3101,1482,48,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+365000,3000,105,Single Family Residential,1120,3044,1540,47,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+550000,2025.422782,100,Multi-Family,1122,3310,1463,40,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+169900,2025.422782,135,Multi-Family,119,1549,3050,44,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+325500,2025.422782,103,Multi-Family,227,1811,2871,29,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+39900,1494,133,Condo/Co-op,664,2344,1123,60,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+39500,1251,118,Single Family Residential,756,1955,480,68,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+219999,1800,105,Single Family Residential,638,2073,593,65,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+160000,1173,117,Single Family Residential,689,2028,486,68,2,Greater Grand Crossing,11884,39.1,Black,Chicago
+250000,2025.422782,102,Multi-Family,931,1828,673,64,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+245000,2155,108,Single Family Residential,908,1728,874,56,1,Greater Grand Crossing,11884,39.1,Black,Chicago
+325000,2025.422782,118,Multi-Family,856,2105,1014,63,0,Greater Grand Crossing,11884,39.1,Black,Chicago
+138900,880,140,Single Family Residential,113,1683,2983,41,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+349900,2300,133,Single Family Residential,89,1920,2725,45,3,Greater Grand Crossing,11884,39.1,Black,Chicago
+112500,1656,138,Single Family Residential,220,3016,1706,38,1,Englewood,13167,37.5,Black,Chicago
+46900,1400,133,Single Family Residential,425,2523,1709,53,0,Englewood,13167,37.5,Black,Chicago
+159000,2025.422782,116,Multi-Family,483,2303,1599,52,0,Englewood,13167,37.5,Black,Chicago
+219953,2025.422782,68.46433862,Single Family Residential,402,2675,1901,54,0,Englewood,13167,37.5,Black,Chicago
+165000,1772,123,Single Family Residential,128,2594,1921,52,0,Englewood,13167,37.5,Black,Chicago
+239000,1360,61,Single Family Residential,38,1872,682,52,2,Englewood,13167,37.5,Black,Chicago
+85000,2025.422782,128,Multi-Family,450,2477,1625,37,1,Englewood,13167,37.5,Black,Chicago
+72500,841,143,Single Family Residential,762,1864,1077,38,1,Englewood,13167,37.5,Black,Chicago
+100000,1209,128,Single Family Residential,930,2545,2022,42,1,Englewood,13167,37.5,Black,Chicago
+150000,2025.422782,130,Multi-Family,589,1917,1410,36,1,Englewood,13167,37.5,Black,Chicago
+220000,2025.422782,138,Multi-Family,592,1870,1337,33,1,Englewood,13167,37.5,Black,Chicago
+219000,1696,123,Single Family Residential,649,1958,1413,37,1,Englewood,13167,37.5,Black,Chicago
+275000,2025.422782,123,Multi-Family,591,1897,1379,35,1,Englewood,13167,37.5,Black,Chicago
+235000,2025.422782,115,Multi-Family,1143,3078,2481,40,0,Englewood,13167,37.5,Black,Chicago
+69000,1988,133,Single Family Residential,241,1905,1404,35,1,Englewood,13167,37.5,Black,Chicago
+199000,2025.422782,110,Multi-Family,209,2506,1953,37,1,Englewood,13167,37.5,Black,Chicago
+165000,2025.422782,128,Multi-Family,130,2366,1836,39,1,Englewood,13167,37.5,Black,Chicago
+329900,2025.422782,129,Multi-Family,131,2272,1804,40,1,Englewood,13167,37.5,Black,Chicago
+279900,2025.422782,126,Multi-Family,304,1934,1764,31,1,Englewood,13167,37.5,Black,Chicago
+376000,2025.422782,117,Multi-Family,193,2749,2053,33,0,Englewood,13167,37.5,Black,Chicago
+379000,2025.422782,68.46433862,Multi-Family,225,3022,2213,33,0,Englewood,13167,37.5,Black,Chicago
+479999,2025.422782,113,Multi-Family,301,3082,2373,33,0,Englewood,13167,37.5,Black,Chicago
+79000,2025.422782,135,Multi-Family,868,2957,2568,38,0,Englewood,13167,37.5,Black,Chicago
+119900,2025.422782,113,Multi-Family,1068,3104,2547,40,0,Englewood,13167,37.5,Black,Chicago
+99000,1500,128,Single Family Residential,870,2942,2549,41,0,Englewood,13167,37.5,Black,Chicago
+209999,1248,133,Single Family Residential,704,2800,2438,45,1,Englewood,13167,37.5,Black,Chicago
+229900,1908,116,Single Family Residential,905,3296,2720,32,0,Englewood,13167,37.5,Black,Chicago
+234000,1500,115,Single Family Residential,1077,3065,2538,41,0,Englewood,13167,37.5,Black,Chicago
+150000,940,61,Single Family Residential,443,3665,3173,36,0,Englewood,13167,37.5,Black,Chicago
+63000,2025.422782,119,Multi-Family,677,3159,2660,39,0,Englewood,13167,37.5,Black,Chicago
+129000,1758,114,Single Family Residential,692,3134,2647,39,0,Englewood,13167,37.5,Black,Chicago
+299000,910,108,Single Family Residential,811,3289,2875,37,0,Englewood,13167,37.5,Black,Chicago
+300000,2025.422782,16,Multi-Family,804,3309,2871,39,0,Englewood,13167,37.5,Black,Chicago
+145900,2025.422782,125,Multi-Family,711,1697,569,38,4,Englewood,13167,37.5,Black,Chicago
+165000,2025.422782,143,Multi-Family,218,1075,855,31,1,Englewood,13167,37.5,Black,Chicago
+339000,2025.422782,138,Multi-Family,90,1161,1164,28,1,Englewood,13167,37.5,Black,Chicago
+295000,2025.422782,118,Multi-Family,713,1549,392,36,4,Englewood,13167,37.5,Black,Chicago
+315000,2025.422782,126,Multi-Family,712,1835,954,41,1,Englewood,13167,37.5,Black,Chicago
+290000,2138,128,Single Family Residential,389,789,965,35,0,Englewood,13167,37.5,Black,Chicago
+595000,2025.422782,118,Multi-Family,458,730,905,32,2,Englewood,13167,37.5,Black,Chicago
+389000,2025.422782,123,Multi-Family,16,3313,2083,36,0,Englewood,13167,37.5,Black,Chicago
+120000,2025.422782,139,Multi-Family,157,2282,1064,33,2,Englewood,13167,37.5,Black,Chicago
+59900,2025.422782,113,Multi-Family,386,2012,799,39,2,Englewood,13167,37.5,Black,Chicago
+77000,2025.422782,110,Multi-Family,305,2111,962,38,2,Englewood,13167,37.5,Black,Chicago
+70000,2025.422782,68.46433862,Multi-Family,32,2377,1145,28,2,Englewood,13167,37.5,Black,Chicago
+184250,2025.422782,68.46433862,Multi-Family,317,2243,1275,37,1,Englewood,13167,37.5,Black,Chicago
+270000,2025.422782,118,Multi-Family,446,1956,741,41,4,Englewood,13167,37.5,Black,Chicago
+399000,2025.422782,132,Multi-Family,217,2222,1003,37,2,Englewood,13167,37.5,Black,Chicago
+6000,2025.422782,131,Multi-Family,541,2225,1213,47,2,Englewood,13167,37.5,Black,Chicago
+65000,2025.422782,118,Multi-Family,436,1855,1066,42,3,Englewood,13167,37.5,Black,Chicago
+45000,2025.422782,131,Multi-Family,148,1849,655,45,4,Englewood,13167,37.5,Black,Chicago
+110000,2025.422782,128,Multi-Family,552,2300,1291,45,2,Englewood,13167,37.5,Black,Chicago
+44900,800,131,Single Family Residential,428,2551,1492,37,1,Englewood,13167,37.5,Black,Chicago
+68000,2025.422782,128,Multi-Family,108,1986,783,45,4,Englewood,13167,37.5,Black,Chicago
+129000,2025.422782,133,Multi-Family,504,2502,1291,40,2,Englewood,13167,37.5,Black,Chicago
+139900,2025.422782,68.46433862,Multi-Family,211,1949,854,50,4,Englewood,13167,37.5,Black,Chicago
+189000,1596,128,Single Family Residential,540,1347,1221,36,2,Englewood,13167,37.5,Black,Chicago
+159900,2025.422782,134,Multi-Family,472,876,749,41,3,Englewood,13167,37.5,Black,Chicago
+360000,2025.422782,68.46433862,Multi-Family,395,2434,1175,40,2,Englewood,13167,37.5,Black,Chicago
+39000,756,128,Single Family Residential,103,2701,1752,45,0,Englewood,13167,37.5,Black,Chicago
+35000,2025.422782,130,Multi-Family,53,2750,1790,42,0,Englewood,13167,37.5,Black,Chicago
+190000,2025.422782,133,Multi-Family,405,2440,1574,46,0,Englewood,13167,37.5,Black,Chicago
+200000,2025.422782,68.46433862,Multi-Family,180,2796,1937,52,0,Englewood,13167,37.5,Black,Chicago
+179900,1680,133,Single Family Residential,506,1689,1283,33,0,Englewood,13167,37.5,Black,Chicago
+295000,2025.422782,128,Multi-Family,121,2844,1969,46,0,Englewood,13167,37.5,Black,Chicago
+189900,1712,68.46433862,Single Family Residential,619,1622,968,34,1,Englewood,13167,37.5,Black,Chicago
+90000,2025.422782,115,Multi-Family,123,1811,1523,48,3,North Lawndale,15844,34.9,Black,Chicago
+225000,2025.422782,120,Multi-Family,384,1664,876,37,1,North Lawndale,15844,34.9,Black,Chicago
+349900,2025.422782,118,Multi-Family,449,1574,991,34,2,North Lawndale,15844,34.9,Black,Chicago
+334900,2025.422782,108,Multi-Family,576,1790,1065,34,1,North Lawndale,15844,34.9,Black,Chicago
+430000,2025.422782,115,Multi-Family,42,1776,1499,41,3,North Lawndale,15844,34.9,Black,Chicago
+669899,2025.422782,112,Multi-Family,289,2303,1058,46,2,North Lawndale,15844,34.9,Black,Chicago
+299000,2025.422782,134,Multi-Family,218,1796,649,50,2,North Lawndale,15844,34.9,Black,Chicago
+299000,2025.422782,123,Multi-Family,268,1935,902,47,1,North Lawndale,15844,34.9,Black,Chicago
+449500,2025.422782,68.46433862,Multi-Family,599,2148,461,57,3,North Lawndale,15844,34.9,Black,Chicago
+459900,2025.422782,128,Multi-Family,124,1834,977,56,2,North Lawndale,15844,34.9,Black,Chicago
+99280,2025.422782,124,Multi-Family,332,1466,1240,60,2,North Lawndale,15844,34.9,Black,Chicago
+220000,2025.422782,113,Multi-Family,45,1457,995,56,0,North Lawndale,15844,34.9,Black,Chicago
+289000,2025.422782,138,Multi-Family,137,1462,923,56,0,North Lawndale,15844,34.9,Black,Chicago
+565000,2025.422782,128,Multi-Family,179,1260,950,59,0,North Lawndale,15844,34.9,Black,Chicago
+449000,2025.422782,109,Multi-Family,190,1160,797,48,0,North Lawndale,15844,34.9,Black,Chicago
+839900,2025.422782,109,Multi-Family,7,1779,1108,56,1,North Lawndale,15844,34.9,Black,Chicago
+549900,2025.422782,116,Multi-Family,44,1324,920,56,0,North Lawndale,15844,34.9,Black,Chicago
+127500,1300,117,Condo/Co-op,126,704,460,45,1,North Lawndale,15844,34.9,Black,Chicago
+300000,2025.422782,110,Multi-Family,153,1669,720,52,1,North Lawndale,15844,34.9,Black,Chicago
+349999,2025.422782,128,Multi-Family,120,1041,1465,55,2,North Lawndale,15844,34.9,Black,Chicago
+127500,1300,117,Condo/Co-op,126,704,460,45,1,North Lawndale,15844,34.9,Black,Chicago
+349999,2025.422782,128,Multi-Family,120,1041,1465,55,2,North Lawndale,15844,34.9,Black,Chicago
+300000,2025.422782,110,Multi-Family,153,1669,720,52,1,North Lawndale,15844,34.9,Black,Chicago
+52500,2025.422782,68.46433862,Multi-Family,216,2433,1492,38,2,North Lawndale,15844,34.9,Black,Chicago
+94900,2025.422782,138,Multi-Family,468,2920,1494,16,1,North Lawndale,15844,34.9,Black,Chicago
+199000,2025.422782,68.46433862,Multi-Family,171,2686,1526,33,1,North Lawndale,15844,34.9,Black,Chicago
+259900,1066,119,Single Family Residential,374,2219,1360,39,2,North Lawndale,15844,34.9,Black,Chicago
+455420,2025.422782,13,Multi-Family,245,2675,1418,38,2,North Lawndale,15844,34.9,Black,Chicago
+375000,2025.422782,108,Multi-Family,259,2627,1475,37,2,North Lawndale,15844,34.9,Black,Chicago
+139900,2025.422782,68.46433862,Multi-Family,229,1092,1110,45,1,North Lawndale,15844,34.9,Black,Chicago
+400000,2025.422782,100,Multi-Family,146,935,1258,46,1,North Lawndale,15844,34.9,Black,Chicago
+445000,2025.422782,68.46433862,Multi-Family,130,157,1344,40,5,North Lawndale,15844,34.9,Black,Chicago
+576000,2025.422782,125,Multi-Family,40,194,1377,39,4,North Lawndale,15844,34.9,Black,Chicago
+575000,2025.422782,133,Multi-Family,41,466,1654,37,2,North Lawndale,15844,34.9,Black,Chicago
+445000,2025.422782,68.46433862,Multi-Family,130,157,1344,40,5,North Lawndale,15844,34.9,Black,Chicago
+576000,2025.422782,125,Multi-Family,40,194,1377,39,4,North Lawndale,15844,34.9,Black,Chicago
+575000,2025.422782,133,Multi-Family,41,466,1654,37,2,North Lawndale,15844,34.9,Black,Chicago
+138000,2025.422782,128,Multi-Family,139,1490,385,59,1,North Lawndale,15844,34.9,Black,Chicago
+180000,2025.422782,136,Multi-Family,185,1434,440,59,1,North Lawndale,15844,34.9,Black,Chicago
+349000,2000,143,Single Family Residential,255,2287,488,52,2,North Lawndale,15844,34.9,Black,Chicago
+225000,2025.422782,118,Multi-Family,818,2405,619,59,4,North Lawndale,15844,34.9,Black,Chicago
+229000,2025.422782,116,Multi-Family,614,2257,406,61,4,North Lawndale,15844,34.9,Black,Chicago
+189900,2025.422782,22,Single Family Residential,94,2355,1148,47,3,North Lawndale,15844,34.9,Black,Chicago
+168900,2025.422782,120,Multi-Family,185,2662,883,43,2,North Lawndale,15844,34.9,Black,Chicago
+365000,2025.422782,123,Multi-Family,46,2422,1126,44,3,North Lawndale,15844,34.9,Black,Chicago
+599000,2025.422782,112,Multi-Family,478,2769,612,49,4,North Lawndale,15844,34.9,Black,Chicago
+149900,2025.422782,123,Multi-Family,125,1705,1527,57,3,North Lawndale,15844,34.9,Black,Chicago
+125000,1300,133,Single Family Residential,118,2759,1001,39,3,North Lawndale,15844,34.9,Black,Chicago
+160000,2025.422782,115,Multi-Family,692,2863,367,48,4,North Lawndale,15844,34.9,Black,Chicago
+180000,2025.422782,113,Multi-Family,957,3377,456,43,2,North Lawndale,15844,34.9,Black,Chicago
+139000,1100,68.46433862,Single Family Residential,395,3167,612,39,3,North Lawndale,15844,34.9,Black,Chicago
+749900,2025.422782,102,Multi-Family,175,3396,858,18,1,North Lawndale,15844,34.9,Black,Chicago
+300000,2025.422782,123,Multi-Family,635,5611,1667,22,6,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+350000,1400,75,Single Family Residential,61,5661,473,35,3,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+425000,2025.422782,142,Single Family Residential,728,4048,1210,48,4,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+398000,2025.422782,114,Multi-Family,735,3919,1192,43,3,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+180000,2025.422782,138,Multi-Family,670,4742,1992,53,5,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+248000,1366,128,Single Family Residential,203,5184,2083,33,3,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+375000,2025.422782,127,Multi-Family,337,5206,1717,37,7,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+269000,2025.422782,118,Single Family Residential,1002,5054,2572,46,2,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+399900,2025.422782,68.46433862,Multi-Family,600,5560,2097,43,1,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+499000,2025.422782,106,Multi-Family,906,5588,2036,42,1,Brighton Park,15944,32.7,Hispanic or Latino,Chicago
+35000,2025.422782,53,Condo/Co-op,213,2586,3067,36,13,Kenwood,14458,41.5,Black,Chicago
+94800,796,61,Condo/Co-op,92,3064,3605,30,16,Kenwood,14458,41.5,Black,Chicago
+172999,1100,120,Condo/Co-op,372,1905,2223,27,13,Kenwood,14458,41.5,Black,Chicago
+135000,796,61,Condo/Co-op,92,3064,3605,30,16,Kenwood,14458,41.5,Black,Chicago
+150000,796,61,Condo/Co-op,92,3064,3605,30,16,Kenwood,14458,41.5,Black,Chicago
+129000,1600,96,Condo/Co-op,243,3015,3657,35,36,Kenwood,14458,41.5,Black,Chicago
+207333,1058,63,Condo/Co-op,92,3064,3605,30,16,Kenwood,14458,41.5,Black,Chicago
+225000,1000,118,Condo/Co-op,250,2544,3101,42,49,Kenwood,14458,41.5,Black,Chicago
+325000,2025.422782,68.46433862,Condo/Co-op,154,2547,3088,44,49,Kenwood,14458,41.5,Black,Chicago
+440000,2500,105,Condo/Co-op,321,1987,2525,32,42,Kenwood,14458,41.5,Black,Chicago
+824999,2025.422782,1,Townhouse,67,2410,2944,37,19,Kenwood,14458,41.5,Black,Chicago
+874999,2025.422782,2,Townhouse,67,2410,2944,37,19,Kenwood,14458,41.5,Black,Chicago
+1050000,2025.422782,1,Townhouse,67,2410,2944,37,19,Kenwood,14458,41.5,Black,Chicago
+250000,2100,128,Single Family Residential,334,2337,1963,33,9,Kenwood,14458,41.5,Black,Chicago
+246500,1200,14,Condo/Co-op,79,2590,2158,23,7,Kenwood,14458,41.5,Black,Chicago
+299000,2025.422782,132,Condo/Co-op,125,2487,2247,27,11,Kenwood,14458,41.5,Black,Chicago
+325000,1850,17,Condo/Co-op,61,2562,2542,21,10,Kenwood,14458,41.5,Black,Chicago
+365000,1850,17,Condo/Co-op,61,2562,2542,21,10,Kenwood,14458,41.5,Black,Chicago
+399000,1700,15,Condo/Co-op,63,2565,2557,21,10,Kenwood,14458,41.5,Black,Chicago
+445000,1799,18,Townhouse,251,2247,2434,24,10,Kenwood,14458,41.5,Black,Chicago
+388900,1200,15,Condo/Co-op,70,2557,2553,21,10,Kenwood,14458,41.5,Black,Chicago
+389000,1200,15,Condo/Co-op,70,2557,2553,21,10,Kenwood,14458,41.5,Black,Chicago
+650000,3000,129,Single Family Residential,246,2335,2101,32,10,Kenwood,14458,41.5,Black,Chicago
+250000,2100,128,Single Family Residential,334,2337,1963,33,9,Kenwood,14458,41.5,Black,Chicago
+246500,1200,14,Condo/Co-op,79,2590,2158,23,7,Kenwood,14458,41.5,Black,Chicago
+299000,2025.422782,132,Condo/Co-op,125,2487,2247,27,11,Kenwood,14458,41.5,Black,Chicago
+325000,1850,17,Condo/Co-op,61,2562,2542,21,10,Kenwood,14458,41.5,Black,Chicago
+365000,1850,17,Condo/Co-op,61,2562,2542,21,10,Kenwood,14458,41.5,Black,Chicago
+399000,1700,15,Condo/Co-op,63,2565,2557,21,10,Kenwood,14458,41.5,Black,Chicago
+445000,1799,18,Townhouse,251,2247,2434,24,10,Kenwood,14458,41.5,Black,Chicago
+388900,1200,15,Condo/Co-op,70,2557,2553,21,10,Kenwood,14458,41.5,Black,Chicago
+389000,1200,15,Condo/Co-op,70,2557,2553,21,10,Kenwood,14458,41.5,Black,Chicago
+650000,3000,129,Single Family Residential,246,2335,2101,32,10,Kenwood,14458,41.5,Black,Chicago
+170000,1125,67,Townhouse,530,1196,1529,44,9,Kenwood,14458,41.5,Black,Chicago
+169500,1800,98,Condo/Co-op,213,1111,1644,46,9,Kenwood,14458,41.5,Black,Chicago
+225000,1280,68.46433862,Condo/Co-op,102,1035,1574,48,8,Kenwood,14458,41.5,Black,Chicago
+505000,2018,18,Townhouse,570,1471,1823,38,10,Kenwood,14458,41.5,Black,Chicago
+599900,2300,0,Townhouse,442,1907,1597,42,14,Kenwood,14458,41.5,Black,Chicago
+599900,2300,0,Townhouse,442,1907,1597,42,14,Kenwood,14458,41.5,Black,Chicago
+300000,2498,14,Single Family Residential,754,1893,406,44,5,Washington Park,11203,33.1,Black,Chicago
+104900,950,122,Condo/Co-op,719,1524,1106,54,0,Washington Park,11203,33.1,Black,Chicago
+92000,800,83,Condo/Co-op,129,1616,1086,33,2,Washington Park,11203,33.1,Black,Chicago
+139900,1068,68.46433862,Single Family Residential,523,1335,968,57,0,Washington Park,11203,33.1,Black,Chicago
+16001,800,68.46433862,Condo/Co-op,653,1646,1036,54,2,Washington Park,11203,33.1,Black,Chicago
+339000,2025.422782,133,Multi-Family,230,1723,1033,40,2,Washington Park,11203,33.1,Black,Chicago
+775000,2025.422782,132,Multi-Family,443,1784,797,54,2,Washington Park,11203,33.1,Black,Chicago
+600000,2025.422782,128,Multi-Family,615,1408,1045,53,0,Washington Park,11203,33.1,Black,Chicago
+998900,2025.422782,103,Multi-Family,237,1740,962,45,2,Washington Park,11203,33.1,Black,Chicago
+104900,950,122,Condo/Co-op,719,1524,1106,54,0,Washington Park,11203,33.1,Black,Chicago
+92000,800,83,Condo/Co-op,129,1616,1086,33,2,Washington Park,11203,33.1,Black,Chicago
+139900,1068,68.46433862,Single Family Residential,523,1335,968,57,0,Washington Park,11203,33.1,Black,Chicago
+16001,800,68.46433862,Condo/Co-op,653,1646,1036,54,2,Washington Park,11203,33.1,Black,Chicago
+339000,2025.422782,133,Multi-Family,230,1723,1033,40,2,Washington Park,11203,33.1,Black,Chicago
+775000,2025.422782,132,Multi-Family,443,1784,797,54,2,Washington Park,11203,33.1,Black,Chicago
+600000,2025.422782,128,Multi-Family,615,1408,1045,53,0,Washington Park,11203,33.1,Black,Chicago
+998900,2025.422782,103,Multi-Family,237,1740,962,45,2,Washington Park,11203,33.1,Black,Chicago
+159999,1500,68.46433862,Condo/Co-op,160,1691,663,33,3,Washington Park,11203,33.1,Black,Chicago
+350000,2000,113,Condo/Co-op,293,2089,895,56,4,Washington Park,11203,33.1,Black,Chicago
+270000,1600,124,Condo/Co-op,154,1661,779,37,4,Washington Park,11203,33.1,Black,Chicago
+349900,1741,119,Single Family Residential,416,2042,866,55,5,Washington Park,11203,33.1,Black,Chicago
+415000,3000,68.46433862,Single Family Residential,509,1992,1096,42,4,Washington Park,11203,33.1,Black,Chicago
+430000,2025.422782,118,Multi-Family,249,2078,849,53,4,Washington Park,11203,33.1,Black,Chicago
+690000,2025.422782,114,Multi-Family,212,1695,1063,42,5,Washington Park,11203,33.1,Black,Chicago
+1125000,2025.422782,117,Multi-Family,288,2084,862,53,4,Washington Park,11203,33.1,Black,Chicago
+189999,1200,17,Condo/Co-op,701,1073,579,54,9,Washington Park,11203,33.1,Black,Chicago
+210000,1600,120,Condo/Co-op,32,629,532,43,8,Washington Park,11203,33.1,Black,Chicago
+349000,1500,0,Condo/Co-op,233,1542,324,41,4,Washington Park,11203,33.1,Black,Chicago
+354900,1900,115,Condo/Co-op,674,1088,619,55,9,Washington Park,11203,33.1,Black,Chicago
+739000,2025.422782,68.46433862,Multi-Family,511,1144,365,56,9,Washington Park,11203,33.1,Black,Chicago
+175000,966,72,Townhouse,118,1758,5574,23,3,South Deering,11426,41,Black,Chicago
+159999,1250,78,Townhouse,231,1458,5531,21,3,South Deering,11426,41,Black,Chicago
+127000,800,68.46433862,Condo/Co-op,79,778,1537,52,2,Douglas,9881,37.8,Black,Chicago
+87000,485,50,Condo/Co-op,30,1090,1244,52,4,Douglas,9881,37.8,Black,Chicago
+130000,750,54,Condo/Co-op,109,826,1488,54,3,Douglas,9881,37.8,Black,Chicago
+199999,1000,68.46433862,Condo/Co-op,74,1013,1308,53,4,Douglas,9881,37.8,Black,Chicago
+139000,800,52,Condo/Co-op,75,992,1328,54,4,Douglas,9881,37.8,Black,Chicago
+137000,750,51,Condo/Co-op,499,226,1316,40,3,Douglas,9881,37.8,Black,Chicago
+260000,1200,52,Condo/Co-op,499,226,1316,40,3,Douglas,9881,37.8,Black,Chicago
+275000,2025.422782,51,Condo/Co-op,499,226,1316,40,3,Douglas,9881,37.8,Black,Chicago
+275000,1500,68.46433862,Condo/Co-op,512,1758,738,61,14,Douglas,9881,37.8,Black,Chicago
+275000,1250,68.46433862,Condo/Co-op,512,1758,738,61,14,Douglas,9881,37.8,Black,Chicago
+309500,1600,19,Condo/Co-op,190,3105,646,58,6,Douglas,9881,37.8,Black,Chicago
+589000,1878,25,Single Family Residential,265,2839,946,56,10,Douglas,9881,37.8,Black,Chicago
+460000,2025.422782,22,Multi-Family,246,3068,766,54,8,Douglas,9881,37.8,Black,Chicago
+360000,2025.422782,133,Multi-Family,371,2786,997,56,9,Douglas,9881,37.8,Black,Chicago
+499000,2025.422782,75,Multi-Family,235,2929,743,66,6,Douglas,9881,37.8,Black,Chicago
+709900,2800,0,Single Family Residential,393,3218,517,38,1,Douglas,9881,37.8,Black,Chicago
+709900,2800,0,Single Family Residential,335,3264,512,42,1,Douglas,9881,37.8,Black,Chicago
+215000,1364,79,Single Family Residential,261,834,5474,37,1,South Chicago,13962,42,Black,Chicago
+125900,796,81,Townhouse,744,746,5506,40,1,South Chicago,13962,42,Black,Chicago
+179900,1640,68.46433862,Single Family Residential,302,956,5329,45,3,South Chicago,13962,42,Black,Chicago
+229999,880,123,Single Family Residential,963,1052,4737,54,2,South Chicago,13962,42,Black,Chicago
+240000,2329,109,Single Family Residential,716,1289,4882,59,3,South Chicago,13962,42,Black,Chicago
+365000,2025.422782,100,Multi-Family,531,786,5449,39,1,South Chicago,13962,42,Black,Chicago
+215000,1364,79,Single Family Residential,261,834,5474,37,1,South Chicago,13962,42,Black,Chicago
+125900,796,81,Townhouse,744,746,5506,40,1,South Chicago,13962,42,Black,Chicago
+179900,1640,68.46433862,Single Family Residential,302,956,5329,45,3,South Chicago,13962,42,Black,Chicago
+229999,880,123,Single Family Residential,963,1052,4737,54,2,South Chicago,13962,42,Black,Chicago
+240000,2329,109,Single Family Residential,716,1289,4882,59,3,South Chicago,13962,42,Black,Chicago
+365000,2025.422782,100,Multi-Family,531,786,5449,39,1,South Chicago,13962,42,Black,Chicago
