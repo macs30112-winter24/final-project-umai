@@ -1,0 +1,75 @@
+```{r setup, include=FALSE}
+library(tidyverse)
+library(dplyr)
+library(rio)
+```
+
+```{r import.relevant.data}
+chi_final_for_regression <- read_csv('~/Desktop/final-project-umai/data analysis/chi_final_for_regression.csv')
+chi <-import('~/Desktop/final-project-umai/data collection&cleaning/poverty/chi.csv')
+nyc_old <-import('~/Desktop/final-project-umai/data collection&cleaning/poverty/nyc.csv')
+la <-import('~/Desktop/final-project-umai/data collection&cleaning/poverty/la.csv')
+```
+
+```{r}
+#combining poverty rates by neighborhood in 3 cities
+nyc <- data.frame(
+  community = nyc_old$Name,
+  poverty.rate = nyc_old$poverty.rate,
+  city = "New York City"
+)
+
+chi$city <- 'Chicago'
+names(chi)[2] <- 'poverty.rate'
+names(chi)[1] <- 'community'
+names(la)[2] <- 'poverty.rate'
+chi$poverty.rate <- as.numeric(gsub("%", "", chi$poverty.rate))
+nyc$poverty.rate <- as.numeric(gsub("%", "", nyc$poverty.rate))
+all <- rbind(chi, nyc, la)
+
+all <- all %>%
+  mutate(poverty_category = ifelse(poverty.rate > 20, 'High-poverty neighborhood', 'Not of interest'))
+```
+
+```{r poverty.rate.descriptive.viz}
+HP <- all %>%
+  filter(community == 'Hyde Park' & city == 'Chicago')
+
+ggplot(all, aes(x = community, y = poverty.rate, color = poverty_category)) +
+  geom_point(size = 1) +
+  geom_hline(yintercept = 20, linetype = "dashed", color = "red") +
+  labs(title = element_text("2022 Poverty Rate by Neighborhood", face = "bold"),
+       subtitle = "New York City, City of Los Angeles, & Chicago",
+       x = "Neighborhood Name (Omitted)",
+       y = "Poverty Rate",
+       color = 'Neighborhood Category') +
+  scale_y_continuous(labels = scales::percent_format(scale = 1)) + 
+  theme(axis.text.x = element_blank()) +  
+  theme_linedraw() +
+  scale_color_manual(values = c("High-poverty neighborhood" = "#ff0039", 
+                                "Not of interest" = "#063970")) +
+  geom_point(data = HP, aes(x = community, y = poverty.rate), color = "gold", size = 1.8) + 
+  theme(legend.title = element_text(size = 6),
+        legend.text = element_text(size = 6),
+        axis.text.x = element_blank(),  
+        axis.ticks.x = element_blank(),
+        text = element_text(family = "Georgia"))
+```
+
+
+```{r}
+#Interaction Plot of Square Footage and Price by Property Type
+ggplot(filtered_data, aes(x = SQFT, y = PRICE, color = PROP_TYPE)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE, linetype = "dashed") +
+  labs(x = "Square Footage", y = "Price", title = "Interaction Plot of SQFT and Price by Property Type") +
+  scale_color_manual(values = c("Ranch" = "#FFCF9D", "Single Family Residential" = "#8c510a", "Townhouse" = "#004225", "Condo/Co-op" = "#F5F5DC")) +
+  theme_minimal() +
+  theme(
+    text = element_text(family = "Georgia"),
+    panel.background = element_rect(fill = "white"),  
+    plot.background = element_rect(fill = "white"),    
+    plot.margin = margin(5, 5, 5, 5, "pt")   
+  ) +
+  guides(color = guide_legend(title = "Property Type", override.aes = list(shape = NA), keywidth = 0.7))
+```
