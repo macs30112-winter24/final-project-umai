@@ -25,7 +25,7 @@ The above findings hold true, but with Chicago showing a preference for single-f
 **Library Version**\
 pandas: 1.5.3 & 2.2.0; numpy: 1.24.3; seaborn: 0.12.2; matplotlib:3.7.1; plotly: 5.9.0 & 4.10.4; shapely: 2.0.3; geopandas: 0.14.3; requests: 2.31.0; beautifulsoup4: 4.12.3; tidyverse: 2.0.0; dplyr:2.4.0; stats4: 4.3.2; rio: 1.0.1; jtools: 2.2.2; Hmisc: 5.1-1; ggplot2: 3.4.4; patchwork: 1.2.0; selenium: 4.17.2
 
-**Responsibility**\
+**Responsibility**
 - Progress Report: Xuewei Li & Kuang Sheng
 - Data Collection & Cleaning:
   - poverty rate - Xuewei Li;
